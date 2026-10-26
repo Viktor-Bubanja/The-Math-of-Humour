@@ -6,7 +6,7 @@ Code, data and figures for the blog post **[Laughter as a Compression Dividend](
 
 ## The idea
 
-A listener reading a joke entertains interpretations $M$ (scripts, word senses, frames). MDL scores each one as a two-part code:
+When you hear a joke, you entertain interpretations $M$ (scripts, word senses, frames). MDL scores each one as a two-part code:
 
 ```math
 \text{MDL}(M;\, s, p) \;=\; \underbrace{L(M)}_{\text{choose an interpretation}} \;+\; \underbrace{-\log_2 p(s, p \mid M)}_{\text{encode setup } s \text{ and punchline } p \text{ under it}}
