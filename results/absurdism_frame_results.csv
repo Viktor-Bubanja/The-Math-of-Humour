@@ -1,0 +1,33 @@
+name,category,surprisal_absurd_frame,surprisal_joke_frame,surprisal_memo_frame,best_frame
+Chicken,absurdist,1.051,1.129,0.358,memo
+Brick,absurdist,3.013,2.506,4.313,joke
+Grass wheels,absurdist,4.920,5.281,5.384,absurd
+Horse bar,absurdist,3.923,4.582,4.207,absurd
+No arms dog,absurdist,3.287,3.648,3.625,absurd
+Ladder ocean,absurdist,9.741,11.181,10.904,absurd
+Tuesday colour,absurdist,6.468,6.870,7.661,absurd
+Raven desk,absurdist,7.969,8.470,8.746,absurd
+Soup opinion,absurdist,6.272,7.015,6.753,absurd
+Calendar,absurdist,4.442,4.802,4.382,memo
+Onions,joke,4.724,4.892,5.365,absurd
+Watch eat,joke,4.579,4.913,5.959,absurd
+Skydiving,joke,4.327,4.221,5.087,joke
+At peace,joke,4.951,4.842,6.026,joke
+Escape room,joke,3.587,4.180,3.797,absurd
+Inherited humour,joke,6.792,6.407,7.063,joke
+Vacuum song,joke,4.393,4.390,5.123,joke
+Elevator job,joke,3.219,2.954,3.673,joke
+Power plant,joke,3.977,3.503,4.255,joke
+Limit,joke,4.987,4.456,4.991,joke
+WiFi therapy,joke,5.344,4.922,5.238,joke
+Glacier,joke,5.559,5.182,5.366,joke
+Meeting,control,2.752,2.637,3.246,joke
+Weather,control,4.920,5.349,3.808,memo
+Train,control,3.955,3.224,3.804,joke
+Window,control,5.382,5.209,5.807,joke
+Report,control,5.315,4.666,5.083,joke
+Coffee,control,2.526,2.003,1.761,memo
+Store,control,1.892,2.283,2.360,absurd
+Plants,control,1.493,1.784,2.046,absurd
+Recipe,control,4.033,4.232,4.202,absurd
+Quarterly,control,5.667,5.421,5.080,memo

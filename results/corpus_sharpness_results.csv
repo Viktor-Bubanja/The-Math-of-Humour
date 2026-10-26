@@ -1,0 +1,38 @@
+name,category,peak_bits,peak_token,pre_peak_mean,post_peak_mean,sharpness,tokens_to_recover
+Time flies,misdirection,16.15,Fruit,8.61,2.96,5.46,1
+Bungee,misdirection,12.32,lick,6.00,2.66,4.63,1
+Librarian,misdirection,11.70,behind,7.10,2.31,5.05,1
+Ten days,misdirection,9.49,Because,6.22,3.37,2.81,1
+Grandfather,misdirection,15.72,passengers,6.45,3.20,4.92,1
+Lion heart,misdirection,13.12,lifetime,7.48,6.02,2.18,2
+EpiPen,misdirection,8.34,seemed,4.98,3.99,2.09,3
+Spider,misdirection,12.48,web,5.34,3.80,3.28,2
+Boomerang,misdirection,15.53,constant,5.79,2.18,7.12,1
+Brain,misdirection,13.77,telling,5.52,4.37,3.15,1
+Take my wife,misdirection,7.85,Please,8.11,4.34,1.81,1
+Dyslexic devil,misdirection,17.80,dys,8.42,0.71,24.92,1
+Atoms,pun,7.61,make,9.55,3.94,1.93,1
+Skeleton,pun,10.39,body,7.69,3.69,2.81,1
+Anti-gravity,pun,11.65,impossible,6.20,5.07,2.30,1
+Banker,pun,8.91,lost,5.95,3.64,2.45,1
+Tense,pun,12.36,tense,6.31,2.49,4.96,1
+Dawned,pun,6.39,Then,5.68,2.19,2.92,1
+Scarecrow,pun,13.70,outstanding,7.37,3.12,4.39,1
+Impasta,pun,18.35,asta,6.72,3.90,4.70,1
+Chemistry,pun,7.50,reaction,8.51,2.82,2.66,1
+Eggs,pun,15.07,crack,9.72,3.35,4.49,1
+Seafood,pun,9.24,see,7.37,4.13,2.23,2
+Bicycle,pun,12.09,ired,8.12,4.56,2.65,1
+Nacho,pun,11.04,N,6.82,4.17,2.65,1
+Termite,pun,16.02,tender,8.08,6.62,2.42,2
+Dog nothing,pun,7.17,nothing,8.88,1.64,4.37,1
+Meeting,control,9.74,confirm,5.85,5.02,1.94,1
+Weather,control,9.60,mild,6.44,2.91,3.30,1
+Train,control,16.02,fifteen,9.41,2.55,6.28,1
+Window,control,12.15,within,6.55,3.11,3.91,1
+Report,control,20.21,sections,4.24,4.73,4.27,1
+Coffee,control,6.40,sat,7.05,3.74,1.71,1
+Store,control,10.78,ten,7.97,4.24,2.54,1
+Plants,control,10.14,once,6.84,3.61,2.81,1
+Recipe,control,7.83,eggs,6.48,0.99,7.88,1
+Quarterly,control,14.51,Revenue,7.09,5.42,2.67,1

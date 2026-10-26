@@ -1,0 +1,38 @@
+model,name,category,max_delta,max_delta_token,mean_delta,frac_positive
+google/gemma-2-2b-it,Time flies,misdirection,-2.04,.,-11.67,0.00
+google/gemma-2-2b-it,Bungee,misdirection,4.37,my,-2.25,0.38
+google/gemma-2-2b-it,Librarian,misdirection,-1.46,you,-4.27,0.00
+google/gemma-2-2b-it,Ten days,misdirection,4.22,would,-2.83,0.29
+google/gemma-2-2b-it,Grandfather,misdirection,2.07,terrified,-5.31,0.09
+google/gemma-2-2b-it,Lion heart,misdirection,6.00,ban,-3.19,0.12
+google/gemma-2-2b-it,EpiPen,misdirection,0.36,to,-4.46,0.09
+google/gemma-2-2b-it,Spider,misdirection,3.61,Wants,-2.43,0.21
+google/gemma-2-2b-it,Boomerang,misdirection,1.92,.,-2.58,0.43
+google/gemma-2-2b-it,Brain,misdirection,2.30,:,-2.41,0.50
+google/gemma-2-2b-it,Take my wife,misdirection,-11.70,.,-16.14,0.00
+google/gemma-2-2b-it,Dyslexic devil,misdirection,0.81,dys,-3.85,0.33
+google/gemma-2-2b-it,Atoms,pun,5.57,.,-7.56,0.17
+google/gemma-2-2b-it,Skeleton,pun,1.35,.,-6.31,0.11
+google/gemma-2-2b-it,Anti-gravity,pun,1.67,impossible,-3.55,0.25
+google/gemma-2-2b-it,Banker,pun,0.08,.,-6.54,0.20
+google/gemma-2-2b-it,Tense,pun,-0.71,.,-6.39,0.00
+google/gemma-2-2b-it,Dawned,pun,-0.10,.,-5.45,0.00
+google/gemma-2-2b-it,Scarecrow,pun,6.92,.,-6.01,0.12
+google/gemma-2-2b-it,Impasta,pun,-1.44,.,-11.06,0.00
+google/gemma-2-2b-it,Chemistry,pun,2.36,I,-4.06,0.18
+google/gemma-2-2b-it,Eggs,pun,0.18,.,-8.50,0.17
+google/gemma-2-2b-it,Seafood,pun,0.79,and,-3.87,0.12
+google/gemma-2-2b-it,Bicycle,pun,2.84,-,-7.19,0.29
+google/gemma-2-2b-it,Nacho,pun,-0.63,.,-10.72,0.00
+google/gemma-2-2b-it,Termite,pun,2.92,the,-4.05,0.17
+google/gemma-2-2b-it,Dog nothing,pun,0.54,nothing,-7.38,0.25
+google/gemma-2-2b-it,Meeting,control,-0.32,your,-6.98,0.00
+google/gemma-2-2b-it,Weather,control,8.48,week,-3.54,0.25
+google/gemma-2-2b-it,Train,control,0.51,early,-4.93,0.14
+google/gemma-2-2b-it,Window,control,1.71,cooler,-4.21,0.29
+google/gemma-2-2b-it,Report,control,0.32,your,-4.57,0.11
+google/gemma-2-2b-it,Coffee,control,0.92,to,-3.95,0.11
+google/gemma-2-2b-it,Store,control,-1.05,open,-7.34,0.00
+google/gemma-2-2b-it,Plants,control,0.14,enough,-5.96,0.11
+google/gemma-2-2b-it,Recipe,control,2.21,the,-3.13,0.20
+google/gemma-2-2b-it,Quarterly,control,0.79,.,-4.92,0.14

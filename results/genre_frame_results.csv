@@ -1,0 +1,75 @@
+model,name,category,surprisal_base,surprisal_joke_frame,surprisal_memo_frame,joke_frame_benefit
+distilgpt2,Time flies,misdirection,5.78,5.82,6.01,0.19
+distilgpt2,Bungee,misdirection,4.61,4.36,4.31,-0.05
+distilgpt2,Librarian,misdirection,6.60,6.64,6.76,0.12
+distilgpt2,Ten days,misdirection,4.25,4.14,4.19,0.05
+distilgpt2,Grandfather,misdirection,7.22,7.34,7.21,-0.13
+distilgpt2,Lion heart,misdirection,6.98,6.82,6.64,-0.18
+distilgpt2,EpiPen,misdirection,4.35,4.41,4.36,-0.05
+distilgpt2,Spider,misdirection,6.20,6.04,6.24,0.20
+distilgpt2,Boomerang,misdirection,5.20,5.38,5.27,-0.10
+distilgpt2,Brain,misdirection,6.14,6.02,6.15,0.13
+distilgpt2,Take my wife,misdirection,5.64,6.50,6.65,0.15
+distilgpt2,Dyslexic devil,misdirection,4.15,4.13,4.30,0.17
+distilgpt2,Atoms,pun,4.56,4.56,4.56,-0.00
+distilgpt2,Skeleton,pun,4.58,4.60,4.64,0.03
+distilgpt2,Anti-gravity,pun,5.20,5.14,5.27,0.12
+distilgpt2,Banker,pun,4.31,4.27,4.50,0.23
+distilgpt2,Tense,pun,4.96,5.82,5.68,-0.13
+distilgpt2,Dawned,pun,2.86,2.93,3.15,0.22
+distilgpt2,Scarecrow,pun,4.55,4.81,4.57,-0.24
+distilgpt2,Impasta,pun,9.82,9.71,9.89,0.18
+distilgpt2,Chemistry,pun,4.48,4.54,4.64,0.10
+distilgpt2,Eggs,pun,7.19,7.21,7.43,0.22
+distilgpt2,Seafood,pun,4.60,4.75,4.98,0.24
+distilgpt2,Bicycle,pun,6.09,5.92,5.87,-0.05
+distilgpt2,Nacho,pun,5.76,5.50,5.95,0.45
+distilgpt2,Termite,pun,7.72,7.85,7.59,-0.26
+distilgpt2,Dog nothing,pun,3.47,3.55,3.70,0.15
+distilgpt2,Meeting,control,6.38,6.65,5.58,-1.07
+distilgpt2,Weather,control,3.83,4.41,3.85,-0.56
+distilgpt2,Train,control,5.51,5.50,5.06,-0.44
+distilgpt2,Window,control,6.70,6.73,6.60,-0.14
+distilgpt2,Report,control,6.86,6.86,6.32,-0.54
+distilgpt2,Coffee,control,3.82,4.02,3.98,-0.04
+distilgpt2,Store,control,5.78,5.31,5.42,0.11
+distilgpt2,Plants,control,4.22,4.32,4.30,-0.03
+distilgpt2,Recipe,control,4.08,4.41,4.35,-0.06
+distilgpt2,Quarterly,control,6.73,7.28,6.91,-0.37
+google/gemma-2-2b-it,Time flies,misdirection,0.21,0.16,0.36,0.19
+google/gemma-2-2b-it,Bungee,misdirection,5.84,5.47,6.00,0.53
+google/gemma-2-2b-it,Librarian,misdirection,3.16,2.30,2.85,0.55
+google/gemma-2-2b-it,Ten days,misdirection,5.27,5.38,5.61,0.23
+google/gemma-2-2b-it,Grandfather,misdirection,3.21,2.58,3.11,0.53
+google/gemma-2-2b-it,Lion heart,misdirection,4.68,4.70,5.17,0.47
+google/gemma-2-2b-it,EpiPen,misdirection,2.76,2.94,2.60,-0.34
+google/gemma-2-2b-it,Spider,misdirection,5.04,4.95,5.15,0.20
+google/gemma-2-2b-it,Boomerang,misdirection,5.79,4.43,5.81,1.38
+google/gemma-2-2b-it,Brain,misdirection,5.46,4.99,5.46,0.47
+google/gemma-2-2b-it,Take my wife,misdirection,3.15,2.03,4.47,2.43
+google/gemma-2-2b-it,Dyslexic devil,misdirection,4.75,4.30,4.61,0.31
+google/gemma-2-2b-it,Atoms,pun,2.35,1.90,1.48,-0.41
+google/gemma-2-2b-it,Skeleton,pun,1.56,1.38,1.20,-0.18
+google/gemma-2-2b-it,Anti-gravity,pun,3.04,0.74,3.17,2.43
+google/gemma-2-2b-it,Banker,pun,4.17,1.30,4.95,3.65
+google/gemma-2-2b-it,Tense,pun,3.87,4.11,3.87,-0.24
+google/gemma-2-2b-it,Dawned,pun,1.99,0.48,2.08,1.60
+google/gemma-2-2b-it,Scarecrow,pun,1.74,1.24,1.04,-0.20
+google/gemma-2-2b-it,Impasta,pun,4.25,1.58,2.34,0.76
+google/gemma-2-2b-it,Chemistry,pun,2.19,2.13,2.67,0.54
+google/gemma-2-2b-it,Eggs,pun,1.73,1.97,1.69,-0.28
+google/gemma-2-2b-it,Seafood,pun,3.33,2.12,3.38,1.26
+google/gemma-2-2b-it,Bicycle,pun,2.56,2.11,1.85,-0.26
+google/gemma-2-2b-it,Nacho,pun,5.17,1.64,3.79,2.15
+google/gemma-2-2b-it,Termite,pun,5.23,4.66,4.70,0.04
+google/gemma-2-2b-it,Dog nothing,pun,4.40,3.48,3.93,0.45
+google/gemma-2-2b-it,Meeting,control,2.64,2.82,2.24,-0.58
+google/gemma-2-2b-it,Weather,control,3.63,5.08,3.39,-1.69
+google/gemma-2-2b-it,Train,control,3.46,3.18,2.92,-0.26
+google/gemma-2-2b-it,Window,control,5.22,5.09,5.17,0.08
+google/gemma-2-2b-it,Report,control,4.72,5.00,4.66,-0.34
+google/gemma-2-2b-it,Coffee,control,2.62,1.88,1.94,0.06
+google/gemma-2-2b-it,Store,control,2.09,2.38,1.99,-0.39
+google/gemma-2-2b-it,Plants,control,1.74,1.63,1.76,0.12
+google/gemma-2-2b-it,Recipe,control,4.29,4.00,4.11,0.11
+google/gemma-2-2b-it,Quarterly,control,5.28,5.82,4.19,-1.63

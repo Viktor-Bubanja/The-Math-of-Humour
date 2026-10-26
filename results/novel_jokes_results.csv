@@ -1,0 +1,197 @@
+model,frame,name,category,surprisal_joke_frame,surprisal_memo_frame,joke_frame_benefit
+distilgpt2,wellknown,Onions,novel_joke,8.016,8.259,0.243
+distilgpt2,wellknown,Watch eat,novel_joke,4.992,5.053,0.061
+distilgpt2,wellknown,Skydiving,novel_joke,6.433,6.551,0.118
+distilgpt2,wellknown,At peace,novel_joke,5.755,5.861,0.106
+distilgpt2,wellknown,Escape room,novel_joke,4.449,4.119,-0.330
+distilgpt2,wellknown,Inherited humour,novel_joke,5.403,5.363,-0.040
+distilgpt2,wellknown,Vacuum song,novel_joke,4.768,5.144,0.375
+distilgpt2,wellknown,Elevator job,novel_joke,4.479,4.593,0.114
+distilgpt2,wellknown,Power plant,novel_joke,5.385,5.540,0.155
+distilgpt2,wellknown,Limit,novel_joke,5.837,5.585,-0.253
+distilgpt2,wellknown,WiFi therapy,novel_joke,5.703,5.568,-0.135
+distilgpt2,wellknown,Glacier,novel_joke,5.511,5.713,0.202
+distilgpt2,wellknown,Time flies,famous_joke,5.819,6.010,0.191
+distilgpt2,wellknown,Bungee,famous_joke,4.360,4.306,-0.053
+distilgpt2,wellknown,Librarian,famous_joke,6.638,6.763,0.125
+distilgpt2,wellknown,Ten days,famous_joke,4.139,4.193,0.054
+distilgpt2,wellknown,Grandfather,famous_joke,7.343,7.214,-0.129
+distilgpt2,wellknown,Lion heart,famous_joke,6.820,6.640,-0.180
+distilgpt2,wellknown,EpiPen,famous_joke,4.408,4.356,-0.052
+distilgpt2,wellknown,Spider,famous_joke,6.040,6.241,0.202
+distilgpt2,wellknown,Boomerang,famous_joke,5.375,5.271,-0.105
+distilgpt2,wellknown,Brain,famous_joke,6.018,6.152,0.134
+distilgpt2,wellknown,Take my wife,famous_joke,6.501,6.648,0.147
+distilgpt2,wellknown,Dyslexic devil,famous_joke,4.126,4.296,0.170
+distilgpt2,wellknown,Atoms,famous_joke,4.562,4.558,-0.004
+distilgpt2,wellknown,Skeleton,famous_joke,4.603,4.637,0.033
+distilgpt2,wellknown,Anti-gravity,famous_joke,5.142,5.267,0.125
+distilgpt2,wellknown,Banker,famous_joke,4.269,4.501,0.233
+distilgpt2,wellknown,Tense,famous_joke,5.817,5.684,-0.133
+distilgpt2,wellknown,Dawned,famous_joke,2.929,3.153,0.224
+distilgpt2,wellknown,Scarecrow,famous_joke,4.811,4.568,-0.242
+distilgpt2,wellknown,Impasta,famous_joke,9.712,9.892,0.180
+distilgpt2,wellknown,Chemistry,famous_joke,4.540,4.643,0.103
+distilgpt2,wellknown,Eggs,famous_joke,7.214,7.432,0.218
+distilgpt2,wellknown,Seafood,famous_joke,4.746,4.984,0.238
+distilgpt2,wellknown,Bicycle,famous_joke,5.921,5.867,-0.054
+distilgpt2,wellknown,Nacho,famous_joke,5.499,5.953,0.455
+distilgpt2,wellknown,Termite,famous_joke,7.846,7.588,-0.258
+distilgpt2,wellknown,Dog nothing,famous_joke,3.549,3.695,0.146
+distilgpt2,wellknown,Meeting,control,6.651,5.584,-1.067
+distilgpt2,wellknown,Weather,control,4.413,3.852,-0.560
+distilgpt2,wellknown,Train,control,5.504,5.062,-0.442
+distilgpt2,wellknown,Window,control,6.735,6.598,-0.137
+distilgpt2,wellknown,Report,control,6.857,6.321,-0.537
+distilgpt2,wellknown,Coffee,control,4.018,3.975,-0.042
+distilgpt2,wellknown,Store,control,5.310,5.419,0.109
+distilgpt2,wellknown,Plants,control,4.322,4.296,-0.026
+distilgpt2,wellknown,Recipe,control,4.406,4.347,-0.059
+distilgpt2,wellknown,Quarterly,control,7.281,6.911,-0.370
+distilgpt2,neutral,Onions,novel_joke,7.806,7.848,0.042
+distilgpt2,neutral,Watch eat,novel_joke,5.034,5.125,0.091
+distilgpt2,neutral,Skydiving,novel_joke,6.432,6.818,0.386
+distilgpt2,neutral,At peace,novel_joke,5.661,5.847,0.186
+distilgpt2,neutral,Escape room,novel_joke,4.399,4.164,-0.235
+distilgpt2,neutral,Inherited humour,novel_joke,5.255,5.299,0.043
+distilgpt2,neutral,Vacuum song,novel_joke,4.583,4.920,0.337
+distilgpt2,neutral,Elevator job,novel_joke,4.596,4.675,0.079
+distilgpt2,neutral,Power plant,novel_joke,5.371,5.443,0.072
+distilgpt2,neutral,Limit,novel_joke,5.618,5.518,-0.100
+distilgpt2,neutral,WiFi therapy,novel_joke,5.330,5.381,0.051
+distilgpt2,neutral,Glacier,novel_joke,5.436,5.633,0.197
+distilgpt2,neutral,Time flies,famous_joke,5.414,5.836,0.422
+distilgpt2,neutral,Bungee,famous_joke,4.451,4.355,-0.096
+distilgpt2,neutral,Librarian,famous_joke,6.571,6.770,0.199
+distilgpt2,neutral,Ten days,famous_joke,4.222,4.330,0.108
+distilgpt2,neutral,Grandfather,famous_joke,7.265,7.250,-0.015
+distilgpt2,neutral,Lion heart,famous_joke,6.876,7.079,0.203
+distilgpt2,neutral,EpiPen,famous_joke,4.443,4.223,-0.220
+distilgpt2,neutral,Spider,famous_joke,6.005,6.225,0.221
+distilgpt2,neutral,Boomerang,famous_joke,5.056,4.896,-0.159
+distilgpt2,neutral,Brain,famous_joke,6.039,6.254,0.216
+distilgpt2,neutral,Take my wife,famous_joke,5.504,5.852,0.348
+distilgpt2,neutral,Dyslexic devil,famous_joke,4.016,4.159,0.142
+distilgpt2,neutral,Atoms,famous_joke,4.194,4.302,0.108
+distilgpt2,neutral,Skeleton,famous_joke,4.389,4.503,0.115
+distilgpt2,neutral,Anti-gravity,famous_joke,5.031,5.250,0.219
+distilgpt2,neutral,Banker,famous_joke,4.358,4.595,0.237
+distilgpt2,neutral,Tense,famous_joke,5.130,5.219,0.089
+distilgpt2,neutral,Dawned,famous_joke,2.837,2.969,0.132
+distilgpt2,neutral,Scarecrow,famous_joke,4.446,4.387,-0.059
+distilgpt2,neutral,Impasta,famous_joke,9.557,9.574,0.017
+distilgpt2,neutral,Chemistry,famous_joke,4.590,4.626,0.035
+distilgpt2,neutral,Eggs,famous_joke,7.524,7.767,0.243
+distilgpt2,neutral,Seafood,famous_joke,4.457,4.462,0.006
+distilgpt2,neutral,Bicycle,famous_joke,5.812,5.949,0.137
+distilgpt2,neutral,Nacho,famous_joke,5.649,5.911,0.263
+distilgpt2,neutral,Termite,famous_joke,7.633,7.566,-0.067
+distilgpt2,neutral,Dog nothing,famous_joke,3.369,3.513,0.144
+distilgpt2,neutral,Meeting,control,6.129,5.708,-0.421
+distilgpt2,neutral,Weather,control,4.163,3.824,-0.339
+distilgpt2,neutral,Train,control,5.372,5.288,-0.084
+distilgpt2,neutral,Window,control,6.706,6.713,0.007
+distilgpt2,neutral,Report,control,6.388,6.540,0.152
+distilgpt2,neutral,Coffee,control,4.006,3.902,-0.104
+distilgpt2,neutral,Store,control,5.243,5.459,0.217
+distilgpt2,neutral,Plants,control,4.074,4.088,0.014
+distilgpt2,neutral,Recipe,control,4.280,4.292,0.012
+distilgpt2,neutral,Quarterly,control,6.977,6.775,-0.202
+google/gemma-2-2b-it,wellknown,Onions,novel_joke,5.173,5.497,0.323
+google/gemma-2-2b-it,wellknown,Watch eat,novel_joke,5.126,6.070,0.944
+google/gemma-2-2b-it,wellknown,Skydiving,novel_joke,4.709,4.898,0.188
+google/gemma-2-2b-it,wellknown,At peace,novel_joke,3.853,5.813,1.960
+google/gemma-2-2b-it,wellknown,Escape room,novel_joke,4.265,3.622,-0.643
+google/gemma-2-2b-it,wellknown,Inherited humour,novel_joke,6.216,6.535,0.319
+google/gemma-2-2b-it,wellknown,Vacuum song,novel_joke,4.138,5.455,1.317
+google/gemma-2-2b-it,wellknown,Elevator job,novel_joke,2.824,3.808,0.984
+google/gemma-2-2b-it,wellknown,Power plant,novel_joke,3.686,4.194,0.508
+google/gemma-2-2b-it,wellknown,Limit,novel_joke,4.824,4.610,-0.214
+google/gemma-2-2b-it,wellknown,WiFi therapy,novel_joke,4.693,5.107,0.414
+google/gemma-2-2b-it,wellknown,Glacier,novel_joke,5.231,5.261,0.031
+google/gemma-2-2b-it,wellknown,Time flies,famous_joke,0.165,0.358,0.194
+google/gemma-2-2b-it,wellknown,Bungee,famous_joke,5.469,6.002,0.533
+google/gemma-2-2b-it,wellknown,Librarian,famous_joke,2.301,2.849,0.547
+google/gemma-2-2b-it,wellknown,Ten days,famous_joke,5.379,5.612,0.233
+google/gemma-2-2b-it,wellknown,Grandfather,famous_joke,2.579,3.113,0.535
+google/gemma-2-2b-it,wellknown,Lion heart,famous_joke,4.699,5.167,0.468
+google/gemma-2-2b-it,wellknown,EpiPen,famous_joke,2.935,2.597,-0.338
+google/gemma-2-2b-it,wellknown,Spider,famous_joke,4.950,5.147,0.197
+google/gemma-2-2b-it,wellknown,Boomerang,famous_joke,4.432,5.809,1.377
+google/gemma-2-2b-it,wellknown,Brain,famous_joke,4.988,5.462,0.474
+google/gemma-2-2b-it,wellknown,Take my wife,famous_joke,2.034,4.469,2.435
+google/gemma-2-2b-it,wellknown,Dyslexic devil,famous_joke,4.296,4.606,0.310
+google/gemma-2-2b-it,wellknown,Atoms,famous_joke,1.895,1.484,-0.411
+google/gemma-2-2b-it,wellknown,Skeleton,famous_joke,1.377,1.196,-0.181
+google/gemma-2-2b-it,wellknown,Anti-gravity,famous_joke,0.737,3.169,2.432
+google/gemma-2-2b-it,wellknown,Banker,famous_joke,1.302,4.950,3.649
+google/gemma-2-2b-it,wellknown,Tense,famous_joke,4.113,3.870,-0.243
+google/gemma-2-2b-it,wellknown,Dawned,famous_joke,0.477,2.076,1.599
+google/gemma-2-2b-it,wellknown,Scarecrow,famous_joke,1.241,1.038,-0.203
+google/gemma-2-2b-it,wellknown,Impasta,famous_joke,1.582,2.340,0.758
+google/gemma-2-2b-it,wellknown,Chemistry,famous_joke,2.131,2.671,0.540
+google/gemma-2-2b-it,wellknown,Eggs,famous_joke,1.969,1.690,-0.280
+google/gemma-2-2b-it,wellknown,Seafood,famous_joke,2.115,3.379,1.264
+google/gemma-2-2b-it,wellknown,Bicycle,famous_joke,2.111,1.852,-0.259
+google/gemma-2-2b-it,wellknown,Nacho,famous_joke,1.638,3.786,2.148
+google/gemma-2-2b-it,wellknown,Termite,famous_joke,4.665,4.703,0.039
+google/gemma-2-2b-it,wellknown,Dog nothing,famous_joke,3.479,3.925,0.446
+google/gemma-2-2b-it,wellknown,Meeting,control,2.822,2.242,-0.580
+google/gemma-2-2b-it,wellknown,Weather,control,5.082,3.390,-1.692
+google/gemma-2-2b-it,wellknown,Train,control,3.182,2.919,-0.262
+google/gemma-2-2b-it,wellknown,Window,control,5.087,5.166,0.078
+google/gemma-2-2b-it,wellknown,Report,control,5.002,4.664,-0.338
+google/gemma-2-2b-it,wellknown,Coffee,control,1.880,1.938,0.059
+google/gemma-2-2b-it,wellknown,Store,control,2.377,1.991,-0.387
+google/gemma-2-2b-it,wellknown,Plants,control,1.635,1.757,0.122
+google/gemma-2-2b-it,wellknown,Recipe,control,4.005,4.114,0.109
+google/gemma-2-2b-it,wellknown,Quarterly,control,5.821,4.194,-1.627
+google/gemma-2-2b-it,neutral,Onions,novel_joke,4.892,5.365,0.473
+google/gemma-2-2b-it,neutral,Watch eat,novel_joke,4.913,5.959,1.046
+google/gemma-2-2b-it,neutral,Skydiving,novel_joke,4.221,5.087,0.865
+google/gemma-2-2b-it,neutral,At peace,novel_joke,4.842,6.026,1.184
+google/gemma-2-2b-it,neutral,Escape room,novel_joke,4.180,3.797,-0.383
+google/gemma-2-2b-it,neutral,Inherited humour,novel_joke,6.407,7.063,0.657
+google/gemma-2-2b-it,neutral,Vacuum song,novel_joke,4.390,5.123,0.733
+google/gemma-2-2b-it,neutral,Elevator job,novel_joke,2.954,3.673,0.719
+google/gemma-2-2b-it,neutral,Power plant,novel_joke,3.503,4.255,0.751
+google/gemma-2-2b-it,neutral,Limit,novel_joke,4.456,4.991,0.535
+google/gemma-2-2b-it,neutral,WiFi therapy,novel_joke,4.922,5.238,0.316
+google/gemma-2-2b-it,neutral,Glacier,novel_joke,5.182,5.366,0.184
+google/gemma-2-2b-it,neutral,Time flies,famous_joke,0.112,1.129,1.018
+google/gemma-2-2b-it,neutral,Bungee,famous_joke,5.448,5.602,0.154
+google/gemma-2-2b-it,neutral,Librarian,famous_joke,2.523,3.410,0.887
+google/gemma-2-2b-it,neutral,Ten days,famous_joke,5.392,5.584,0.191
+google/gemma-2-2b-it,neutral,Grandfather,famous_joke,2.656,3.587,0.931
+google/gemma-2-2b-it,neutral,Lion heart,famous_joke,4.671,5.643,0.972
+google/gemma-2-2b-it,neutral,EpiPen,famous_joke,2.935,2.760,-0.174
+google/gemma-2-2b-it,neutral,Spider,famous_joke,4.962,5.455,0.492
+google/gemma-2-2b-it,neutral,Boomerang,famous_joke,4.591,6.309,1.718
+google/gemma-2-2b-it,neutral,Brain,famous_joke,5.222,5.746,0.524
+google/gemma-2-2b-it,neutral,Take my wife,famous_joke,3.049,3.452,0.403
+google/gemma-2-2b-it,neutral,Dyslexic devil,famous_joke,4.519,4.500,-0.018
+google/gemma-2-2b-it,neutral,Atoms,famous_joke,2.061,1.529,-0.532
+google/gemma-2-2b-it,neutral,Skeleton,famous_joke,1.550,1.262,-0.288
+google/gemma-2-2b-it,neutral,Anti-gravity,famous_joke,0.739,3.237,2.498
+google/gemma-2-2b-it,neutral,Banker,famous_joke,2.262,4.436,2.174
+google/gemma-2-2b-it,neutral,Tense,famous_joke,4.127,4.199,0.072
+google/gemma-2-2b-it,neutral,Dawned,famous_joke,0.920,2.585,1.666
+google/gemma-2-2b-it,neutral,Scarecrow,famous_joke,1.500,0.869,-0.631
+google/gemma-2-2b-it,neutral,Impasta,famous_joke,2.768,3.945,1.176
+google/gemma-2-2b-it,neutral,Chemistry,famous_joke,2.273,2.448,0.174
+google/gemma-2-2b-it,neutral,Eggs,famous_joke,2.099,2.173,0.074
+google/gemma-2-2b-it,neutral,Seafood,famous_joke,2.044,2.810,0.765
+google/gemma-2-2b-it,neutral,Bicycle,famous_joke,2.525,1.858,-0.667
+google/gemma-2-2b-it,neutral,Nacho,famous_joke,2.679,4.168,1.489
+google/gemma-2-2b-it,neutral,Termite,famous_joke,5.338,4.750,-0.588
+google/gemma-2-2b-it,neutral,Dog nothing,famous_joke,3.915,4.430,0.515
+google/gemma-2-2b-it,neutral,Meeting,control,2.637,3.246,0.609
+google/gemma-2-2b-it,neutral,Weather,control,5.349,3.808,-1.541
+google/gemma-2-2b-it,neutral,Train,control,3.224,3.804,0.580
+google/gemma-2-2b-it,neutral,Window,control,5.209,5.807,0.598
+google/gemma-2-2b-it,neutral,Report,control,4.666,5.083,0.416
+google/gemma-2-2b-it,neutral,Coffee,control,2.003,1.761,-0.242
+google/gemma-2-2b-it,neutral,Store,control,2.283,2.360,0.077
+google/gemma-2-2b-it,neutral,Plants,control,1.784,2.046,0.262
+google/gemma-2-2b-it,neutral,Recipe,control,4.232,4.202,-0.030
+google/gemma-2-2b-it,neutral,Quarterly,control,5.421,5.080,-0.341

@@ -1,0 +1,111 @@
+frame_pair,name,category,joke_frame_benefit
+wellknown,Onions,joke,0.323
+wellknown,Watch eat,joke,0.944
+wellknown,Skydiving,joke,0.188
+wellknown,At peace,joke,1.960
+wellknown,Escape room,joke,-0.643
+wellknown,Inherited humour,joke,0.319
+wellknown,Vacuum song,joke,1.317
+wellknown,Elevator job,joke,0.984
+wellknown,Power plant,joke,0.508
+wellknown,Limit,joke,-0.214
+wellknown,WiFi therapy,joke,0.414
+wellknown,Glacier,joke,0.031
+wellknown,Meeting,control,-0.580
+wellknown,Weather,control,-1.692
+wellknown,Train,control,-0.262
+wellknown,Window,control,0.078
+wellknown,Report,control,-0.338
+wellknown,Coffee,control,0.059
+wellknown,Store,control,-0.387
+wellknown,Plants,control,0.122
+wellknown,Recipe,control,0.109
+wellknown,Quarterly,control,-1.627
+following,Onions,joke,0.473
+following,Watch eat,joke,1.046
+following,Skydiving,joke,0.865
+following,At peace,joke,1.184
+following,Escape room,joke,-0.383
+following,Inherited humour,joke,0.657
+following,Vacuum song,joke,0.733
+following,Elevator job,joke,0.719
+following,Power plant,joke,0.751
+following,Limit,joke,0.535
+following,WiFi therapy,joke,0.316
+following,Glacier,joke,0.184
+following,Meeting,control,0.609
+following,Weather,control,-1.541
+following,Train,control,0.580
+following,Window,control,0.598
+following,Report,control,0.416
+following,Coffee,control,-0.242
+following,Store,control,0.077
+following,Plants,control,0.262
+following,Recipe,control,-0.030
+following,Quarterly,control,-0.341
+terse,Onions,joke,1.097
+terse,Watch eat,joke,0.562
+terse,Skydiving,joke,0.984
+terse,At peace,joke,0.977
+terse,Escape room,joke,-0.208
+terse,Inherited humour,joke,0.028
+terse,Vacuum song,joke,2.001
+terse,Elevator job,joke,0.937
+terse,Power plant,joke,0.194
+terse,Limit,joke,-0.046
+terse,WiFi therapy,joke,0.351
+terse,Glacier,joke,-0.238
+terse,Meeting,control,-0.348
+terse,Weather,control,-2.160
+terse,Train,control,0.270
+terse,Window,control,0.130
+terse,Report,control,0.568
+terse,Coffee,control,0.112
+terse,Store,control,0.089
+terse,Plants,control,-0.159
+terse,Recipe,control,-0.436
+terse,Quarterly,control,-0.510
+funny,Onions,joke,0.120
+funny,Watch eat,joke,0.736
+funny,Skydiving,joke,0.540
+funny,At peace,joke,0.391
+funny,Escape room,joke,-0.179
+funny,Inherited humour,joke,0.400
+funny,Vacuum song,joke,1.206
+funny,Elevator job,joke,0.173
+funny,Power plant,joke,-0.043
+funny,Limit,joke,-0.168
+funny,WiFi therapy,joke,-0.202
+funny,Glacier,joke,0.108
+funny,Meeting,control,-1.016
+funny,Weather,control,-1.683
+funny,Train,control,-0.300
+funny,Window,control,-0.643
+funny,Report,control,-0.237
+funny,Coffee,control,-0.152
+funny,Store,control,-0.800
+funny,Plants,control,-0.074
+funny,Recipe,control,-0.143
+funny,Quarterly,control,-0.394
+reader,Onions,joke,0.802
+reader,Watch eat,joke,1.147
+reader,Skydiving,joke,0.340
+reader,At peace,joke,0.827
+reader,Escape room,joke,-0.603
+reader,Inherited humour,joke,0.575
+reader,Vacuum song,joke,0.972
+reader,Elevator job,joke,1.347
+reader,Power plant,joke,0.764
+reader,Limit,joke,0.338
+reader,WiFi therapy,joke,0.590
+reader,Glacier,joke,0.505
+reader,Meeting,control,-0.157
+reader,Weather,control,-1.492
+reader,Train,control,-0.329
+reader,Window,control,0.029
+reader,Report,control,-0.188
+reader,Coffee,control,0.296
+reader,Store,control,-0.007
+reader,Plants,control,-0.246
+reader,Recipe,control,0.090
+reader,Quarterly,control,0.065
