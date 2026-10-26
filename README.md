@@ -75,8 +75,6 @@ Across all 39 jokes the real punchline beats its foil in 28, by a median 0.21 bi
 
 `Fruit` costs 16 bits, then `flies` costs 0.3. It looks like the theory made visible, but over 37 texts no property of the spike (height, sharpness, recovery, or whether the setup makes the twist harder than no context) separates jokes from prose: the biggest spike in the corpus is in a memo about report deadlines. That's what the mixture bound predicts. Surprisal measures how *unlikely* the right reading looked, never the cost $S_1$ under the wrong one, so a model that hedges has nothing for a setup to mislead.
 
-Everything here is pilot-scale (dozens of texts, models up to 2.6B parameters). Read it as a careful hobby experiment, not a benchmark.
-
 ## All experiments
 
 | # | Question | Model(s) | Result |
