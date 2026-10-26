@@ -6,7 +6,6 @@ The short version of what came out:
 
 - **Telling a model "this is a joke" makes joke punchlines cheaper.** Prefix every text with "this is a joke" vs "this is a factual note" and joke punchlines get cheaper while prose gets more expensive (gemma-2-2b-it: p = 0.001, Cliff's δ = +0.72). The effect survives newly written jokes the model can't have memorised, five different frame wordings, and two models.
 - **In gemma-2-2b-it the frame favours punchlines that resolve the joke.** Swap a punchline for a matched foil that is at least as surprising but makes no sense of the setup, and the frame helps the foil less (E19). distilgpt2 shows the opposite, which suggests its frame effect is closer to "expect something odd".
-- **Each genre responds to its own frame.** An "absurdist anti-humour" frame compresses anti-jokes better than a joke frame does, while ordinary jokes prefer the joke frame (gemma-2-2b-it, p = 0.008; a 10-text pilot, E17).
 - **The surprisal spike itself doesn't mark a joke.** Peak height, spike sharpness, recovery speed and "context damage" don't separate jokes from prose at corpus scale (37 texts, three models); an early five-text result that suggested otherwise was a small-sample artifact.
 
 Everything is pilot-scale (dozens of texts, models up to 2.6B parameters). Read the results as a careful hobby experiment, not a benchmark.
