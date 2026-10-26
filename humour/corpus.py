@@ -1,5 +1,6 @@
 """
-Corpus for the E11+ experiments: 37 classic texts, 12 novel jokes, 10 absurdist texts.
+Corpus for the E11+ experiments: 37 classic texts, 12 novel jokes, 10 absurdist texts,
+and matched foil punchlines for the 39 jokes (E19).
 Categories pre-registered by mechanism before any model was run:
   - misdirection: the twist forces reinterpretation of the setup
   - pun: the twist word carries a double meaning; setup stands as-is
@@ -167,3 +168,66 @@ ABSURDIST = [
 
 CONTROLS = [item for item in ITEMS if item[1] == "control"]
 FAMOUS_JOKES = [item for item in ITEMS if item[1] != "control"]
+
+# Minimal-pair foils for E19, fixed 2026-10-26 before any framed run. Each keeps the
+# setup and replaces the punchline. (incongruous, literal) keyed by item name:
+#   - incongruous: same length (±2 GPT-2 tokens) and syntactic frame as the real
+#     punchline, at least as surprising with no frame (distilgpt2 and gemma-2-2b-it),
+#     but with no second reading that makes the setup fit
+#   - literal: the ordinary, expected continuation; a reference point, not matched
+# Revised on the no-frame check: Librarian, Grandfather, Impasta (incongruous less
+# surprising than real in distilgpt2), Dyslexic devil (same, gemma), Take my wife,
+# Bicycle (incongruous length), Spider, Dog nothing (literal length).
+FOILS = {
+    "Time flies": (" Bread swims like a piano.", " The days pass so quickly."),
+    "Bungee": (" Don't paint my shoes again.", " Don't worry, you'll be fine."),
+    "Librarian": (" they're made of wet gravel.", " they're in aisle seven."),
+    "Ten days": (" Because the carpet is too green.", " Because I have bad insomnia."),
+    "Grandfather": (" Not humming and sticky like the trombones in his attic.",
+                    " Not in pain and alone like so many people in hospital."),
+    "Lion heart": (" And a lifetime supply of purple spoons.", " And a kind and gentle soul."),
+    "EpiPen": (" It seemed very important to him that I paint it.",
+               " It was his way of keeping me safe."),
+    "Spider": (" Bought some gravel. Damp shoe. Owes me a trombone.",
+               " I let it go by the garden fence and then came back inside."),
+    "Boomerang": (" I now own several small goats.", " It came right back to me."),
+    "Brain": (" Then I thought: look what's eating my sandwich.",
+              " Then I learned how vital the heart is."),
+    "Take my wife": (" Sideways.", " She is lovely."),
+    "Dyslexic devil": (" I'm vegetarian.", " He was very generous."),
+    "Atoms": (" Because they smell of lemons.", " Because they are too small to see."),
+    "Skeleton": (" Because he had no spoon to go with.", " Because his friends were all busy."),
+    "Anti-gravity": (" It's printed on wet lettuce.", " It's really interesting so far."),
+    "Banker": (" But I lost my umbrella.", " But I changed careers."),
+    "Tense": (" It was beige.", " They ordered a drink."),
+    "Dawned": (" Then it barked at me.", " Then I finally fell asleep."),
+    "Scarecrow": (" Because he was allergic to his field.",
+                  " Because he scared away the most crows."),
+    "Impasta": (" A Tuesday.", " A plastic noodle."),
+    "Chemistry": (" But I know I wouldn't get a sandwich.",
+                  " But I know you wouldn't find it funny."),
+    "Eggs": (" They'd turn purple.", " They can't talk."),
+    "Seafood": (" I see trees and I paint them.", " I eat a lot of fish."),
+    "Bicycle": (" Because it was secretly Norwegian.", " Because it had no kickstand."),
+    "Nacho": (" Tuesday cheese.", " Stolen cheese."),
+    "Termite": (" is the moon awake yet?", " can I get a drink?"),
+    "Dog nothing": (" He said lasagne.", " He wagged his tail."),
+    # novel jokes
+    "Onions": (" we vote.", " goodbye, friend."),
+    "Watch eat": (" So I dragged the bathtub into the garden.",
+                  " So I started counting my calories every day."),
+    "Skydiving": (" She was right. Everything is cheaper without my cousin.",
+                  " She was right. I feel much braver about everything now."),
+    "At peace": (" We sold her piano to a dentist.", " She now video calls us every week."),
+    "Escape room": (" The dentist's newsletter said the same thing.",
+                    " We solved every puzzle in under twenty minutes."),
+    "Inherited humour": (" He still owes me a kettle.", " He was always making us laugh."),
+    "Vacuum song": (" It really sneezed.", " It was quite short."),
+    "Elevator job": (" She says the job has its forks and spoons.",
+                     " She says the job pays quite well."),
+    "Power plant": (" I'm hoping for a quiet Tuesday.", " I'm not sure why I did."),
+    "Limit": (" She said she was already approaching her cousin.",
+              " She said she was already completely full."),
+    "WiFi therapy": (" It had elbow issues.", " It had been struggling lately."),
+    "Glacier": (" It just hums with the goats.", " It just moves very slowly."),
+}

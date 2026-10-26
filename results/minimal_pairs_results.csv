@@ -1,0 +1,1171 @@
+model,frame_pair,name,source,punchline_type,punchline,n_tokens,surprisal_no_frame,surprisal_joke_frame,surprisal_memo_frame,joke_frame_benefit
+distilgpt2,reader,Time flies,famous,real, Fruit flies like a banana.,6,5.775,5.421,6.249,0.827
+distilgpt2,wellknown,Time flies,famous,real, Fruit flies like a banana.,6,5.775,5.819,6.010,0.191
+distilgpt2,following,Time flies,famous,real, Fruit flies like a banana.,6,5.775,5.414,5.836,0.422
+distilgpt2,terse,Time flies,famous,real, Fruit flies like a banana.,6,5.775,5.696,5.780,0.083
+distilgpt2,funny,Time flies,famous,real, Fruit flies like a banana.,6,5.775,5.725,5.800,0.074
+distilgpt2,reader,Time flies,famous,incongruous, Bread swims like a piano.,7,7.687,7.429,7.872,0.443
+distilgpt2,wellknown,Time flies,famous,incongruous, Bread swims like a piano.,7,7.687,7.580,7.741,0.161
+distilgpt2,following,Time flies,famous,incongruous, Bread swims like a piano.,7,7.687,7.407,7.525,0.117
+distilgpt2,terse,Time flies,famous,incongruous, Bread swims like a piano.,7,7.687,7.518,7.627,0.109
+distilgpt2,funny,Time flies,famous,incongruous, Bread swims like a piano.,7,7.687,7.690,7.711,0.022
+distilgpt2,reader,Time flies,famous,literal, The days pass so quickly.,6,5.711,6.001,6.187,0.186
+distilgpt2,wellknown,Time flies,famous,literal, The days pass so quickly.,6,5.711,6.236,5.917,-0.319
+distilgpt2,following,Time flies,famous,literal, The days pass so quickly.,6,5.711,5.549,5.422,-0.127
+distilgpt2,terse,Time flies,famous,literal, The days pass so quickly.,6,5.711,5.797,5.671,-0.126
+distilgpt2,funny,Time flies,famous,literal, The days pass so quickly.,6,5.711,6.020,5.851,-0.168
+distilgpt2,reader,Bungee,famous,real, Don't lick my lips again.,7,4.613,4.690,4.600,-0.090
+distilgpt2,wellknown,Bungee,famous,real, Don't lick my lips again.,7,4.613,4.360,4.306,-0.053
+distilgpt2,following,Bungee,famous,real, Don't lick my lips again.,7,4.613,4.451,4.355,-0.096
+distilgpt2,terse,Bungee,famous,real, Don't lick my lips again.,7,4.613,4.535,4.467,-0.068
+distilgpt2,funny,Bungee,famous,real, Don't lick my lips again.,7,4.613,4.763,4.702,-0.061
+distilgpt2,reader,Bungee,famous,incongruous, Don't paint my shoes again.,7,6.063,6.080,5.949,-0.131
+distilgpt2,wellknown,Bungee,famous,incongruous, Don't paint my shoes again.,7,6.063,5.922,5.890,-0.032
+distilgpt2,following,Bungee,famous,incongruous, Don't paint my shoes again.,7,6.063,5.877,5.807,-0.071
+distilgpt2,terse,Bungee,famous,incongruous, Don't paint my shoes again.,7,6.063,5.927,5.860,-0.066
+distilgpt2,funny,Bungee,famous,incongruous, Don't paint my shoes again.,7,6.063,6.152,6.153,0.002
+distilgpt2,reader,Bungee,famous,literal," Don't worry, you'll be fine.",9,3.016,3.048,2.978,-0.070
+distilgpt2,wellknown,Bungee,famous,literal," Don't worry, you'll be fine.",9,3.016,2.962,2.938,-0.024
+distilgpt2,following,Bungee,famous,literal," Don't worry, you'll be fine.",9,3.016,2.972,2.899,-0.073
+distilgpt2,terse,Bungee,famous,literal," Don't worry, you'll be fine.",9,3.016,2.970,2.934,-0.036
+distilgpt2,funny,Bungee,famous,literal," Don't worry, you'll be fine.",9,3.016,3.059,3.049,-0.010
+distilgpt2,reader,Librarian,famous,real, they're right behind you.,6,6.599,6.443,6.642,0.199
+distilgpt2,wellknown,Librarian,famous,real, they're right behind you.,6,6.599,6.638,6.763,0.125
+distilgpt2,following,Librarian,famous,real, they're right behind you.,6,6.599,6.571,6.770,0.199
+distilgpt2,terse,Librarian,famous,real, they're right behind you.,6,6.599,6.560,6.548,-0.012
+distilgpt2,funny,Librarian,famous,real, they're right behind you.,6,6.599,6.549,6.542,-0.007
+distilgpt2,reader,Librarian,famous,incongruous, they're made of wet gravel.,7,7.693,7.556,7.828,0.271
+distilgpt2,wellknown,Librarian,famous,incongruous, they're made of wet gravel.,7,7.693,7.619,7.816,0.197
+distilgpt2,following,Librarian,famous,incongruous, they're made of wet gravel.,7,7.693,7.671,7.866,0.195
+distilgpt2,terse,Librarian,famous,incongruous, they're made of wet gravel.,7,7.693,7.773,7.702,-0.071
+distilgpt2,funny,Librarian,famous,incongruous, they're made of wet gravel.,7,7.693,7.679,7.673,-0.006
+distilgpt2,reader,Librarian,famous,literal, they're in aisle seven.,6,8.329,8.330,8.547,0.216
+distilgpt2,wellknown,Librarian,famous,literal, they're in aisle seven.,6,8.329,8.273,8.427,0.154
+distilgpt2,following,Librarian,famous,literal, they're in aisle seven.,6,8.329,8.329,8.509,0.180
+distilgpt2,terse,Librarian,famous,literal, they're in aisle seven.,6,8.329,8.377,8.440,0.063
+distilgpt2,funny,Librarian,famous,literal, they're in aisle seven.,6,8.329,8.368,8.364,-0.005
+distilgpt2,reader,Ten days,famous,real, Because that would be too long.,7,4.248,4.171,4.170,-0.001
+distilgpt2,wellknown,Ten days,famous,real, Because that would be too long.,7,4.248,4.139,4.193,0.054
+distilgpt2,following,Ten days,famous,real, Because that would be too long.,7,4.248,4.222,4.330,0.108
+distilgpt2,terse,Ten days,famous,real, Because that would be too long.,7,4.248,4.304,4.150,-0.154
+distilgpt2,funny,Ten days,famous,real, Because that would be too long.,7,4.248,4.158,4.182,0.023
+distilgpt2,reader,Ten days,famous,incongruous, Because the carpet is too green.,7,6.494,6.569,6.787,0.218
+distilgpt2,wellknown,Ten days,famous,incongruous, Because the carpet is too green.,7,6.494,6.386,6.725,0.339
+distilgpt2,following,Ten days,famous,incongruous, Because the carpet is too green.,7,6.494,6.469,6.736,0.267
+distilgpt2,terse,Ten days,famous,incongruous, Because the carpet is too green.,7,6.494,6.540,6.613,0.073
+distilgpt2,funny,Ten days,famous,incongruous, Because the carpet is too green.,7,6.494,6.630,6.709,0.078
+distilgpt2,reader,Ten days,famous,literal, Because I have bad insomnia.,6,5.914,6.023,6.032,0.009
+distilgpt2,wellknown,Ten days,famous,literal, Because I have bad insomnia.,6,5.914,5.879,6.078,0.198
+distilgpt2,following,Ten days,famous,literal, Because I have bad insomnia.,6,5.914,5.951,5.935,-0.015
+distilgpt2,terse,Ten days,famous,literal, Because I have bad insomnia.,6,5.914,5.851,6.014,0.163
+distilgpt2,funny,Ten days,famous,literal, Because I have bad insomnia.,6,5.914,5.931,5.988,0.057
+distilgpt2,reader,Grandfather,famous,real, Not screaming and terrified like the passengers in his car.,11,7.218,7.300,7.263,-0.037
+distilgpt2,wellknown,Grandfather,famous,real, Not screaming and terrified like the passengers in his car.,11,7.218,7.343,7.214,-0.129
+distilgpt2,following,Grandfather,famous,real, Not screaming and terrified like the passengers in his car.,11,7.218,7.265,7.250,-0.015
+distilgpt2,terse,Grandfather,famous,real, Not screaming and terrified like the passengers in his car.,11,7.218,7.170,7.174,0.004
+distilgpt2,funny,Grandfather,famous,real, Not screaming and terrified like the passengers in his car.,11,7.218,7.163,7.246,0.083
+distilgpt2,reader,Grandfather,famous,incongruous, Not humming and sticky like the trombones in his attic.,13,7.872,7.917,7.954,0.037
+distilgpt2,wellknown,Grandfather,famous,incongruous, Not humming and sticky like the trombones in his attic.,13,7.872,7.857,7.810,-0.047
+distilgpt2,following,Grandfather,famous,incongruous, Not humming and sticky like the trombones in his attic.,13,7.872,7.781,7.924,0.143
+distilgpt2,terse,Grandfather,famous,incongruous, Not humming and sticky like the trombones in his attic.,13,7.872,7.832,7.728,-0.105
+distilgpt2,funny,Grandfather,famous,incongruous, Not humming and sticky like the trombones in his attic.,13,7.872,7.807,7.892,0.085
+distilgpt2,reader,Grandfather,famous,literal, Not in pain and alone like so many people in hospital.,12,6.572,6.752,6.798,0.046
+distilgpt2,wellknown,Grandfather,famous,literal, Not in pain and alone like so many people in hospital.,12,6.572,6.716,6.549,-0.167
+distilgpt2,following,Grandfather,famous,literal, Not in pain and alone like so many people in hospital.,12,6.572,6.575,6.566,-0.008
+distilgpt2,terse,Grandfather,famous,literal, Not in pain and alone like so many people in hospital.,12,6.572,6.537,6.484,-0.052
+distilgpt2,funny,Grandfather,famous,literal, Not in pain and alone like so many people in hospital.,12,6.572,6.650,6.626,-0.024
+distilgpt2,reader,Lion heart,famous,real, And a lifetime ban from the zoo.,8,6.982,6.677,6.784,0.107
+distilgpt2,wellknown,Lion heart,famous,real, And a lifetime ban from the zoo.,8,6.982,6.820,6.640,-0.180
+distilgpt2,following,Lion heart,famous,real, And a lifetime ban from the zoo.,8,6.982,6.876,7.079,0.203
+distilgpt2,terse,Lion heart,famous,real, And a lifetime ban from the zoo.,8,6.982,6.974,6.954,-0.020
+distilgpt2,funny,Lion heart,famous,real, And a lifetime ban from the zoo.,8,6.982,6.785,6.877,0.092
+distilgpt2,reader,Lion heart,famous,incongruous, And a lifetime supply of purple spoons.,9,7.687,7.366,7.583,0.218
+distilgpt2,wellknown,Lion heart,famous,incongruous, And a lifetime supply of purple spoons.,9,7.687,7.489,7.365,-0.124
+distilgpt2,following,Lion heart,famous,incongruous, And a lifetime supply of purple spoons.,9,7.687,7.578,7.902,0.323
+distilgpt2,terse,Lion heart,famous,incongruous, And a lifetime supply of purple spoons.,9,7.687,7.769,7.654,-0.115
+distilgpt2,funny,Lion heart,famous,incongruous, And a lifetime supply of purple spoons.,9,7.687,7.540,7.626,0.086
+distilgpt2,reader,Lion heart,famous,literal, And a kind and gentle soul.,7,5.391,5.450,5.617,0.167
+distilgpt2,wellknown,Lion heart,famous,literal, And a kind and gentle soul.,7,5.391,5.746,5.652,-0.095
+distilgpt2,following,Lion heart,famous,literal, And a kind and gentle soul.,7,5.391,5.485,5.532,0.047
+distilgpt2,terse,Lion heart,famous,literal, And a kind and gentle soul.,7,5.391,5.448,5.486,0.038
+distilgpt2,funny,Lion heart,famous,literal, And a kind and gentle soul.,7,5.391,5.478,5.528,0.049
+distilgpt2,reader,EpiPen,famous,real, It seemed very important to him that I have it.,11,4.347,4.599,4.413,-0.187
+distilgpt2,wellknown,EpiPen,famous,real, It seemed very important to him that I have it.,11,4.347,4.408,4.356,-0.052
+distilgpt2,following,EpiPen,famous,real, It seemed very important to him that I have it.,11,4.347,4.443,4.223,-0.220
+distilgpt2,terse,EpiPen,famous,real, It seemed very important to him that I have it.,11,4.347,4.326,4.427,0.101
+distilgpt2,funny,EpiPen,famous,real, It seemed very important to him that I have it.,11,4.347,4.660,4.312,-0.348
+distilgpt2,reader,EpiPen,famous,incongruous, It seemed very important to him that I paint it.,11,5.138,5.348,5.302,-0.045
+distilgpt2,wellknown,EpiPen,famous,incongruous, It seemed very important to him that I paint it.,11,5.138,5.187,5.255,0.068
+distilgpt2,following,EpiPen,famous,incongruous, It seemed very important to him that I paint it.,11,5.138,5.209,5.138,-0.071
+distilgpt2,terse,EpiPen,famous,incongruous, It seemed very important to him that I paint it.,11,5.138,5.121,5.202,0.081
+distilgpt2,funny,EpiPen,famous,incongruous, It seemed very important to him that I paint it.,11,5.138,5.281,5.098,-0.183
+distilgpt2,reader,EpiPen,famous,literal, It was his way of keeping me safe.,9,3.749,3.769,3.784,0.015
+distilgpt2,wellknown,EpiPen,famous,literal, It was his way of keeping me safe.,9,3.749,3.817,3.821,0.004
+distilgpt2,following,EpiPen,famous,literal, It was his way of keeping me safe.,9,3.749,3.739,3.725,-0.014
+distilgpt2,terse,EpiPen,famous,literal, It was his way of keeping me safe.,9,3.749,3.713,3.726,0.013
+distilgpt2,funny,EpiPen,famous,literal, It was his way of keeping me safe.,9,3.749,3.827,3.707,-0.120
+distilgpt2,reader,Spider,famous,real, Had some drinks. Nice guy. Wants to be a web developer.,15,6.199,5.964,6.187,0.223
+distilgpt2,wellknown,Spider,famous,real, Had some drinks. Nice guy. Wants to be a web developer.,15,6.199,6.040,6.241,0.202
+distilgpt2,following,Spider,famous,real, Had some drinks. Nice guy. Wants to be a web developer.,15,6.199,6.005,6.225,0.221
+distilgpt2,terse,Spider,famous,real, Had some drinks. Nice guy. Wants to be a web developer.,15,6.199,6.101,6.183,0.083
+distilgpt2,funny,Spider,famous,real, Had some drinks. Nice guy. Wants to be a web developer.,15,6.199,6.103,6.298,0.195
+distilgpt2,reader,Spider,famous,incongruous, Bought some gravel. Damp shoe. Owes me a trombone.,16,7.344,7.348,7.342,-0.006
+distilgpt2,wellknown,Spider,famous,incongruous, Bought some gravel. Damp shoe. Owes me a trombone.,16,7.344,7.441,7.310,-0.130
+distilgpt2,following,Spider,famous,incongruous, Bought some gravel. Damp shoe. Owes me a trombone.,16,7.344,7.250,7.271,0.020
+distilgpt2,terse,Spider,famous,incongruous, Bought some gravel. Damp shoe. Owes me a trombone.,16,7.344,7.260,7.270,0.010
+distilgpt2,funny,Spider,famous,incongruous, Bought some gravel. Damp shoe. Owes me a trombone.,16,7.344,7.410,7.379,-0.031
+distilgpt2,reader,Spider,famous,literal, I let it go by the garden fence and then came back inside.,14,4.562,4.820,4.852,0.032
+distilgpt2,wellknown,Spider,famous,literal, I let it go by the garden fence and then came back inside.,14,4.562,4.734,4.705,-0.028
+distilgpt2,following,Spider,famous,literal, I let it go by the garden fence and then came back inside.,14,4.562,4.678,4.623,-0.056
+distilgpt2,terse,Spider,famous,literal, I let it go by the garden fence and then came back inside.,14,4.562,4.626,4.703,0.077
+distilgpt2,funny,Spider,famous,literal, I let it go by the garden fence and then came back inside.,14,4.562,4.810,4.759,-0.051
+distilgpt2,reader,Boomerang,famous,real, I now live in constant fear.,7,5.204,5.151,5.201,0.050
+distilgpt2,wellknown,Boomerang,famous,real, I now live in constant fear.,7,5.204,5.375,5.271,-0.105
+distilgpt2,following,Boomerang,famous,real, I now live in constant fear.,7,5.204,5.056,4.896,-0.159
+distilgpt2,terse,Boomerang,famous,real, I now live in constant fear.,7,5.204,5.277,5.224,-0.053
+distilgpt2,funny,Boomerang,famous,real, I now live in constant fear.,7,5.204,5.230,5.213,-0.016
+distilgpt2,reader,Boomerang,famous,incongruous, I now own several small goats.,7,7.280,7.350,7.589,0.239
+distilgpt2,wellknown,Boomerang,famous,incongruous, I now own several small goats.,7,7.280,7.207,7.026,-0.180
+distilgpt2,following,Boomerang,famous,incongruous, I now own several small goats.,7,7.280,7.222,7.219,-0.003
+distilgpt2,terse,Boomerang,famous,incongruous, I now own several small goats.,7,7.280,7.478,7.052,-0.426
+distilgpt2,funny,Boomerang,famous,incongruous, I now own several small goats.,7,7.280,7.486,7.424,-0.061
+distilgpt2,reader,Boomerang,famous,literal, It came right back to me.,7,3.648,3.707,3.696,-0.011
+distilgpt2,wellknown,Boomerang,famous,literal, It came right back to me.,7,3.648,3.920,3.915,-0.005
+distilgpt2,following,Boomerang,famous,literal, It came right back to me.,7,3.648,3.696,3.730,0.034
+distilgpt2,terse,Boomerang,famous,literal, It came right back to me.,7,3.648,3.658,3.752,0.094
+distilgpt2,funny,Boomerang,famous,literal, It came right back to me.,7,3.648,3.720,3.718,-0.002
+distilgpt2,reader,Brain,famous,real, Then I thought: look what's telling me that.,11,6.140,6.023,6.074,0.051
+distilgpt2,wellknown,Brain,famous,real, Then I thought: look what's telling me that.,11,6.140,6.018,6.152,0.134
+distilgpt2,following,Brain,famous,real, Then I thought: look what's telling me that.,11,6.140,6.039,6.254,0.216
+distilgpt2,terse,Brain,famous,real, Then I thought: look what's telling me that.,11,6.140,6.154,6.300,0.147
+distilgpt2,funny,Brain,famous,real, Then I thought: look what's telling me that.,11,6.140,6.075,6.191,0.116
+distilgpt2,reader,Brain,famous,incongruous, Then I thought: look what's eating my sandwich.,11,6.571,6.370,6.566,0.196
+distilgpt2,wellknown,Brain,famous,incongruous, Then I thought: look what's eating my sandwich.,11,6.571,6.368,6.547,0.179
+distilgpt2,following,Brain,famous,incongruous, Then I thought: look what's eating my sandwich.,11,6.571,6.409,6.702,0.293
+distilgpt2,terse,Brain,famous,incongruous, Then I thought: look what's eating my sandwich.,11,6.571,6.691,6.739,0.049
+distilgpt2,funny,Brain,famous,incongruous, Then I thought: look what's eating my sandwich.,11,6.571,6.521,6.593,0.072
+distilgpt2,reader,Brain,famous,literal, Then I learned how vital the heart is.,9,5.002,4.965,4.757,-0.208
+distilgpt2,wellknown,Brain,famous,literal, Then I learned how vital the heart is.,9,5.002,4.959,4.886,-0.074
+distilgpt2,following,Brain,famous,literal, Then I learned how vital the heart is.,9,5.002,4.920,4.878,-0.042
+distilgpt2,terse,Brain,famous,literal, Then I learned how vital the heart is.,9,5.002,5.025,5.079,0.054
+distilgpt2,funny,Brain,famous,literal, Then I learned how vital the heart is.,9,5.002,4.906,4.847,-0.059
+distilgpt2,reader,Take my wife,famous,real, Please.,2,5.638,4.896,5.591,0.696
+distilgpt2,wellknown,Take my wife,famous,real, Please.,2,5.638,6.501,6.648,0.147
+distilgpt2,following,Take my wife,famous,real, Please.,2,5.638,5.504,5.852,0.348
+distilgpt2,terse,Take my wife,famous,real, Please.,2,5.638,5.458,6.418,0.960
+distilgpt2,funny,Take my wife,famous,real, Please.,2,5.638,6.067,6.086,0.020
+distilgpt2,reader,Take my wife,famous,incongruous, Sideways.,3,8.741,8.362,8.980,0.618
+distilgpt2,wellknown,Take my wife,famous,incongruous, Sideways.,3,8.741,9.211,9.565,0.354
+distilgpt2,following,Take my wife,famous,incongruous, Sideways.,3,8.741,8.726,9.112,0.386
+distilgpt2,terse,Take my wife,famous,incongruous, Sideways.,3,8.741,8.593,9.302,0.709
+distilgpt2,funny,Take my wife,famous,incongruous, Sideways.,3,8.741,9.247,9.442,0.195
+distilgpt2,reader,Take my wife,famous,literal, She is lovely.,4,4.280,4.664,5.074,0.410
+distilgpt2,wellknown,Take my wife,famous,literal, She is lovely.,4,4.280,4.675,4.541,-0.135
+distilgpt2,following,Take my wife,famous,literal, She is lovely.,4,4.280,4.297,4.290,-0.007
+distilgpt2,terse,Take my wife,famous,literal, She is lovely.,4,4.280,4.300,3.951,-0.349
+distilgpt2,funny,Take my wife,famous,literal, She is lovely.,4,4.280,4.211,4.471,0.261
+distilgpt2,reader,Dyslexic devil,famous,real, I'm dyslexic.,6,4.148,4.007,4.108,0.101
+distilgpt2,wellknown,Dyslexic devil,famous,real, I'm dyslexic.,6,4.148,4.126,4.296,0.170
+distilgpt2,following,Dyslexic devil,famous,real, I'm dyslexic.,6,4.148,4.016,4.159,0.142
+distilgpt2,terse,Dyslexic devil,famous,real, I'm dyslexic.,6,4.148,4.017,4.232,0.215
+distilgpt2,funny,Dyslexic devil,famous,real, I'm dyslexic.,6,4.148,4.065,4.291,0.226
+distilgpt2,reader,Dyslexic devil,famous,incongruous, I'm vegetarian.,4,6.148,6.111,6.400,0.289
+distilgpt2,wellknown,Dyslexic devil,famous,incongruous, I'm vegetarian.,4,6.148,5.928,6.158,0.230
+distilgpt2,following,Dyslexic devil,famous,incongruous, I'm vegetarian.,4,6.148,5.914,6.111,0.197
+distilgpt2,terse,Dyslexic devil,famous,incongruous, I'm vegetarian.,4,6.148,5.871,6.234,0.364
+distilgpt2,funny,Dyslexic devil,famous,incongruous, I'm vegetarian.,4,6.148,6.152,6.331,0.180
+distilgpt2,reader,Dyslexic devil,famous,literal, He was very generous.,5,3.231,3.505,3.495,-0.009
+distilgpt2,wellknown,Dyslexic devil,famous,literal, He was very generous.,5,3.231,3.527,3.292,-0.234
+distilgpt2,following,Dyslexic devil,famous,literal, He was very generous.,5,3.231,3.272,3.227,-0.045
+distilgpt2,terse,Dyslexic devil,famous,literal, He was very generous.,5,3.231,3.235,3.127,-0.108
+distilgpt2,funny,Dyslexic devil,famous,literal, He was very generous.,5,3.231,3.313,3.315,0.002
+distilgpt2,reader,Atoms,famous,real, Because they make up everything.,6,4.562,4.329,4.456,0.128
+distilgpt2,wellknown,Atoms,famous,real, Because they make up everything.,6,4.562,4.562,4.558,-0.004
+distilgpt2,following,Atoms,famous,real, Because they make up everything.,6,4.562,4.194,4.302,0.108
+distilgpt2,terse,Atoms,famous,real, Because they make up everything.,6,4.562,4.451,4.285,-0.166
+distilgpt2,funny,Atoms,famous,real, Because they make up everything.,6,4.562,4.500,4.611,0.111
+distilgpt2,reader,Atoms,famous,incongruous, Because they smell of lemons.,7,6.217,5.912,6.026,0.114
+distilgpt2,wellknown,Atoms,famous,incongruous, Because they smell of lemons.,7,6.217,6.088,6.151,0.063
+distilgpt2,following,Atoms,famous,incongruous, Because they smell of lemons.,7,6.217,5.822,5.996,0.174
+distilgpt2,terse,Atoms,famous,incongruous, Because they smell of lemons.,7,6.217,6.011,5.916,-0.095
+distilgpt2,funny,Atoms,famous,incongruous, Because they smell of lemons.,7,6.217,6.195,6.413,0.218
+distilgpt2,reader,Atoms,famous,literal, Because they are too small to see.,8,4.152,3.832,4.007,0.175
+distilgpt2,wellknown,Atoms,famous,literal, Because they are too small to see.,8,4.152,4.145,4.181,0.036
+distilgpt2,following,Atoms,famous,literal, Because they are too small to see.,8,4.152,3.877,3.965,0.088
+distilgpt2,terse,Atoms,famous,literal, Because they are too small to see.,8,4.152,4.091,3.925,-0.166
+distilgpt2,funny,Atoms,famous,literal, Because they are too small to see.,8,4.152,4.157,4.190,0.033
+distilgpt2,reader,Skeleton,famous,real, Because he had no body to go with.,9,4.579,4.530,4.773,0.243
+distilgpt2,wellknown,Skeleton,famous,real, Because he had no body to go with.,9,4.579,4.603,4.637,0.033
+distilgpt2,following,Skeleton,famous,real, Because he had no body to go with.,9,4.579,4.389,4.503,0.115
+distilgpt2,terse,Skeleton,famous,real, Because he had no body to go with.,9,4.579,4.646,4.520,-0.126
+distilgpt2,funny,Skeleton,famous,real, Because he had no body to go with.,9,4.579,4.610,4.652,0.042
+distilgpt2,reader,Skeleton,famous,incongruous, Because he had no spoon to go with.,9,5.716,5.624,6.082,0.458
+distilgpt2,wellknown,Skeleton,famous,incongruous, Because he had no spoon to go with.,9,5.716,5.661,5.821,0.160
+distilgpt2,following,Skeleton,famous,incongruous, Because he had no spoon to go with.,9,5.716,5.510,5.845,0.335
+distilgpt2,terse,Skeleton,famous,incongruous, Because he had no spoon to go with.,9,5.716,5.737,5.632,-0.105
+distilgpt2,funny,Skeleton,famous,incongruous, Because he had no spoon to go with.,9,5.716,5.669,5.905,0.236
+distilgpt2,reader,Skeleton,famous,literal, Because his friends were all busy.,7,6.175,5.934,6.428,0.494
+distilgpt2,wellknown,Skeleton,famous,literal, Because his friends were all busy.,7,6.175,6.096,6.427,0.331
+distilgpt2,following,Skeleton,famous,literal, Because his friends were all busy.,7,6.175,5.814,6.375,0.560
+distilgpt2,terse,Skeleton,famous,literal, Because his friends were all busy.,7,6.175,6.170,6.134,-0.036
+distilgpt2,funny,Skeleton,famous,literal, Because his friends were all busy.,7,6.175,6.010,6.324,0.314
+distilgpt2,reader,Anti-gravity,famous,real, It's impossible to put down.,7,5.203,5.045,5.287,0.242
+distilgpt2,wellknown,Anti-gravity,famous,real, It's impossible to put down.,7,5.203,5.142,5.267,0.125
+distilgpt2,following,Anti-gravity,famous,real, It's impossible to put down.,7,5.203,5.031,5.250,0.219
+distilgpt2,terse,Anti-gravity,famous,real, It's impossible to put down.,7,5.203,5.154,5.313,0.159
+distilgpt2,funny,Anti-gravity,famous,real, It's impossible to put down.,7,5.203,5.192,5.348,0.157
+distilgpt2,reader,Anti-gravity,famous,incongruous, It's printed on wet lettuce.,7,7.670,7.450,7.458,0.009
+distilgpt2,wellknown,Anti-gravity,famous,incongruous, It's printed on wet lettuce.,7,7.670,7.288,7.477,0.189
+distilgpt2,following,Anti-gravity,famous,incongruous, It's printed on wet lettuce.,7,7.670,7.259,7.555,0.296
+distilgpt2,terse,Anti-gravity,famous,incongruous, It's printed on wet lettuce.,7,7.670,7.630,7.597,-0.033
+distilgpt2,funny,Anti-gravity,famous,incongruous, It's printed on wet lettuce.,7,7.670,7.527,7.572,0.045
+distilgpt2,reader,Anti-gravity,famous,literal, It's really interesting so far.,7,3.825,4.145,3.998,-0.147
+distilgpt2,wellknown,Anti-gravity,famous,literal, It's really interesting so far.,7,3.825,4.141,4.099,-0.042
+distilgpt2,following,Anti-gravity,famous,literal, It's really interesting so far.,7,3.825,4.055,4.050,-0.005
+distilgpt2,terse,Anti-gravity,famous,literal, It's really interesting so far.,7,3.825,3.813,3.851,0.038
+distilgpt2,funny,Anti-gravity,famous,literal, It's really interesting so far.,7,3.825,3.895,4.058,0.163
+distilgpt2,reader,Banker,famous,real, But I lost interest.,5,4.306,4.342,4.480,0.138
+distilgpt2,wellknown,Banker,famous,real, But I lost interest.,5,4.306,4.269,4.501,0.233
+distilgpt2,following,Banker,famous,real, But I lost interest.,5,4.306,4.358,4.595,0.237
+distilgpt2,terse,Banker,famous,real, But I lost interest.,5,4.306,4.384,4.393,0.009
+distilgpt2,funny,Banker,famous,real, But I lost interest.,5,4.306,4.486,4.486,0.001
+distilgpt2,reader,Banker,famous,incongruous, But I lost my umbrella.,6,5.816,5.889,5.840,-0.050
+distilgpt2,wellknown,Banker,famous,incongruous, But I lost my umbrella.,6,5.816,5.933,6.032,0.098
+distilgpt2,following,Banker,famous,incongruous, But I lost my umbrella.,6,5.816,5.821,5.825,0.004
+distilgpt2,terse,Banker,famous,incongruous, But I lost my umbrella.,6,5.816,5.801,5.994,0.193
+distilgpt2,funny,Banker,famous,incongruous, But I lost my umbrella.,6,5.816,6.028,5.847,-0.181
+distilgpt2,reader,Banker,famous,literal, But I changed careers.,5,5.146,5.109,4.895,-0.214
+distilgpt2,wellknown,Banker,famous,literal, But I changed careers.,5,5.146,5.042,4.954,-0.089
+distilgpt2,following,Banker,famous,literal, But I changed careers.,5,5.146,5.171,5.105,-0.067
+distilgpt2,terse,Banker,famous,literal, But I changed careers.,5,5.146,5.204,5.306,0.101
+distilgpt2,funny,Banker,famous,literal, But I changed careers.,5,5.146,5.068,4.955,-0.113
+distilgpt2,reader,Tense,famous,real, It was tense.,4,4.964,5.300,5.124,-0.176
+distilgpt2,wellknown,Tense,famous,real, It was tense.,4,4.964,5.817,5.684,-0.133
+distilgpt2,following,Tense,famous,real, It was tense.,4,4.964,5.130,5.219,0.089
+distilgpt2,terse,Tense,famous,real, It was tense.,4,4.964,4.798,5.069,0.271
+distilgpt2,funny,Tense,famous,real, It was tense.,4,4.964,5.139,5.310,0.171
+distilgpt2,reader,Tense,famous,incongruous, It was beige.,5,6.105,6.411,6.473,0.062
+distilgpt2,wellknown,Tense,famous,incongruous, It was beige.,5,6.105,6.557,6.420,-0.137
+distilgpt2,following,Tense,famous,incongruous, It was beige.,5,6.105,5.959,6.232,0.273
+distilgpt2,terse,Tense,famous,incongruous, It was beige.,5,6.105,5.923,5.896,-0.027
+distilgpt2,funny,Tense,famous,incongruous, It was beige.,5,6.105,6.466,6.654,0.187
+distilgpt2,reader,Tense,famous,literal, They ordered a drink.,5,4.806,4.755,4.413,-0.342
+distilgpt2,wellknown,Tense,famous,literal, They ordered a drink.,5,4.806,4.865,4.613,-0.252
+distilgpt2,following,Tense,famous,literal, They ordered a drink.,5,4.806,4.477,4.224,-0.253
+distilgpt2,terse,Tense,famous,literal, They ordered a drink.,5,4.806,4.639,4.594,-0.045
+distilgpt2,funny,Tense,famous,literal, They ordered a drink.,5,4.806,4.910,4.653,-0.257
+distilgpt2,reader,Dawned,famous,real, Then it dawned on me.,7,2.859,2.760,3.069,0.310
+distilgpt2,wellknown,Dawned,famous,real, Then it dawned on me.,7,2.859,2.929,3.153,0.224
+distilgpt2,following,Dawned,famous,real, Then it dawned on me.,7,2.859,2.837,2.969,0.132
+distilgpt2,terse,Dawned,famous,real, Then it dawned on me.,7,2.859,2.902,3.063,0.161
+distilgpt2,funny,Dawned,famous,real, Then it dawned on me.,7,2.859,2.781,2.851,0.070
+distilgpt2,reader,Dawned,famous,incongruous, Then it barked at me.,7,5.167,5.044,5.153,0.109
+distilgpt2,wellknown,Dawned,famous,incongruous, Then it barked at me.,7,5.167,5.038,5.340,0.303
+distilgpt2,following,Dawned,famous,incongruous, Then it barked at me.,7,5.167,4.972,5.134,0.162
+distilgpt2,terse,Dawned,famous,incongruous, Then it barked at me.,7,5.167,5.151,5.325,0.174
+distilgpt2,funny,Dawned,famous,incongruous, Then it barked at me.,7,5.167,5.120,5.142,0.022
+distilgpt2,reader,Dawned,famous,literal, Then I finally fell asleep.,6,4.100,4.010,4.194,0.184
+distilgpt2,wellknown,Dawned,famous,literal, Then I finally fell asleep.,6,4.100,4.034,4.216,0.182
+distilgpt2,following,Dawned,famous,literal, Then I finally fell asleep.,6,4.100,4.038,4.119,0.082
+distilgpt2,terse,Dawned,famous,literal, Then I finally fell asleep.,6,4.100,4.121,4.229,0.108
+distilgpt2,funny,Dawned,famous,literal, Then I finally fell asleep.,6,4.100,3.927,4.098,0.171
+distilgpt2,reader,Scarecrow,famous,real, Because he was outstanding in his field.,8,4.554,4.555,4.614,0.059
+distilgpt2,wellknown,Scarecrow,famous,real, Because he was outstanding in his field.,8,4.554,4.811,4.568,-0.242
+distilgpt2,following,Scarecrow,famous,real, Because he was outstanding in his field.,8,4.554,4.446,4.387,-0.059
+distilgpt2,terse,Scarecrow,famous,real, Because he was outstanding in his field.,8,4.554,4.535,4.300,-0.234
+distilgpt2,funny,Scarecrow,famous,real, Because he was outstanding in his field.,8,4.554,4.636,4.599,-0.037
+distilgpt2,reader,Scarecrow,famous,incongruous, Because he was allergic to his field.,8,5.928,5.807,6.151,0.344
+distilgpt2,wellknown,Scarecrow,famous,incongruous, Because he was allergic to his field.,8,5.928,5.963,5.989,0.026
+distilgpt2,following,Scarecrow,famous,incongruous, Because he was allergic to his field.,8,5.928,5.662,5.798,0.136
+distilgpt2,terse,Scarecrow,famous,incongruous, Because he was allergic to his field.,8,5.928,5.928,5.763,-0.165
+distilgpt2,funny,Scarecrow,famous,incongruous, Because he was allergic to his field.,8,5.928,5.948,6.064,0.116
+distilgpt2,reader,Scarecrow,famous,literal, Because he scared away the most crows.,9,5.699,5.783,6.006,0.223
+distilgpt2,wellknown,Scarecrow,famous,literal, Because he scared away the most crows.,9,5.699,5.917,5.840,-0.077
+distilgpt2,following,Scarecrow,famous,literal, Because he scared away the most crows.,9,5.699,5.672,5.675,0.003
+distilgpt2,terse,Scarecrow,famous,literal, Because he scared away the most crows.,9,5.699,5.787,5.576,-0.212
+distilgpt2,funny,Scarecrow,famous,literal, Because he scared away the most crows.,9,5.699,5.946,5.933,-0.012
+distilgpt2,reader,Impasta,famous,real, An impasta.,4,9.820,9.474,9.461,-0.012
+distilgpt2,wellknown,Impasta,famous,real, An impasta.,4,9.820,9.712,9.892,0.180
+distilgpt2,following,Impasta,famous,real, An impasta.,4,9.820,9.557,9.574,0.017
+distilgpt2,terse,Impasta,famous,real, An impasta.,4,9.820,10.019,9.850,-0.170
+distilgpt2,funny,Impasta,famous,real, An impasta.,4,9.820,9.896,9.666,-0.230
+distilgpt2,reader,Impasta,famous,incongruous, A Tuesday.,3,11.259,10.424,10.609,0.185
+distilgpt2,wellknown,Impasta,famous,incongruous, A Tuesday.,3,11.259,10.773,10.518,-0.254
+distilgpt2,following,Impasta,famous,incongruous, A Tuesday.,3,11.259,10.755,11.257,0.502
+distilgpt2,terse,Impasta,famous,incongruous, A Tuesday.,3,11.259,11.195,11.202,0.008
+distilgpt2,funny,Impasta,famous,incongruous, A Tuesday.,3,11.259,10.880,10.902,0.021
+distilgpt2,reader,Impasta,famous,literal, A plastic noodle.,5,4.451,4.181,4.269,0.088
+distilgpt2,wellknown,Impasta,famous,literal, A plastic noodle.,5,4.451,4.499,4.594,0.095
+distilgpt2,following,Impasta,famous,literal, A plastic noodle.,5,4.451,4.232,4.234,0.002
+distilgpt2,terse,Impasta,famous,literal, A plastic noodle.,5,4.451,4.716,4.554,-0.162
+distilgpt2,funny,Impasta,famous,literal, A plastic noodle.,5,4.451,4.593,4.609,0.016
+distilgpt2,reader,Chemistry,famous,real, But I know I wouldn't get a reaction.,10,4.484,4.471,4.528,0.057
+distilgpt2,wellknown,Chemistry,famous,real, But I know I wouldn't get a reaction.,10,4.484,4.540,4.643,0.103
+distilgpt2,following,Chemistry,famous,real, But I know I wouldn't get a reaction.,10,4.484,4.590,4.626,0.035
+distilgpt2,terse,Chemistry,famous,real, But I know I wouldn't get a reaction.,10,4.484,4.488,4.610,0.122
+distilgpt2,funny,Chemistry,famous,real, But I know I wouldn't get a reaction.,10,4.484,4.522,4.637,0.115
+distilgpt2,reader,Chemistry,famous,incongruous, But I know I wouldn't get a sandwich.,10,4.852,4.849,5.021,0.172
+distilgpt2,wellknown,Chemistry,famous,incongruous, But I know I wouldn't get a sandwich.,10,4.852,4.828,5.110,0.282
+distilgpt2,following,Chemistry,famous,incongruous, But I know I wouldn't get a sandwich.,10,4.852,4.891,5.006,0.115
+distilgpt2,terse,Chemistry,famous,incongruous, But I know I wouldn't get a sandwich.,10,4.852,4.854,5.040,0.186
+distilgpt2,funny,Chemistry,famous,incongruous, But I know I wouldn't get a sandwich.,10,4.852,5.018,5.127,0.108
+distilgpt2,reader,Chemistry,famous,literal, But I know you wouldn't find it funny.,10,3.576,3.395,3.512,0.117
+distilgpt2,wellknown,Chemistry,famous,literal, But I know you wouldn't find it funny.,10,3.576,3.433,3.564,0.131
+distilgpt2,following,Chemistry,famous,literal, But I know you wouldn't find it funny.,10,3.576,3.526,3.557,0.031
+distilgpt2,terse,Chemistry,famous,literal, But I know you wouldn't find it funny.,10,3.576,3.645,3.610,-0.035
+distilgpt2,funny,Chemistry,famous,literal, But I know you wouldn't find it funny.,10,3.576,3.470,3.727,0.257
+distilgpt2,reader,Eggs,famous,real, They'd crack up.,5,7.190,7.695,7.708,0.014
+distilgpt2,wellknown,Eggs,famous,real, They'd crack up.,5,7.190,7.214,7.432,0.218
+distilgpt2,following,Eggs,famous,real, They'd crack up.,5,7.190,7.524,7.767,0.243
+distilgpt2,terse,Eggs,famous,real, They'd crack up.,5,7.190,7.275,7.504,0.229
+distilgpt2,funny,Eggs,famous,real, They'd crack up.,5,7.190,7.595,7.756,0.161
+distilgpt2,reader,Eggs,famous,incongruous, They'd turn purple.,5,7.862,8.340,8.448,0.107
+distilgpt2,wellknown,Eggs,famous,incongruous, They'd turn purple.,5,7.862,7.891,8.144,0.253
+distilgpt2,following,Eggs,famous,incongruous, They'd turn purple.,5,7.862,8.141,8.372,0.232
+distilgpt2,terse,Eggs,famous,incongruous, They'd turn purple.,5,7.862,7.993,8.072,0.079
+distilgpt2,funny,Eggs,famous,incongruous, They'd turn purple.,5,7.862,8.420,8.478,0.057
+distilgpt2,reader,Eggs,famous,literal, They can't talk.,5,5.133,5.247,5.507,0.259
+distilgpt2,wellknown,Eggs,famous,literal, They can't talk.,5,5.133,5.223,5.409,0.186
+distilgpt2,following,Eggs,famous,literal, They can't talk.,5,5.133,5.267,5.596,0.329
+distilgpt2,terse,Eggs,famous,literal, They can't talk.,5,5.133,5.168,5.260,0.092
+distilgpt2,funny,Eggs,famous,literal, They can't talk.,5,5.133,5.495,5.552,0.057
+distilgpt2,reader,Seafood,famous,real, I see food and I eat it.,8,4.601,4.643,4.742,0.100
+distilgpt2,wellknown,Seafood,famous,real, I see food and I eat it.,8,4.601,4.746,4.984,0.238
+distilgpt2,following,Seafood,famous,real, I see food and I eat it.,8,4.601,4.457,4.462,0.006
+distilgpt2,terse,Seafood,famous,real, I see food and I eat it.,8,4.601,4.510,5.005,0.494
+distilgpt2,funny,Seafood,famous,real, I see food and I eat it.,8,4.601,4.464,4.600,0.136
+distilgpt2,reader,Seafood,famous,incongruous, I see trees and I paint them.,8,6.857,6.957,7.124,0.168
+distilgpt2,wellknown,Seafood,famous,incongruous, I see trees and I paint them.,8,6.857,6.969,7.293,0.323
+distilgpt2,following,Seafood,famous,incongruous, I see trees and I paint them.,8,6.857,6.701,7.019,0.318
+distilgpt2,terse,Seafood,famous,incongruous, I see trees and I paint them.,8,6.857,6.692,7.241,0.549
+distilgpt2,funny,Seafood,famous,incongruous, I see trees and I paint them.,8,6.857,6.805,6.951,0.146
+distilgpt2,reader,Seafood,famous,literal, I eat a lot of fish.,7,2.287,2.438,2.699,0.261
+distilgpt2,wellknown,Seafood,famous,literal, I eat a lot of fish.,7,2.287,2.344,2.519,0.175
+distilgpt2,following,Seafood,famous,literal, I eat a lot of fish.,7,2.287,2.232,2.269,0.037
+distilgpt2,terse,Seafood,famous,literal, I eat a lot of fish.,7,2.287,2.190,2.472,0.283
+distilgpt2,funny,Seafood,famous,literal, I eat a lot of fish.,7,2.287,2.257,2.491,0.234
+distilgpt2,reader,Bicycle,famous,real, Because it was two-tired.,8,6.086,5.943,6.051,0.107
+distilgpt2,wellknown,Bicycle,famous,real, Because it was two-tired.,8,6.086,5.921,5.867,-0.054
+distilgpt2,following,Bicycle,famous,real, Because it was two-tired.,8,6.086,5.812,5.949,0.137
+distilgpt2,terse,Bicycle,famous,real, Because it was two-tired.,8,6.086,5.946,5.716,-0.230
+distilgpt2,funny,Bicycle,famous,real, Because it was two-tired.,8,6.086,5.967,6.065,0.098
+distilgpt2,reader,Bicycle,famous,incongruous, Because it was secretly Norwegian.,6,8.128,7.615,7.830,0.215
+distilgpt2,wellknown,Bicycle,famous,incongruous, Because it was secretly Norwegian.,6,8.128,7.801,8.112,0.311
+distilgpt2,following,Bicycle,famous,incongruous, Because it was secretly Norwegian.,6,8.128,7.833,8.347,0.514
+distilgpt2,terse,Bicycle,famous,incongruous, Because it was secretly Norwegian.,6,8.128,8.071,7.917,-0.155
+distilgpt2,funny,Bicycle,famous,incongruous, Because it was secretly Norwegian.,6,8.128,7.916,8.311,0.395
+distilgpt2,reader,Bicycle,famous,literal, Because it had no kickstand.,7,5.433,5.287,5.355,0.069
+distilgpt2,wellknown,Bicycle,famous,literal, Because it had no kickstand.,7,5.433,5.197,5.336,0.139
+distilgpt2,following,Bicycle,famous,literal, Because it had no kickstand.,7,5.433,5.239,5.486,0.248
+distilgpt2,terse,Bicycle,famous,literal, Because it had no kickstand.,7,5.433,5.519,5.152,-0.367
+distilgpt2,funny,Bicycle,famous,literal, Because it had no kickstand.,7,5.433,5.320,5.572,0.252
+distilgpt2,reader,Nacho,famous,real, Nacho cheese.,4,5.756,5.593,5.959,0.366
+distilgpt2,wellknown,Nacho,famous,real, Nacho cheese.,4,5.756,5.499,5.953,0.455
+distilgpt2,following,Nacho,famous,real, Nacho cheese.,4,5.756,5.649,5.911,0.263
+distilgpt2,terse,Nacho,famous,real, Nacho cheese.,4,5.756,5.587,5.934,0.347
+distilgpt2,funny,Nacho,famous,real, Nacho cheese.,4,5.756,5.913,6.097,0.185
+distilgpt2,reader,Nacho,famous,incongruous, Tuesday cheese.,3,13.579,13.683,14.119,0.437
+distilgpt2,wellknown,Nacho,famous,incongruous, Tuesday cheese.,3,13.579,13.500,13.532,0.032
+distilgpt2,following,Nacho,famous,incongruous, Tuesday cheese.,3,13.579,13.441,13.674,0.233
+distilgpt2,terse,Nacho,famous,incongruous, Tuesday cheese.,3,13.579,13.941,14.014,0.073
+distilgpt2,funny,Nacho,famous,incongruous, Tuesday cheese.,3,13.579,13.636,13.487,-0.148
+distilgpt2,reader,Nacho,famous,literal, Stolen cheese.,4,6.617,6.088,6.481,0.393
+distilgpt2,wellknown,Nacho,famous,literal, Stolen cheese.,4,6.617,6.189,6.515,0.327
+distilgpt2,following,Nacho,famous,literal, Stolen cheese.,4,6.617,6.236,6.443,0.207
+distilgpt2,terse,Nacho,famous,literal, Stolen cheese.,4,6.617,6.690,6.666,-0.024
+distilgpt2,funny,Nacho,famous,literal, Stolen cheese.,4,6.617,6.700,6.534,-0.166
+distilgpt2,reader,Termite,famous,real, is the bar tender here?,6,7.722,7.737,7.743,0.005
+distilgpt2,wellknown,Termite,famous,real, is the bar tender here?,6,7.722,7.846,7.588,-0.258
+distilgpt2,following,Termite,famous,real, is the bar tender here?,6,7.722,7.633,7.566,-0.067
+distilgpt2,terse,Termite,famous,real, is the bar tender here?,6,7.722,7.737,7.499,-0.238
+distilgpt2,funny,Termite,famous,real, is the bar tender here?,6,7.722,7.690,7.522,-0.168
+distilgpt2,reader,Termite,famous,incongruous, is the moon awake yet?,6,7.887,7.980,8.071,0.091
+distilgpt2,wellknown,Termite,famous,incongruous, is the moon awake yet?,6,7.887,7.897,8.106,0.210
+distilgpt2,following,Termite,famous,incongruous, is the moon awake yet?,6,7.887,7.973,8.265,0.293
+distilgpt2,terse,Termite,famous,incongruous, is the moon awake yet?,6,7.887,7.946,7.895,-0.052
+distilgpt2,funny,Termite,famous,incongruous, is the moon awake yet?,6,7.887,8.265,8.272,0.007
+distilgpt2,reader,Termite,famous,literal, can I get a drink?,6,3.689,3.578,3.619,0.040
+distilgpt2,wellknown,Termite,famous,literal, can I get a drink?,6,3.689,3.725,3.471,-0.254
+distilgpt2,following,Termite,famous,literal, can I get a drink?,6,3.689,3.617,3.680,0.063
+distilgpt2,terse,Termite,famous,literal, can I get a drink?,6,3.689,3.530,3.454,-0.076
+distilgpt2,funny,Termite,famous,literal, can I get a drink?,6,3.689,3.543,3.496,-0.047
+distilgpt2,reader,Dog nothing,famous,real, He said nothing.,4,3.467,3.241,3.352,0.110
+distilgpt2,wellknown,Dog nothing,famous,real, He said nothing.,4,3.467,3.549,3.695,0.146
+distilgpt2,following,Dog nothing,famous,real, He said nothing.,4,3.467,3.369,3.513,0.144
+distilgpt2,terse,Dog nothing,famous,real, He said nothing.,4,3.467,3.371,3.740,0.370
+distilgpt2,funny,Dog nothing,famous,real, He said nothing.,4,3.467,3.313,3.476,0.162
+distilgpt2,reader,Dog nothing,famous,incongruous, He said lasagne.,5,6.549,6.445,6.919,0.474
+distilgpt2,wellknown,Dog nothing,famous,incongruous, He said lasagne.,5,6.549,6.625,6.974,0.349
+distilgpt2,following,Dog nothing,famous,incongruous, He said lasagne.,5,6.549,6.607,7.077,0.469
+distilgpt2,terse,Dog nothing,famous,incongruous, He said lasagne.,5,6.549,6.549,6.857,0.308
+distilgpt2,funny,Dog nothing,famous,incongruous, He said lasagne.,5,6.549,6.648,6.860,0.212
+distilgpt2,reader,Dog nothing,famous,literal, He wagged his tail.,6,4.735,4.606,4.838,0.233
+distilgpt2,wellknown,Dog nothing,famous,literal, He wagged his tail.,6,4.735,4.784,5.120,0.336
+distilgpt2,following,Dog nothing,famous,literal, He wagged his tail.,6,4.735,4.630,4.813,0.183
+distilgpt2,terse,Dog nothing,famous,literal, He wagged his tail.,6,4.735,4.726,5.052,0.326
+distilgpt2,funny,Dog nothing,famous,literal, He wagged his tail.,6,4.735,4.700,4.709,0.009
+distilgpt2,reader,Onions,novel,real, we know.,3,7.806,8.004,7.983,-0.021
+distilgpt2,wellknown,Onions,novel,real, we know.,3,7.806,8.016,8.259,0.243
+distilgpt2,following,Onions,novel,real, we know.,3,7.806,7.806,7.848,0.042
+distilgpt2,terse,Onions,novel,real, we know.,3,7.806,7.646,7.928,0.283
+distilgpt2,funny,Onions,novel,real, we know.,3,7.806,8.202,7.915,-0.288
+distilgpt2,reader,Onions,novel,incongruous, we vote.,3,10.592,10.612,10.450,-0.162
+distilgpt2,wellknown,Onions,novel,incongruous, we vote.,3,10.592,10.188,10.448,0.261
+distilgpt2,following,Onions,novel,incongruous, we vote.,3,10.592,10.265,10.290,0.025
+distilgpt2,terse,Onions,novel,incongruous, we vote.,3,10.592,10.491,10.417,-0.073
+distilgpt2,funny,Onions,novel,incongruous, we vote.,3,10.592,10.610,10.391,-0.219
+distilgpt2,reader,Onions,novel,literal," goodbye, friend.",4,7.433,7.365,7.590,0.225
+distilgpt2,wellknown,Onions,novel,literal," goodbye, friend.",4,7.433,7.288,7.220,-0.067
+distilgpt2,following,Onions,novel,literal," goodbye, friend.",4,7.433,7.150,7.333,0.183
+distilgpt2,terse,Onions,novel,literal," goodbye, friend.",4,7.433,7.904,7.201,-0.703
+distilgpt2,funny,Onions,novel,literal," goodbye, friend.",4,7.433,7.408,7.242,-0.166
+distilgpt2,reader,Watch eat,novel,real, So I dragged the television into the kitchen.,9,5.119,4.909,5.030,0.121
+distilgpt2,wellknown,Watch eat,novel,real, So I dragged the television into the kitchen.,9,5.119,4.992,5.053,0.061
+distilgpt2,following,Watch eat,novel,real, So I dragged the television into the kitchen.,9,5.119,5.034,5.125,0.091
+distilgpt2,terse,Watch eat,novel,real, So I dragged the television into the kitchen.,9,5.119,5.183,5.085,-0.099
+distilgpt2,funny,Watch eat,novel,real, So I dragged the television into the kitchen.,9,5.119,4.875,4.999,0.125
+distilgpt2,reader,Watch eat,novel,incongruous, So I dragged the bathtub into the garden.,10,5.313,5.238,5.375,0.137
+distilgpt2,wellknown,Watch eat,novel,incongruous, So I dragged the bathtub into the garden.,10,5.313,5.315,5.480,0.165
+distilgpt2,following,Watch eat,novel,incongruous, So I dragged the bathtub into the garden.,10,5.313,5.272,5.449,0.177
+distilgpt2,terse,Watch eat,novel,incongruous, So I dragged the bathtub into the garden.,10,5.313,5.388,5.348,-0.039
+distilgpt2,funny,Watch eat,novel,incongruous, So I dragged the bathtub into the garden.,10,5.313,5.255,5.347,0.092
+distilgpt2,reader,Watch eat,novel,literal, So I started counting my calories every day.,9,3.934,3.896,4.082,0.186
+distilgpt2,wellknown,Watch eat,novel,literal, So I started counting my calories every day.,9,3.934,3.775,3.923,0.148
+distilgpt2,following,Watch eat,novel,literal, So I started counting my calories every day.,9,3.934,3.977,4.074,0.098
+distilgpt2,terse,Watch eat,novel,literal, So I started counting my calories every day.,9,3.934,4.004,3.968,-0.036
+distilgpt2,funny,Watch eat,novel,literal, So I started counting my calories every day.,9,3.934,3.915,3.967,0.052
+distilgpt2,reader,Skydiving,novel,real, She was right. Everything is blurry without my glasses.,11,6.642,6.290,6.567,0.277
+distilgpt2,wellknown,Skydiving,novel,real, She was right. Everything is blurry without my glasses.,11,6.642,6.433,6.551,0.118
+distilgpt2,following,Skydiving,novel,real, She was right. Everything is blurry without my glasses.,11,6.642,6.432,6.818,0.386
+distilgpt2,terse,Skydiving,novel,real, She was right. Everything is blurry without my glasses.,11,6.642,6.413,6.487,0.075
+distilgpt2,funny,Skydiving,novel,real, She was right. Everything is blurry without my glasses.,11,6.642,6.450,6.720,0.270
+distilgpt2,reader,Skydiving,novel,incongruous, She was right. Everything is cheaper without my cousin.,11,8.130,7.723,7.903,0.180
+distilgpt2,wellknown,Skydiving,novel,incongruous, She was right. Everything is cheaper without my cousin.,11,8.130,7.896,7.996,0.099
+distilgpt2,following,Skydiving,novel,incongruous, She was right. Everything is cheaper without my cousin.,11,8.130,7.935,8.235,0.300
+distilgpt2,terse,Skydiving,novel,incongruous, She was right. Everything is cheaper without my cousin.,11,8.130,7.975,8.003,0.028
+distilgpt2,funny,Skydiving,novel,incongruous, She was right. Everything is cheaper without my cousin.,11,8.130,7.991,8.214,0.223
+distilgpt2,reader,Skydiving,novel,literal, She was right. I feel much braver about everything now.,13,6.228,6.013,6.077,0.064
+distilgpt2,wellknown,Skydiving,novel,literal, She was right. I feel much braver about everything now.,13,6.228,6.142,6.100,-0.042
+distilgpt2,following,Skydiving,novel,literal, She was right. I feel much braver about everything now.,13,6.228,6.131,6.224,0.093
+distilgpt2,terse,Skydiving,novel,literal, She was right. I feel much braver about everything now.,13,6.228,6.009,6.070,0.060
+distilgpt2,funny,Skydiving,novel,literal, She was right. I feel much braver about everything now.,13,6.228,6.056,6.168,0.112
+distilgpt2,reader,At peace,novel,real, We buried her with her phone.,7,5.705,5.752,5.861,0.108
+distilgpt2,wellknown,At peace,novel,real, We buried her with her phone.,7,5.705,5.755,5.861,0.106
+distilgpt2,following,At peace,novel,real, We buried her with her phone.,7,5.705,5.661,5.847,0.186
+distilgpt2,terse,At peace,novel,real, We buried her with her phone.,7,5.705,5.733,5.768,0.035
+distilgpt2,funny,At peace,novel,real, We buried her with her phone.,7,5.705,5.866,5.899,0.034
+distilgpt2,reader,At peace,novel,incongruous, We sold her piano to a dentist.,8,6.277,6.449,6.568,0.119
+distilgpt2,wellknown,At peace,novel,incongruous, We sold her piano to a dentist.,8,6.277,6.460,6.451,-0.009
+distilgpt2,following,At peace,novel,incongruous, We sold her piano to a dentist.,8,6.277,6.349,6.421,0.072
+distilgpt2,terse,At peace,novel,incongruous, We sold her piano to a dentist.,8,6.277,6.306,6.396,0.090
+distilgpt2,funny,At peace,novel,incongruous, We sold her piano to a dentist.,8,6.277,6.557,6.559,0.002
+distilgpt2,reader,At peace,novel,literal, She now video calls us every week.,8,7.867,7.827,7.748,-0.080
+distilgpt2,wellknown,At peace,novel,literal, She now video calls us every week.,8,7.867,7.718,7.600,-0.118
+distilgpt2,following,At peace,novel,literal, She now video calls us every week.,8,7.867,7.571,7.751,0.180
+distilgpt2,terse,At peace,novel,literal, She now video calls us every week.,8,7.867,7.780,7.788,0.007
+distilgpt2,funny,At peace,novel,literal, She now video calls us every week.,8,7.867,7.765,7.729,-0.036
+distilgpt2,reader,Escape room,novel,real, The fire marshal's report said the same thing.,11,4.338,4.325,4.020,-0.305
+distilgpt2,wellknown,Escape room,novel,real, The fire marshal's report said the same thing.,11,4.338,4.449,4.119,-0.330
+distilgpt2,following,Escape room,novel,real, The fire marshal's report said the same thing.,11,4.338,4.399,4.164,-0.235
+distilgpt2,terse,Escape room,novel,real, The fire marshal's report said the same thing.,11,4.338,4.321,4.312,-0.009
+distilgpt2,funny,Escape room,novel,real, The fire marshal's report said the same thing.,11,4.338,4.405,4.256,-0.149
+distilgpt2,reader,Escape room,novel,incongruous, The dentist's newsletter said the same thing.,9,6.426,6.324,6.121,-0.203
+distilgpt2,wellknown,Escape room,novel,incongruous, The dentist's newsletter said the same thing.,9,6.426,6.384,6.270,-0.114
+distilgpt2,following,Escape room,novel,incongruous, The dentist's newsletter said the same thing.,9,6.426,6.589,6.608,0.019
+distilgpt2,terse,Escape room,novel,incongruous, The dentist's newsletter said the same thing.,9,6.426,6.472,6.634,0.162
+distilgpt2,funny,Escape room,novel,incongruous, The dentist's newsletter said the same thing.,9,6.426,6.370,6.483,0.113
+distilgpt2,reader,Escape room,novel,literal, We solved every puzzle in under twenty minutes.,9,6.210,6.142,6.292,0.149
+distilgpt2,wellknown,Escape room,novel,literal, We solved every puzzle in under twenty minutes.,9,6.210,6.090,6.066,-0.024
+distilgpt2,following,Escape room,novel,literal, We solved every puzzle in under twenty minutes.,9,6.210,6.077,6.086,0.009
+distilgpt2,terse,Escape room,novel,literal, We solved every puzzle in under twenty minutes.,9,6.210,6.045,6.023,-0.022
+distilgpt2,funny,Escape room,novel,literal, We solved every puzzle in under twenty minutes.,9,6.210,5.962,6.033,0.071
+distilgpt2,reader,Inherited humour,novel,real, He still wants it back.,6,5.249,5.332,5.329,-0.003
+distilgpt2,wellknown,Inherited humour,novel,real, He still wants it back.,6,5.249,5.403,5.363,-0.040
+distilgpt2,following,Inherited humour,novel,real, He still wants it back.,6,5.249,5.255,5.299,0.043
+distilgpt2,terse,Inherited humour,novel,real, He still wants it back.,6,5.249,5.247,5.225,-0.022
+distilgpt2,funny,Inherited humour,novel,real, He still wants it back.,6,5.249,5.549,5.512,-0.037
+distilgpt2,reader,Inherited humour,novel,incongruous, He still owes me a kettle.,7,7.322,7.121,7.354,0.233
+distilgpt2,wellknown,Inherited humour,novel,incongruous, He still owes me a kettle.,7,7.322,7.112,7.223,0.111
+distilgpt2,following,Inherited humour,novel,incongruous, He still owes me a kettle.,7,7.322,7.125,7.431,0.307
+distilgpt2,terse,Inherited humour,novel,incongruous, He still owes me a kettle.,7,7.322,7.313,7.257,-0.056
+distilgpt2,funny,Inherited humour,novel,incongruous, He still owes me a kettle.,7,7.322,7.391,7.327,-0.064
+distilgpt2,reader,Inherited humour,novel,literal, He was always making us laugh.,7,3.994,4.274,4.280,0.006
+distilgpt2,wellknown,Inherited humour,novel,literal, He was always making us laugh.,7,3.994,4.323,4.247,-0.076
+distilgpt2,following,Inherited humour,novel,literal, He was always making us laugh.,7,3.994,4.115,4.105,-0.009
+distilgpt2,terse,Inherited humour,novel,literal, He was always making us laugh.,7,3.994,3.937,4.082,0.145
+distilgpt2,funny,Inherited humour,novel,literal, He was always making us laugh.,7,3.994,4.107,4.160,0.053
+distilgpt2,reader,Vacuum song,novel,real, It really sucked.,4,4.637,4.714,5.082,0.367
+distilgpt2,wellknown,Vacuum song,novel,real, It really sucked.,4,4.637,4.768,5.144,0.375
+distilgpt2,following,Vacuum song,novel,real, It really sucked.,4,4.637,4.583,4.920,0.337
+distilgpt2,terse,Vacuum song,novel,real, It really sucked.,4,4.637,4.533,4.711,0.179
+distilgpt2,funny,Vacuum song,novel,real, It really sucked.,4,4.637,4.919,5.376,0.457
+distilgpt2,reader,Vacuum song,novel,incongruous, It really sneezed.,6,6.049,5.965,6.374,0.409
+distilgpt2,wellknown,Vacuum song,novel,incongruous, It really sneezed.,6,6.049,5.757,6.366,0.610
+distilgpt2,following,Vacuum song,novel,incongruous, It really sneezed.,6,6.049,5.834,6.236,0.401
+distilgpt2,terse,Vacuum song,novel,incongruous, It really sneezed.,6,6.049,5.898,6.219,0.321
+distilgpt2,funny,Vacuum song,novel,incongruous, It really sneezed.,6,6.049,6.090,6.559,0.469
+distilgpt2,reader,Vacuum song,novel,literal, It was quite short.,5,4.594,4.783,4.628,-0.155
+distilgpt2,wellknown,Vacuum song,novel,literal, It was quite short.,5,4.594,4.841,4.698,-0.143
+distilgpt2,following,Vacuum song,novel,literal, It was quite short.,5,4.594,4.558,4.582,0.024
+distilgpt2,terse,Vacuum song,novel,literal, It was quite short.,5,4.594,4.576,4.527,-0.049
+distilgpt2,funny,Vacuum song,novel,literal, It was quite short.,5,4.594,4.594,4.654,0.059
+distilgpt2,reader,Elevator job,novel,real, She says the job has its ups and downs.,10,4.496,4.493,4.469,-0.024
+distilgpt2,wellknown,Elevator job,novel,real, She says the job has its ups and downs.,10,4.496,4.479,4.593,0.114
+distilgpt2,following,Elevator job,novel,real, She says the job has its ups and downs.,10,4.496,4.596,4.675,0.079
+distilgpt2,terse,Elevator job,novel,real, She says the job has its ups and downs.,10,4.496,4.605,4.654,0.049
+distilgpt2,funny,Elevator job,novel,real, She says the job has its ups and downs.,10,4.496,4.512,4.718,0.206
+distilgpt2,reader,Elevator job,novel,incongruous, She says the job has its forks and spoons.,11,6.573,6.476,6.517,0.042
+distilgpt2,wellknown,Elevator job,novel,incongruous, She says the job has its forks and spoons.,11,6.573,6.461,6.618,0.157
+distilgpt2,following,Elevator job,novel,incongruous, She says the job has its forks and spoons.,11,6.573,6.546,6.738,0.192
+distilgpt2,terse,Elevator job,novel,incongruous, She says the job has its forks and spoons.,11,6.573,6.610,6.691,0.081
+distilgpt2,funny,Elevator job,novel,incongruous, She says the job has its forks and spoons.,11,6.573,6.529,6.704,0.174
+distilgpt2,reader,Elevator job,novel,literal, She says the job pays quite well.,8,5.594,5.506,5.493,-0.012
+distilgpt2,wellknown,Elevator job,novel,literal, She says the job pays quite well.,8,5.594,5.525,5.705,0.180
+distilgpt2,following,Elevator job,novel,literal, She says the job pays quite well.,8,5.594,5.656,5.808,0.152
+distilgpt2,terse,Elevator job,novel,literal, She says the job pays quite well.,8,5.594,5.686,5.805,0.119
+distilgpt2,funny,Elevator job,novel,literal, She says the job pays quite well.,8,5.594,5.613,5.773,0.160
+distilgpt2,reader,Power plant,novel,real, I'm hoping for a power plant.,8,5.379,5.414,5.569,0.155
+distilgpt2,wellknown,Power plant,novel,real, I'm hoping for a power plant.,8,5.379,5.385,5.540,0.155
+distilgpt2,following,Power plant,novel,real, I'm hoping for a power plant.,8,5.379,5.371,5.443,0.072
+distilgpt2,terse,Power plant,novel,real, I'm hoping for a power plant.,8,5.379,5.273,5.364,0.091
+distilgpt2,funny,Power plant,novel,real, I'm hoping for a power plant.,8,5.379,5.587,5.523,-0.064
+distilgpt2,reader,Power plant,novel,incongruous, I'm hoping for a quiet Tuesday.,8,5.837,5.986,6.039,0.053
+distilgpt2,wellknown,Power plant,novel,incongruous, I'm hoping for a quiet Tuesday.,8,5.837,6.229,6.026,-0.203
+distilgpt2,following,Power plant,novel,incongruous, I'm hoping for a quiet Tuesday.,8,5.837,6.037,5.976,-0.061
+distilgpt2,terse,Power plant,novel,incongruous, I'm hoping for a quiet Tuesday.,8,5.837,5.796,5.769,-0.027
+distilgpt2,funny,Power plant,novel,incongruous, I'm hoping for a quiet Tuesday.,8,5.837,6.045,5.945,-0.101
+distilgpt2,reader,Power plant,novel,literal, I'm not sure why I did.,8,3.367,3.426,3.405,-0.021
+distilgpt2,wellknown,Power plant,novel,literal, I'm not sure why I did.,8,3.367,3.354,3.327,-0.027
+distilgpt2,following,Power plant,novel,literal, I'm not sure why I did.,8,3.367,3.413,3.429,0.016
+distilgpt2,terse,Power plant,novel,literal, I'm not sure why I did.,8,3.367,3.309,3.216,-0.093
+distilgpt2,funny,Power plant,novel,literal, I'm not sure why I did.,8,3.367,3.463,3.622,0.158
+distilgpt2,reader,Limit,novel,real, She said she was already approaching her limit.,9,5.340,5.482,5.394,-0.088
+distilgpt2,wellknown,Limit,novel,real, She said she was already approaching her limit.,9,5.340,5.837,5.585,-0.253
+distilgpt2,following,Limit,novel,real, She said she was already approaching her limit.,9,5.340,5.618,5.518,-0.100
+distilgpt2,terse,Limit,novel,real, She said she was already approaching her limit.,9,5.340,5.475,5.428,-0.047
+distilgpt2,funny,Limit,novel,real, She said she was already approaching her limit.,9,5.340,5.621,5.522,-0.099
+distilgpt2,reader,Limit,novel,incongruous, She said she was already approaching her cousin.,9,5.654,5.838,5.852,0.015
+distilgpt2,wellknown,Limit,novel,incongruous, She said she was already approaching her cousin.,9,5.654,6.183,5.984,-0.199
+distilgpt2,following,Limit,novel,incongruous, She said she was already approaching her cousin.,9,5.654,5.859,5.855,-0.004
+distilgpt2,terse,Limit,novel,incongruous, She said she was already approaching her cousin.,9,5.654,5.840,5.877,0.037
+distilgpt2,funny,Limit,novel,incongruous, She said she was already approaching her cousin.,9,5.654,6.079,5.919,-0.160
+distilgpt2,reader,Limit,novel,literal, She said she was already completely full.,8,5.834,6.089,6.033,-0.056
+distilgpt2,wellknown,Limit,novel,literal, She said she was already completely full.,8,5.834,6.325,6.061,-0.265
+distilgpt2,following,Limit,novel,literal, She said she was already completely full.,8,5.834,6.001,5.882,-0.119
+distilgpt2,terse,Limit,novel,literal, She said she was already completely full.,8,5.834,5.917,5.910,-0.006
+distilgpt2,funny,Limit,novel,literal, She said she was already completely full.,8,5.834,6.223,6.105,-0.118
+distilgpt2,reader,WiFi therapy,novel,real, It had connection issues.,5,5.682,5.690,5.662,-0.028
+distilgpt2,wellknown,WiFi therapy,novel,real, It had connection issues.,5,5.682,5.703,5.568,-0.135
+distilgpt2,following,WiFi therapy,novel,real, It had connection issues.,5,5.682,5.330,5.381,0.051
+distilgpt2,terse,WiFi therapy,novel,real, It had connection issues.,5,5.682,5.494,5.516,0.022
+distilgpt2,funny,WiFi therapy,novel,real, It had connection issues.,5,5.682,5.659,5.692,0.032
+distilgpt2,reader,WiFi therapy,novel,incongruous, It had elbow issues.,5,7.296,7.501,7.497,-0.004
+distilgpt2,wellknown,WiFi therapy,novel,incongruous, It had elbow issues.,5,7.296,7.342,7.242,-0.100
+distilgpt2,following,WiFi therapy,novel,incongruous, It had elbow issues.,5,7.296,7.073,7.078,0.006
+distilgpt2,terse,WiFi therapy,novel,incongruous, It had elbow issues.,5,7.296,7.051,7.181,0.130
+distilgpt2,funny,WiFi therapy,novel,incongruous, It had elbow issues.,5,7.296,7.262,7.416,0.154
+distilgpt2,reader,WiFi therapy,novel,literal, It had been struggling lately.,6,5.658,5.969,6.001,0.032
+distilgpt2,wellknown,WiFi therapy,novel,literal, It had been struggling lately.,6,5.658,5.996,5.822,-0.173
+distilgpt2,following,WiFi therapy,novel,literal, It had been struggling lately.,6,5.658,5.708,5.681,-0.027
+distilgpt2,terse,WiFi therapy,novel,literal, It had been struggling lately.,6,5.658,5.577,5.687,0.110
+distilgpt2,funny,WiFi therapy,novel,literal, It had been struggling lately.,6,5.658,5.934,5.985,0.051
+distilgpt2,reader,Glacier,novel,real, It just goes with the floe.,8,5.365,5.537,5.675,0.138
+distilgpt2,wellknown,Glacier,novel,real, It just goes with the floe.,8,5.365,5.511,5.713,0.202
+distilgpt2,following,Glacier,novel,real, It just goes with the floe.,8,5.365,5.436,5.633,0.197
+distilgpt2,terse,Glacier,novel,real, It just goes with the floe.,8,5.365,5.196,5.482,0.286
+distilgpt2,funny,Glacier,novel,real, It just goes with the floe.,8,5.365,5.515,5.708,0.194
+distilgpt2,reader,Glacier,novel,incongruous, It just hums with the goats.,8,6.739,6.975,7.216,0.241
+distilgpt2,wellknown,Glacier,novel,incongruous, It just hums with the goats.,8,6.739,6.967,7.221,0.254
+distilgpt2,following,Glacier,novel,incongruous, It just hums with the goats.,8,6.739,6.809,7.072,0.263
+distilgpt2,terse,Glacier,novel,incongruous, It just hums with the goats.,8,6.739,6.588,6.854,0.266
+distilgpt2,funny,Glacier,novel,incongruous, It just hums with the goats.,8,6.739,6.847,7.075,0.228
+distilgpt2,reader,Glacier,novel,literal, It just moves very slowly.,6,4.212,4.427,4.501,0.074
+distilgpt2,wellknown,Glacier,novel,literal, It just moves very slowly.,6,4.212,4.443,4.530,0.088
+distilgpt2,following,Glacier,novel,literal, It just moves very slowly.,6,4.212,4.246,4.274,0.028
+distilgpt2,terse,Glacier,novel,literal, It just moves very slowly.,6,4.212,4.044,4.296,0.251
+distilgpt2,funny,Glacier,novel,literal, It just moves very slowly.,6,4.212,4.354,4.478,0.124
+google/gemma-2-2b-it,reader,Time flies,famous,real, Fruit flies like a banana.,6,0.212,0.219,0.375,0.155
+google/gemma-2-2b-it,wellknown,Time flies,famous,real, Fruit flies like a banana.,6,0.212,0.165,0.358,0.194
+google/gemma-2-2b-it,following,Time flies,famous,real, Fruit flies like a banana.,6,0.212,0.112,1.129,1.018
+google/gemma-2-2b-it,terse,Time flies,famous,real, Fruit flies like a banana.,6,0.212,0.276,0.097,-0.179
+google/gemma-2-2b-it,funny,Time flies,famous,real, Fruit flies like a banana.,6,0.212,0.192,0.577,0.384
+google/gemma-2-2b-it,reader,Time flies,famous,incongruous, Bread swims like a piano.,6,11.753,12.530,12.689,0.159
+google/gemma-2-2b-it,wellknown,Time flies,famous,incongruous, Bread swims like a piano.,6,11.753,14.064,13.061,-1.003
+google/gemma-2-2b-it,following,Time flies,famous,incongruous, Bread swims like a piano.,6,11.753,12.259,13.217,0.958
+google/gemma-2-2b-it,terse,Time flies,famous,incongruous, Bread swims like a piano.,6,11.753,12.240,12.148,-0.092
+google/gemma-2-2b-it,funny,Time flies,famous,incongruous, Bread swims like a piano.,6,11.753,12.389,11.663,-0.726
+google/gemma-2-2b-it,reader,Time flies,famous,literal, The days pass so quickly.,6,4.692,7.370,5.259,-2.111
+google/gemma-2-2b-it,wellknown,Time flies,famous,literal, The days pass so quickly.,6,4.692,6.626,4.732,-1.894
+google/gemma-2-2b-it,following,Time flies,famous,literal, The days pass so quickly.,6,4.692,6.343,4.839,-1.504
+google/gemma-2-2b-it,terse,Time flies,famous,literal, The days pass so quickly.,6,4.692,6.595,5.350,-1.245
+google/gemma-2-2b-it,funny,Time flies,famous,literal, The days pass so quickly.,6,4.692,6.595,4.483,-2.113
+google/gemma-2-2b-it,reader,Bungee,famous,real, Don't lick my lips again.,8,5.836,5.326,5.239,-0.087
+google/gemma-2-2b-it,wellknown,Bungee,famous,real, Don't lick my lips again.,8,5.836,5.469,6.002,0.533
+google/gemma-2-2b-it,following,Bungee,famous,real, Don't lick my lips again.,8,5.836,5.448,5.602,0.154
+google/gemma-2-2b-it,terse,Bungee,famous,real, Don't lick my lips again.,8,5.836,5.675,6.020,0.345
+google/gemma-2-2b-it,funny,Bungee,famous,real, Don't lick my lips again.,8,5.836,5.514,5.626,0.112
+google/gemma-2-2b-it,reader,Bungee,famous,incongruous, Don't paint my shoes again.,8,6.422,6.323,6.408,0.085
+google/gemma-2-2b-it,wellknown,Bungee,famous,incongruous, Don't paint my shoes again.,8,6.422,6.563,6.783,0.220
+google/gemma-2-2b-it,following,Bungee,famous,incongruous, Don't paint my shoes again.,8,6.422,6.410,6.825,0.416
+google/gemma-2-2b-it,terse,Bungee,famous,incongruous, Don't paint my shoes again.,8,6.422,6.403,6.639,0.235
+google/gemma-2-2b-it,funny,Bungee,famous,incongruous, Don't paint my shoes again.,8,6.422,6.219,6.423,0.204
+google/gemma-2-2b-it,reader,Bungee,famous,literal," Don't worry, you'll be fine.",11,0.977,0.895,1.081,0.186
+google/gemma-2-2b-it,wellknown,Bungee,famous,literal," Don't worry, you'll be fine.",11,0.977,0.827,0.911,0.084
+google/gemma-2-2b-it,following,Bungee,famous,literal," Don't worry, you'll be fine.",11,0.977,0.821,0.874,0.053
+google/gemma-2-2b-it,terse,Bungee,famous,literal," Don't worry, you'll be fine.",11,0.977,0.851,0.992,0.142
+google/gemma-2-2b-it,funny,Bungee,famous,literal," Don't worry, you'll be fine.",11,0.977,0.969,0.883,-0.086
+google/gemma-2-2b-it,reader,Librarian,famous,real, they're right behind you.,7,3.156,2.527,3.229,0.702
+google/gemma-2-2b-it,wellknown,Librarian,famous,real, they're right behind you.,7,3.156,2.301,2.849,0.547
+google/gemma-2-2b-it,following,Librarian,famous,real, they're right behind you.,7,3.156,2.523,3.410,0.887
+google/gemma-2-2b-it,terse,Librarian,famous,real, they're right behind you.,7,3.156,2.596,3.072,0.476
+google/gemma-2-2b-it,funny,Librarian,famous,real, they're right behind you.,7,3.156,2.612,3.324,0.713
+google/gemma-2-2b-it,reader,Librarian,famous,incongruous, they're made of wet gravel.,8,8.575,10.093,8.080,-2.012
+google/gemma-2-2b-it,wellknown,Librarian,famous,incongruous, they're made of wet gravel.,8,8.575,11.312,7.967,-3.345
+google/gemma-2-2b-it,following,Librarian,famous,incongruous, they're made of wet gravel.,8,8.575,9.651,8.166,-1.485
+google/gemma-2-2b-it,terse,Librarian,famous,incongruous, they're made of wet gravel.,8,8.575,10.029,8.351,-1.677
+google/gemma-2-2b-it,funny,Librarian,famous,incongruous, they're made of wet gravel.,8,8.575,8.995,8.077,-0.918
+google/gemma-2-2b-it,reader,Librarian,famous,literal, they're in aisle seven.,7,5.231,5.867,5.181,-0.687
+google/gemma-2-2b-it,wellknown,Librarian,famous,literal, they're in aisle seven.,7,5.231,5.925,4.707,-1.218
+google/gemma-2-2b-it,following,Librarian,famous,literal, they're in aisle seven.,7,5.231,5.332,5.063,-0.269
+google/gemma-2-2b-it,terse,Librarian,famous,literal, they're in aisle seven.,7,5.231,5.709,5.195,-0.513
+google/gemma-2-2b-it,funny,Librarian,famous,literal, they're in aisle seven.,7,5.231,5.140,5.222,0.083
+google/gemma-2-2b-it,reader,Ten days,famous,real, Because that would be too long.,7,5.270,5.150,5.380,0.230
+google/gemma-2-2b-it,wellknown,Ten days,famous,real, Because that would be too long.,7,5.270,5.379,5.612,0.233
+google/gemma-2-2b-it,following,Ten days,famous,real, Because that would be too long.,7,5.270,5.392,5.584,0.191
+google/gemma-2-2b-it,terse,Ten days,famous,real, Because that would be too long.,7,5.270,5.702,5.096,-0.605
+google/gemma-2-2b-it,funny,Ten days,famous,real, Because that would be too long.,7,5.270,5.454,5.553,0.098
+google/gemma-2-2b-it,reader,Ten days,famous,incongruous, Because the carpet is too green.,7,6.834,6.069,7.027,0.958
+google/gemma-2-2b-it,wellknown,Ten days,famous,incongruous, Because the carpet is too green.,7,6.834,6.036,7.271,1.236
+google/gemma-2-2b-it,following,Ten days,famous,incongruous, Because the carpet is too green.,7,6.834,5.828,6.972,1.144
+google/gemma-2-2b-it,terse,Ten days,famous,incongruous, Because the carpet is too green.,7,6.834,6.247,7.263,1.017
+google/gemma-2-2b-it,funny,Ten days,famous,incongruous, Because the carpet is too green.,7,6.834,6.578,7.346,0.767
+google/gemma-2-2b-it,reader,Ten days,famous,literal, Because I have bad insomnia.,6,5.033,4.554,5.092,0.538
+google/gemma-2-2b-it,wellknown,Ten days,famous,literal, Because I have bad insomnia.,6,5.033,4.919,5.596,0.677
+google/gemma-2-2b-it,following,Ten days,famous,literal, Because I have bad insomnia.,6,5.033,4.696,5.146,0.450
+google/gemma-2-2b-it,terse,Ten days,famous,literal, Because I have bad insomnia.,6,5.033,4.905,4.942,0.037
+google/gemma-2-2b-it,funny,Ten days,famous,literal, Because I have bad insomnia.,6,5.033,4.974,5.442,0.468
+google/gemma-2-2b-it,reader,Grandfather,famous,real, Not screaming and terrified like the passengers in his car.,11,3.215,2.479,3.095,0.616
+google/gemma-2-2b-it,wellknown,Grandfather,famous,real, Not screaming and terrified like the passengers in his car.,11,3.215,2.579,3.113,0.535
+google/gemma-2-2b-it,following,Grandfather,famous,real, Not screaming and terrified like the passengers in his car.,11,3.215,2.656,3.587,0.931
+google/gemma-2-2b-it,terse,Grandfather,famous,real, Not screaming and terrified like the passengers in his car.,11,3.215,2.360,2.853,0.493
+google/gemma-2-2b-it,funny,Grandfather,famous,real, Not screaming and terrified like the passengers in his car.,11,3.215,2.763,3.180,0.417
+google/gemma-2-2b-it,reader,Grandfather,famous,incongruous, Not humming and sticky like the trombones in his attic.,12,8.752,9.866,10.018,0.152
+google/gemma-2-2b-it,wellknown,Grandfather,famous,incongruous, Not humming and sticky like the trombones in his attic.,12,8.752,9.614,9.033,-0.581
+google/gemma-2-2b-it,following,Grandfather,famous,incongruous, Not humming and sticky like the trombones in his attic.,12,8.752,9.350,9.214,-0.135
+google/gemma-2-2b-it,terse,Grandfather,famous,incongruous, Not humming and sticky like the trombones in his attic.,12,8.752,9.329,9.544,0.215
+google/gemma-2-2b-it,funny,Grandfather,famous,incongruous, Not humming and sticky like the trombones in his attic.,12,8.752,8.988,8.891,-0.097
+google/gemma-2-2b-it,reader,Grandfather,famous,literal, Not in pain and alone like so many people in hospital.,12,5.391,6.442,6.123,-0.319
+google/gemma-2-2b-it,wellknown,Grandfather,famous,literal, Not in pain and alone like so many people in hospital.,12,5.391,6.989,5.426,-1.563
+google/gemma-2-2b-it,following,Grandfather,famous,literal, Not in pain and alone like so many people in hospital.,12,5.391,6.497,5.734,-0.763
+google/gemma-2-2b-it,terse,Grandfather,famous,literal, Not in pain and alone like so many people in hospital.,12,5.391,6.408,5.645,-0.763
+google/gemma-2-2b-it,funny,Grandfather,famous,literal, Not in pain and alone like so many people in hospital.,12,5.391,5.877,5.183,-0.694
+google/gemma-2-2b-it,reader,Lion heart,famous,real, And a lifetime ban from the zoo.,8,4.676,4.411,4.965,0.554
+google/gemma-2-2b-it,wellknown,Lion heart,famous,real, And a lifetime ban from the zoo.,8,4.676,4.699,5.167,0.468
+google/gemma-2-2b-it,following,Lion heart,famous,real, And a lifetime ban from the zoo.,8,4.676,4.671,5.643,0.972
+google/gemma-2-2b-it,terse,Lion heart,famous,real, And a lifetime ban from the zoo.,8,4.676,4.640,4.975,0.336
+google/gemma-2-2b-it,funny,Lion heart,famous,real, And a lifetime ban from the zoo.,8,4.676,4.299,5.183,0.884
+google/gemma-2-2b-it,reader,Lion heart,famous,incongruous, And a lifetime supply of purple spoons.,8,7.335,7.109,7.774,0.665
+google/gemma-2-2b-it,wellknown,Lion heart,famous,incongruous, And a lifetime supply of purple spoons.,8,7.335,7.138,7.680,0.542
+google/gemma-2-2b-it,following,Lion heart,famous,incongruous, And a lifetime supply of purple spoons.,8,7.335,7.087,8.514,1.426
+google/gemma-2-2b-it,terse,Lion heart,famous,incongruous, And a lifetime supply of purple spoons.,8,7.335,6.934,7.794,0.860
+google/gemma-2-2b-it,funny,Lion heart,famous,incongruous, And a lifetime supply of purple spoons.,8,7.335,6.718,7.889,1.170
+google/gemma-2-2b-it,reader,Lion heart,famous,literal, And a kind and gentle soul.,7,3.556,4.055,4.199,0.144
+google/gemma-2-2b-it,wellknown,Lion heart,famous,literal, And a kind and gentle soul.,7,3.556,4.213,4.085,-0.128
+google/gemma-2-2b-it,following,Lion heart,famous,literal, And a kind and gentle soul.,7,3.556,4.070,4.594,0.524
+google/gemma-2-2b-it,terse,Lion heart,famous,literal, And a kind and gentle soul.,7,3.556,4.070,3.716,-0.355
+google/gemma-2-2b-it,funny,Lion heart,famous,literal, And a kind and gentle soul.,7,3.556,3.548,3.623,0.075
+google/gemma-2-2b-it,reader,EpiPen,famous,real, It seemed very important to him that I have it.,11,2.757,2.831,2.746,-0.085
+google/gemma-2-2b-it,wellknown,EpiPen,famous,real, It seemed very important to him that I have it.,11,2.757,2.935,2.597,-0.338
+google/gemma-2-2b-it,following,EpiPen,famous,real, It seemed very important to him that I have it.,11,2.757,2.935,2.760,-0.174
+google/gemma-2-2b-it,terse,EpiPen,famous,real, It seemed very important to him that I have it.,11,2.757,2.950,2.617,-0.334
+google/gemma-2-2b-it,funny,EpiPen,famous,real, It seemed very important to him that I have it.,11,2.757,2.818,2.685,-0.133
+google/gemma-2-2b-it,reader,EpiPen,famous,incongruous, It seemed very important to him that I paint it.,11,5.225,5.162,5.232,0.070
+google/gemma-2-2b-it,wellknown,EpiPen,famous,incongruous, It seemed very important to him that I paint it.,11,5.225,5.244,5.167,-0.077
+google/gemma-2-2b-it,following,EpiPen,famous,incongruous, It seemed very important to him that I paint it.,11,5.225,5.271,5.351,0.080
+google/gemma-2-2b-it,terse,EpiPen,famous,incongruous, It seemed very important to him that I paint it.,11,5.225,5.287,5.053,-0.235
+google/gemma-2-2b-it,funny,EpiPen,famous,incongruous, It seemed very important to him that I paint it.,11,5.225,5.092,5.228,0.136
+google/gemma-2-2b-it,reader,EpiPen,famous,literal, It was his way of keeping me safe.,9,3.152,3.449,3.219,-0.231
+google/gemma-2-2b-it,wellknown,EpiPen,famous,literal, It was his way of keeping me safe.,9,3.152,3.631,3.016,-0.615
+google/gemma-2-2b-it,following,EpiPen,famous,literal, It was his way of keeping me safe.,9,3.152,3.553,3.154,-0.399
+google/gemma-2-2b-it,terse,EpiPen,famous,literal, It was his way of keeping me safe.,9,3.152,3.668,3.097,-0.571
+google/gemma-2-2b-it,funny,EpiPen,famous,literal, It was his way of keeping me safe.,9,3.152,3.115,2.857,-0.258
+google/gemma-2-2b-it,reader,Spider,famous,real, Had some drinks. Nice guy. Wants to be a web developer.,14,5.038,4.859,4.922,0.063
+google/gemma-2-2b-it,wellknown,Spider,famous,real, Had some drinks. Nice guy. Wants to be a web developer.,14,5.038,4.950,5.147,0.197
+google/gemma-2-2b-it,following,Spider,famous,real, Had some drinks. Nice guy. Wants to be a web developer.,14,5.038,4.962,5.455,0.492
+google/gemma-2-2b-it,terse,Spider,famous,real, Had some drinks. Nice guy. Wants to be a web developer.,14,5.038,4.951,5.143,0.192
+google/gemma-2-2b-it,funny,Spider,famous,real, Had some drinks. Nice guy. Wants to be a web developer.,14,5.038,4.948,5.122,0.174
+google/gemma-2-2b-it,reader,Spider,famous,incongruous, Bought some gravel. Damp shoe. Owes me a trombone.,13,9.020,8.972,8.900,-0.072
+google/gemma-2-2b-it,wellknown,Spider,famous,incongruous, Bought some gravel. Damp shoe. Owes me a trombone.,13,9.020,9.276,8.800,-0.477
+google/gemma-2-2b-it,following,Spider,famous,incongruous, Bought some gravel. Damp shoe. Owes me a trombone.,13,9.020,9.007,9.035,0.028
+google/gemma-2-2b-it,terse,Spider,famous,incongruous, Bought some gravel. Damp shoe. Owes me a trombone.,13,9.020,9.049,9.085,0.036
+google/gemma-2-2b-it,funny,Spider,famous,incongruous, Bought some gravel. Damp shoe. Owes me a trombone.,13,9.020,8.837,8.991,0.154
+google/gemma-2-2b-it,reader,Spider,famous,literal, I let it go by the garden fence and then came back inside.,14,3.334,3.471,3.392,-0.080
+google/gemma-2-2b-it,wellknown,Spider,famous,literal, I let it go by the garden fence and then came back inside.,14,3.334,3.828,3.195,-0.633
+google/gemma-2-2b-it,following,Spider,famous,literal, I let it go by the garden fence and then came back inside.,14,3.334,3.650,3.407,-0.243
+google/gemma-2-2b-it,terse,Spider,famous,literal, I let it go by the garden fence and then came back inside.,14,3.334,3.703,3.339,-0.364
+google/gemma-2-2b-it,funny,Spider,famous,literal, I let it go by the garden fence and then came back inside.,14,3.334,3.533,3.400,-0.132
+google/gemma-2-2b-it,reader,Boomerang,famous,real, I now live in constant fear.,7,5.792,4.592,5.395,0.803
+google/gemma-2-2b-it,wellknown,Boomerang,famous,real, I now live in constant fear.,7,5.792,4.432,5.809,1.377
+google/gemma-2-2b-it,following,Boomerang,famous,real, I now live in constant fear.,7,5.792,4.591,6.309,1.718
+google/gemma-2-2b-it,terse,Boomerang,famous,real, I now live in constant fear.,7,5.792,4.662,5.656,0.994
+google/gemma-2-2b-it,funny,Boomerang,famous,real, I now live in constant fear.,7,5.792,4.841,5.415,0.573
+google/gemma-2-2b-it,reader,Boomerang,famous,incongruous, I now own several small goats.,7,7.871,6.743,7.382,0.638
+google/gemma-2-2b-it,wellknown,Boomerang,famous,incongruous, I now own several small goats.,7,7.871,6.613,7.263,0.650
+google/gemma-2-2b-it,following,Boomerang,famous,incongruous, I now own several small goats.,7,7.871,6.813,7.481,0.668
+google/gemma-2-2b-it,terse,Boomerang,famous,incongruous, I now own several small goats.,7,7.871,6.805,7.433,0.628
+google/gemma-2-2b-it,funny,Boomerang,famous,incongruous, I now own several small goats.,7,7.871,7.164,7.462,0.299
+google/gemma-2-2b-it,reader,Boomerang,famous,literal, It came right back to me.,7,1.593,1.304,1.766,0.462
+google/gemma-2-2b-it,wellknown,Boomerang,famous,literal, It came right back to me.,7,1.593,1.071,1.605,0.535
+google/gemma-2-2b-it,following,Boomerang,famous,literal, It came right back to me.,7,1.593,1.143,1.762,0.619
+google/gemma-2-2b-it,terse,Boomerang,famous,literal, It came right back to me.,7,1.593,1.093,1.774,0.681
+google/gemma-2-2b-it,funny,Boomerang,famous,literal, It came right back to me.,7,1.593,1.502,1.699,0.197
+google/gemma-2-2b-it,reader,Brain,famous,real, Then I thought: look what's telling me that.,12,5.458,5.068,5.458,0.390
+google/gemma-2-2b-it,wellknown,Brain,famous,real, Then I thought: look what's telling me that.,12,5.458,4.988,5.462,0.474
+google/gemma-2-2b-it,following,Brain,famous,real, Then I thought: look what's telling me that.,12,5.458,5.222,5.746,0.524
+google/gemma-2-2b-it,terse,Brain,famous,real, Then I thought: look what's telling me that.,12,5.458,5.247,5.347,0.101
+google/gemma-2-2b-it,funny,Brain,famous,real, Then I thought: look what's telling me that.,12,5.458,5.345,5.549,0.203
+google/gemma-2-2b-it,reader,Brain,famous,incongruous, Then I thought: look what's eating my sandwich.,12,5.489,4.937,5.428,0.491
+google/gemma-2-2b-it,wellknown,Brain,famous,incongruous, Then I thought: look what's eating my sandwich.,12,5.489,5.079,5.501,0.421
+google/gemma-2-2b-it,following,Brain,famous,incongruous, Then I thought: look what's eating my sandwich.,12,5.489,5.097,5.780,0.683
+google/gemma-2-2b-it,terse,Brain,famous,incongruous, Then I thought: look what's eating my sandwich.,12,5.489,5.096,5.331,0.235
+google/gemma-2-2b-it,funny,Brain,famous,incongruous, Then I thought: look what's eating my sandwich.,12,5.489,5.017,5.688,0.671
+google/gemma-2-2b-it,reader,Brain,famous,literal, Then I learned how vital the heart is.,9,2.246,2.544,2.168,-0.376
+google/gemma-2-2b-it,wellknown,Brain,famous,literal, Then I learned how vital the heart is.,9,2.246,2.081,2.116,0.035
+google/gemma-2-2b-it,following,Brain,famous,literal, Then I learned how vital the heart is.,9,2.246,2.530,2.125,-0.405
+google/gemma-2-2b-it,terse,Brain,famous,literal, Then I learned how vital the heart is.,9,2.246,2.394,2.190,-0.204
+google/gemma-2-2b-it,funny,Brain,famous,literal, Then I learned how vital the heart is.,9,2.246,2.761,1.971,-0.790
+google/gemma-2-2b-it,reader,Take my wife,famous,real, Please.,2,3.153,3.925,3.635,-0.290
+google/gemma-2-2b-it,wellknown,Take my wife,famous,real, Please.,2,3.153,2.034,4.469,2.435
+google/gemma-2-2b-it,following,Take my wife,famous,real, Please.,2,3.153,3.049,3.452,0.403
+google/gemma-2-2b-it,terse,Take my wife,famous,real, Please.,2,3.153,3.376,3.607,0.231
+google/gemma-2-2b-it,funny,Take my wife,famous,real, Please.,2,3.153,5.506,4.289,-1.217
+google/gemma-2-2b-it,reader,Take my wife,famous,incongruous, Sideways.,3,9.374,8.515,8.500,-0.015
+google/gemma-2-2b-it,wellknown,Take my wife,famous,incongruous, Sideways.,3,9.374,9.182,8.720,-0.462
+google/gemma-2-2b-it,following,Take my wife,famous,incongruous, Sideways.,3,9.374,9.165,8.932,-0.233
+google/gemma-2-2b-it,terse,Take my wife,famous,incongruous, Sideways.,3,9.374,8.660,9.009,0.349
+google/gemma-2-2b-it,funny,Take my wife,famous,incongruous, Sideways.,3,9.374,9.069,9.708,0.639
+google/gemma-2-2b-it,reader,Take my wife,famous,literal, She is lovely.,4,3.181,3.746,3.626,-0.120
+google/gemma-2-2b-it,wellknown,Take my wife,famous,literal, She is lovely.,4,3.181,3.694,3.494,-0.200
+google/gemma-2-2b-it,following,Take my wife,famous,literal, She is lovely.,4,3.181,3.290,3.033,-0.256
+google/gemma-2-2b-it,terse,Take my wife,famous,literal, She is lovely.,4,3.181,3.850,3.067,-0.783
+google/gemma-2-2b-it,funny,Take my wife,famous,literal, She is lovely.,4,3.181,3.652,3.473,-0.179
+google/gemma-2-2b-it,reader,Dyslexic devil,famous,real, I'm dyslexic.,6,4.745,4.498,4.587,0.089
+google/gemma-2-2b-it,wellknown,Dyslexic devil,famous,real, I'm dyslexic.,6,4.745,4.296,4.606,0.310
+google/gemma-2-2b-it,following,Dyslexic devil,famous,real, I'm dyslexic.,6,4.745,4.519,4.500,-0.018
+google/gemma-2-2b-it,terse,Dyslexic devil,famous,real, I'm dyslexic.,6,4.745,4.789,4.457,-0.333
+google/gemma-2-2b-it,funny,Dyslexic devil,famous,real, I'm dyslexic.,6,4.745,4.788,4.665,-0.123
+google/gemma-2-2b-it,reader,Dyslexic devil,famous,incongruous, I'm vegetarian.,5,5.178,5.657,5.534,-0.123
+google/gemma-2-2b-it,wellknown,Dyslexic devil,famous,incongruous, I'm vegetarian.,5,5.178,5.966,4.910,-1.056
+google/gemma-2-2b-it,following,Dyslexic devil,famous,incongruous, I'm vegetarian.,5,5.178,5.664,5.102,-0.562
+google/gemma-2-2b-it,terse,Dyslexic devil,famous,incongruous, I'm vegetarian.,5,5.178,6.000,4.988,-1.012
+google/gemma-2-2b-it,funny,Dyslexic devil,famous,incongruous, I'm vegetarian.,5,5.178,5.320,5.083,-0.237
+google/gemma-2-2b-it,reader,Dyslexic devil,famous,literal, He was very generous.,5,4.186,3.512,4.648,1.136
+google/gemma-2-2b-it,wellknown,Dyslexic devil,famous,literal, He was very generous.,5,4.186,3.397,3.999,0.602
+google/gemma-2-2b-it,following,Dyslexic devil,famous,literal, He was very generous.,5,4.186,3.462,3.940,0.478
+google/gemma-2-2b-it,terse,Dyslexic devil,famous,literal, He was very generous.,5,4.186,3.526,3.945,0.419
+google/gemma-2-2b-it,funny,Dyslexic devil,famous,literal, He was very generous.,5,4.186,4.653,4.526,-0.126
+google/gemma-2-2b-it,reader,Atoms,famous,real, Because they make up everything.,6,2.352,2.016,1.461,-0.554
+google/gemma-2-2b-it,wellknown,Atoms,famous,real, Because they make up everything.,6,2.352,1.895,1.484,-0.411
+google/gemma-2-2b-it,following,Atoms,famous,real, Because they make up everything.,6,2.352,2.061,1.529,-0.532
+google/gemma-2-2b-it,terse,Atoms,famous,real, Because they make up everything.,6,2.352,3.105,1.749,-1.356
+google/gemma-2-2b-it,funny,Atoms,famous,real, Because they make up everything.,6,2.352,1.678,1.142,-0.535
+google/gemma-2-2b-it,reader,Atoms,famous,incongruous, Because they smell of lemons.,6,10.031,11.220,9.254,-1.967
+google/gemma-2-2b-it,wellknown,Atoms,famous,incongruous, Because they smell of lemons.,6,10.031,11.032,9.323,-1.709
+google/gemma-2-2b-it,following,Atoms,famous,incongruous, Because they smell of lemons.,6,10.031,10.781,9.453,-1.328
+google/gemma-2-2b-it,terse,Atoms,famous,incongruous, Because they smell of lemons.,6,10.031,11.277,10.063,-1.214
+google/gemma-2-2b-it,funny,Atoms,famous,incongruous, Because they smell of lemons.,6,10.031,9.973,9.069,-0.904
+google/gemma-2-2b-it,reader,Atoms,famous,literal, Because they are too small to see.,8,4.396,4.843,3.815,-1.028
+google/gemma-2-2b-it,wellknown,Atoms,famous,literal, Because they are too small to see.,8,4.396,5.078,4.195,-0.883
+google/gemma-2-2b-it,following,Atoms,famous,literal, Because they are too small to see.,8,4.396,5.188,4.055,-1.134
+google/gemma-2-2b-it,terse,Atoms,famous,literal, Because they are too small to see.,8,4.396,5.704,4.143,-1.561
+google/gemma-2-2b-it,funny,Atoms,famous,literal, Because they are too small to see.,8,4.396,4.457,3.671,-0.786
+google/gemma-2-2b-it,reader,Skeleton,famous,real, Because he had no body to go with.,9,1.564,1.438,1.200,-0.238
+google/gemma-2-2b-it,wellknown,Skeleton,famous,real, Because he had no body to go with.,9,1.564,1.377,1.196,-0.181
+google/gemma-2-2b-it,following,Skeleton,famous,real, Because he had no body to go with.,9,1.564,1.550,1.262,-0.288
+google/gemma-2-2b-it,terse,Skeleton,famous,real, Because he had no body to go with.,9,1.564,2.119,1.369,-0.750
+google/gemma-2-2b-it,funny,Skeleton,famous,real, Because he had no body to go with.,9,1.564,1.114,1.058,-0.056
+google/gemma-2-2b-it,reader,Skeleton,famous,incongruous, Because he had no spoon to go with.,9,5.002,5.748,4.926,-0.822
+google/gemma-2-2b-it,wellknown,Skeleton,famous,incongruous, Because he had no spoon to go with.,9,5.002,6.098,4.662,-1.436
+google/gemma-2-2b-it,following,Skeleton,famous,incongruous, Because he had no spoon to go with.,9,5.002,5.494,4.522,-0.972
+google/gemma-2-2b-it,terse,Skeleton,famous,incongruous, Because he had no spoon to go with.,9,5.002,5.928,4.998,-0.931
+google/gemma-2-2b-it,funny,Skeleton,famous,incongruous, Because he had no spoon to go with.,9,5.002,5.057,4.502,-0.555
+google/gemma-2-2b-it,reader,Skeleton,famous,literal, Because his friends were all busy.,7,5.147,6.026,4.593,-1.433
+google/gemma-2-2b-it,wellknown,Skeleton,famous,literal, Because his friends were all busy.,7,5.147,6.577,4.925,-1.652
+google/gemma-2-2b-it,following,Skeleton,famous,literal, Because his friends were all busy.,7,5.147,6.024,4.131,-1.893
+google/gemma-2-2b-it,terse,Skeleton,famous,literal, Because his friends were all busy.,7,5.147,6.846,4.878,-1.968
+google/gemma-2-2b-it,funny,Skeleton,famous,literal, Because his friends were all busy.,7,5.147,5.289,4.371,-0.918
+google/gemma-2-2b-it,reader,Anti-gravity,famous,real, It's impossible to put down.,8,3.035,2.161,3.133,0.973
+google/gemma-2-2b-it,wellknown,Anti-gravity,famous,real, It's impossible to put down.,8,3.035,0.737,3.169,2.432
+google/gemma-2-2b-it,following,Anti-gravity,famous,real, It's impossible to put down.,8,3.035,0.739,3.237,2.498
+google/gemma-2-2b-it,terse,Anti-gravity,famous,real, It's impossible to put down.,8,3.035,0.911,3.752,2.840
+google/gemma-2-2b-it,funny,Anti-gravity,famous,real, It's impossible to put down.,8,3.035,2.065,3.374,1.308
+google/gemma-2-2b-it,reader,Anti-gravity,famous,incongruous, It's printed on wet lettuce.,8,7.394,6.279,7.177,0.898
+google/gemma-2-2b-it,wellknown,Anti-gravity,famous,incongruous, It's printed on wet lettuce.,8,7.394,10.357,7.130,-3.227
+google/gemma-2-2b-it,following,Anti-gravity,famous,incongruous, It's printed on wet lettuce.,8,7.394,8.917,7.492,-1.425
+google/gemma-2-2b-it,terse,Anti-gravity,famous,incongruous, It's printed on wet lettuce.,8,7.394,10.000,7.662,-2.338
+google/gemma-2-2b-it,funny,Anti-gravity,famous,incongruous, It's printed on wet lettuce.,8,7.394,6.060,7.539,1.479
+google/gemma-2-2b-it,reader,Anti-gravity,famous,literal, It's really interesting so far.,8,2.301,2.191,2.480,0.290
+google/gemma-2-2b-it,wellknown,Anti-gravity,famous,literal, It's really interesting so far.,8,2.301,2.218,2.227,0.009
+google/gemma-2-2b-it,following,Anti-gravity,famous,literal, It's really interesting so far.,8,2.301,2.070,2.201,0.131
+google/gemma-2-2b-it,terse,Anti-gravity,famous,literal, It's really interesting so far.,8,2.301,2.408,2.662,0.254
+google/gemma-2-2b-it,funny,Anti-gravity,famous,literal, It's really interesting so far.,8,2.301,2.354,2.683,0.329
+google/gemma-2-2b-it,reader,Banker,famous,real, But I lost interest.,5,4.173,2.059,5.559,3.500
+google/gemma-2-2b-it,wellknown,Banker,famous,real, But I lost interest.,5,4.173,1.302,4.950,3.649
+google/gemma-2-2b-it,following,Banker,famous,real, But I lost interest.,5,4.173,2.262,4.436,2.174
+google/gemma-2-2b-it,terse,Banker,famous,real, But I lost interest.,5,4.173,1.417,4.912,3.495
+google/gemma-2-2b-it,funny,Banker,famous,real, But I lost interest.,5,4.173,4.707,5.489,0.782
+google/gemma-2-2b-it,reader,Banker,famous,incongruous, But I lost my umbrella.,6,6.188,5.301,6.788,1.486
+google/gemma-2-2b-it,wellknown,Banker,famous,incongruous, But I lost my umbrella.,6,6.188,5.835,6.858,1.023
+google/gemma-2-2b-it,following,Banker,famous,incongruous, But I lost my umbrella.,6,6.188,5.225,6.531,1.306
+google/gemma-2-2b-it,terse,Banker,famous,incongruous, But I lost my umbrella.,6,6.188,5.224,6.458,1.234
+google/gemma-2-2b-it,funny,Banker,famous,incongruous, But I lost my umbrella.,6,6.188,6.180,7.048,0.868
+google/gemma-2-2b-it,reader,Banker,famous,literal, But I changed careers.,5,3.926,3.024,4.196,1.172
+google/gemma-2-2b-it,wellknown,Banker,famous,literal, But I changed careers.,5,3.926,3.120,3.777,0.658
+google/gemma-2-2b-it,following,Banker,famous,literal, But I changed careers.,5,3.926,2.902,3.507,0.605
+google/gemma-2-2b-it,terse,Banker,famous,literal, But I changed careers.,5,3.926,3.003,3.854,0.850
+google/gemma-2-2b-it,funny,Banker,famous,literal, But I changed careers.,5,3.926,4.113,3.974,-0.140
+google/gemma-2-2b-it,reader,Tense,famous,real, It was tense.,4,3.867,5.033,5.047,0.013
+google/gemma-2-2b-it,wellknown,Tense,famous,real, It was tense.,4,3.867,4.113,3.870,-0.243
+google/gemma-2-2b-it,following,Tense,famous,real, It was tense.,4,3.867,4.127,4.199,0.072
+google/gemma-2-2b-it,terse,Tense,famous,real, It was tense.,4,3.867,3.658,3.216,-0.442
+google/gemma-2-2b-it,funny,Tense,famous,real, It was tense.,4,3.867,4.711,4.480,-0.231
+google/gemma-2-2b-it,reader,Tense,famous,incongruous, It was beige.,4,6.784,7.666,7.299,-0.366
+google/gemma-2-2b-it,wellknown,Tense,famous,incongruous, It was beige.,4,6.784,7.862,6.889,-0.973
+google/gemma-2-2b-it,following,Tense,famous,incongruous, It was beige.,4,6.784,8.195,7.813,-0.383
+google/gemma-2-2b-it,terse,Tense,famous,incongruous, It was beige.,4,6.784,8.489,7.071,-1.418
+google/gemma-2-2b-it,funny,Tense,famous,incongruous, It was beige.,4,6.784,7.259,6.709,-0.549
+google/gemma-2-2b-it,reader,Tense,famous,literal, They ordered a drink.,5,3.557,3.082,3.739,0.657
+google/gemma-2-2b-it,wellknown,Tense,famous,literal, They ordered a drink.,5,3.557,3.460,2.955,-0.505
+google/gemma-2-2b-it,following,Tense,famous,literal, They ordered a drink.,5,3.557,3.415,3.036,-0.379
+google/gemma-2-2b-it,terse,Tense,famous,literal, They ordered a drink.,5,3.557,3.751,3.004,-0.747
+google/gemma-2-2b-it,funny,Tense,famous,literal, They ordered a drink.,5,3.557,3.768,3.573,-0.196
+google/gemma-2-2b-it,reader,Dawned,famous,real, Then it dawned on me.,6,1.991,0.955,2.558,1.603
+google/gemma-2-2b-it,wellknown,Dawned,famous,real, Then it dawned on me.,6,1.991,0.477,2.076,1.599
+google/gemma-2-2b-it,following,Dawned,famous,real, Then it dawned on me.,6,1.991,0.920,2.585,1.666
+google/gemma-2-2b-it,terse,Dawned,famous,real, Then it dawned on me.,6,1.991,0.824,1.903,1.078
+google/gemma-2-2b-it,funny,Dawned,famous,real, Then it dawned on me.,6,1.991,2.032,2.295,0.264
+google/gemma-2-2b-it,reader,Dawned,famous,incongruous, Then it barked at me.,6,6.015,5.735,6.171,0.436
+google/gemma-2-2b-it,wellknown,Dawned,famous,incongruous, Then it barked at me.,6,6.015,5.730,5.883,0.153
+google/gemma-2-2b-it,following,Dawned,famous,incongruous, Then it barked at me.,6,6.015,5.800,6.428,0.628
+google/gemma-2-2b-it,terse,Dawned,famous,incongruous, Then it barked at me.,6,6.015,6.223,5.742,-0.482
+google/gemma-2-2b-it,funny,Dawned,famous,incongruous, Then it barked at me.,6,6.015,5.683,6.157,0.473
+google/gemma-2-2b-it,reader,Dawned,famous,literal, Then I finally fell asleep.,6,3.325,3.443,3.739,0.296
+google/gemma-2-2b-it,wellknown,Dawned,famous,literal, Then I finally fell asleep.,6,3.325,3.676,3.243,-0.433
+google/gemma-2-2b-it,following,Dawned,famous,literal, Then I finally fell asleep.,6,3.325,3.301,3.461,0.160
+google/gemma-2-2b-it,terse,Dawned,famous,literal, Then I finally fell asleep.,6,3.325,4.009,3.249,-0.759
+google/gemma-2-2b-it,funny,Dawned,famous,literal, Then I finally fell asleep.,6,3.325,3.316,3.805,0.489
+google/gemma-2-2b-it,reader,Scarecrow,famous,real, Because he was outstanding in his field.,8,1.737,1.541,1.097,-0.444
+google/gemma-2-2b-it,wellknown,Scarecrow,famous,real, Because he was outstanding in his field.,8,1.737,1.241,1.038,-0.203
+google/gemma-2-2b-it,following,Scarecrow,famous,real, Because he was outstanding in his field.,8,1.737,1.500,0.869,-0.631
+google/gemma-2-2b-it,terse,Scarecrow,famous,real, Because he was outstanding in his field.,8,1.737,2.396,1.374,-1.023
+google/gemma-2-2b-it,funny,Scarecrow,famous,real, Because he was outstanding in his field.,8,1.737,1.231,0.997,-0.234
+google/gemma-2-2b-it,reader,Scarecrow,famous,incongruous, Because he was allergic to his field.,8,7.970,8.017,7.217,-0.799
+google/gemma-2-2b-it,wellknown,Scarecrow,famous,incongruous, Because he was allergic to his field.,8,7.970,8.150,7.489,-0.661
+google/gemma-2-2b-it,following,Scarecrow,famous,incongruous, Because he was allergic to his field.,8,7.970,7.805,7.085,-0.720
+google/gemma-2-2b-it,terse,Scarecrow,famous,incongruous, Because he was allergic to his field.,8,7.970,8.472,7.833,-0.638
+google/gemma-2-2b-it,funny,Scarecrow,famous,incongruous, Because he was allergic to his field.,8,7.970,7.621,7.564,-0.057
+google/gemma-2-2b-it,reader,Scarecrow,famous,literal, Because he scared away the most crows.,8,6.430,7.171,5.996,-1.175
+google/gemma-2-2b-it,wellknown,Scarecrow,famous,literal, Because he scared away the most crows.,8,6.430,7.042,6.011,-1.032
+google/gemma-2-2b-it,following,Scarecrow,famous,literal, Because he scared away the most crows.,8,6.430,6.718,5.788,-0.930
+google/gemma-2-2b-it,terse,Scarecrow,famous,literal, Because he scared away the most crows.,8,6.430,7.322,6.311,-1.011
+google/gemma-2-2b-it,funny,Scarecrow,famous,literal, Because he scared away the most crows.,8,6.430,6.660,5.990,-0.671
+google/gemma-2-2b-it,reader,Impasta,famous,real, An impasta.,4,4.253,1.890,3.560,1.670
+google/gemma-2-2b-it,wellknown,Impasta,famous,real, An impasta.,4,4.253,1.582,2.340,0.758
+google/gemma-2-2b-it,following,Impasta,famous,real, An impasta.,4,4.253,2.768,3.945,1.176
+google/gemma-2-2b-it,terse,Impasta,famous,real, An impasta.,4,4.253,3.759,3.387,-0.372
+google/gemma-2-2b-it,funny,Impasta,famous,real, An impasta.,4,4.253,1.954,2.719,0.766
+google/gemma-2-2b-it,reader,Impasta,famous,incongruous, A Tuesday.,3,8.145,8.235,6.962,-1.274
+google/gemma-2-2b-it,wellknown,Impasta,famous,incongruous, A Tuesday.,3,8.145,8.292,7.578,-0.714
+google/gemma-2-2b-it,following,Impasta,famous,incongruous, A Tuesday.,3,8.145,8.590,7.535,-1.056
+google/gemma-2-2b-it,terse,Impasta,famous,incongruous, A Tuesday.,3,8.145,9.716,7.948,-1.768
+google/gemma-2-2b-it,funny,Impasta,famous,incongruous, A Tuesday.,3,8.145,7.461,6.887,-0.575
+google/gemma-2-2b-it,reader,Impasta,famous,literal, A plastic noodle.,4,4.840,5.996,3.904,-2.092
+google/gemma-2-2b-it,wellknown,Impasta,famous,literal, A plastic noodle.,4,4.840,5.893,4.210,-1.684
+google/gemma-2-2b-it,following,Impasta,famous,literal, A plastic noodle.,4,4.840,5.875,3.884,-1.991
+google/gemma-2-2b-it,terse,Impasta,famous,literal, A plastic noodle.,4,4.840,6.881,4.694,-2.187
+google/gemma-2-2b-it,funny,Impasta,famous,literal, A plastic noodle.,4,4.840,5.545,3.831,-1.714
+google/gemma-2-2b-it,reader,Chemistry,famous,real, But I know I wouldn't get a reaction.,11,2.188,2.724,2.411,-0.313
+google/gemma-2-2b-it,wellknown,Chemistry,famous,real, But I know I wouldn't get a reaction.,11,2.188,2.131,2.671,0.540
+google/gemma-2-2b-it,following,Chemistry,famous,real, But I know I wouldn't get a reaction.,11,2.188,2.273,2.448,0.174
+google/gemma-2-2b-it,terse,Chemistry,famous,real, But I know I wouldn't get a reaction.,11,2.188,2.296,2.440,0.144
+google/gemma-2-2b-it,funny,Chemistry,famous,real, But I know I wouldn't get a reaction.,11,2.188,2.557,2.421,-0.136
+google/gemma-2-2b-it,reader,Chemistry,famous,incongruous, But I know I wouldn't get a sandwich.,11,4.435,4.771,4.258,-0.513
+google/gemma-2-2b-it,wellknown,Chemistry,famous,incongruous, But I know I wouldn't get a sandwich.,11,4.435,4.452,4.552,0.101
+google/gemma-2-2b-it,following,Chemistry,famous,incongruous, But I know I wouldn't get a sandwich.,11,4.435,4.477,4.514,0.037
+google/gemma-2-2b-it,terse,Chemistry,famous,incongruous, But I know I wouldn't get a sandwich.,11,4.435,4.843,4.486,-0.357
+google/gemma-2-2b-it,funny,Chemistry,famous,incongruous, But I know I wouldn't get a sandwich.,11,4.435,4.494,4.318,-0.177
+google/gemma-2-2b-it,reader,Chemistry,famous,literal, But I know you wouldn't find it funny.,11,1.737,1.844,1.533,-0.311
+google/gemma-2-2b-it,wellknown,Chemistry,famous,literal, But I know you wouldn't find it funny.,11,1.737,1.824,1.781,-0.043
+google/gemma-2-2b-it,following,Chemistry,famous,literal, But I know you wouldn't find it funny.,11,1.737,1.890,1.609,-0.281
+google/gemma-2-2b-it,terse,Chemistry,famous,literal, But I know you wouldn't find it funny.,11,1.737,2.241,1.822,-0.419
+google/gemma-2-2b-it,funny,Chemistry,famous,literal, But I know you wouldn't find it funny.,11,1.737,1.645,1.512,-0.132
+google/gemma-2-2b-it,reader,Eggs,famous,real, They'd crack up.,6,1.735,1.929,2.458,0.529
+google/gemma-2-2b-it,wellknown,Eggs,famous,real, They'd crack up.,6,1.735,1.969,1.690,-0.280
+google/gemma-2-2b-it,following,Eggs,famous,real, They'd crack up.,6,1.735,2.099,2.173,0.074
+google/gemma-2-2b-it,terse,Eggs,famous,real, They'd crack up.,6,1.735,2.585,1.483,-1.102
+google/gemma-2-2b-it,funny,Eggs,famous,real, They'd crack up.,6,1.735,1.615,2.157,0.541
+google/gemma-2-2b-it,reader,Eggs,famous,incongruous, They'd turn purple.,6,6.548,8.211,6.518,-1.692
+google/gemma-2-2b-it,wellknown,Eggs,famous,incongruous, They'd turn purple.,6,6.548,8.694,7.180,-1.515
+google/gemma-2-2b-it,following,Eggs,famous,incongruous, They'd turn purple.,6,6.548,7.894,6.919,-0.975
+google/gemma-2-2b-it,terse,Eggs,famous,incongruous, They'd turn purple.,6,6.548,8.380,7.029,-1.351
+google/gemma-2-2b-it,funny,Eggs,famous,incongruous, They'd turn purple.,6,6.548,6.798,7.147,0.348
+google/gemma-2-2b-it,reader,Eggs,famous,literal, They can't talk.,6,3.101,5.782,3.100,-2.683
+google/gemma-2-2b-it,wellknown,Eggs,famous,literal, They can't talk.,6,3.101,6.136,4.228,-1.908
+google/gemma-2-2b-it,following,Eggs,famous,literal, They can't talk.,6,3.101,5.692,3.018,-2.674
+google/gemma-2-2b-it,terse,Eggs,famous,literal, They can't talk.,6,3.101,6.503,3.972,-2.531
+google/gemma-2-2b-it,funny,Eggs,famous,literal, They can't talk.,6,3.101,4.748,3.445,-1.303
+google/gemma-2-2b-it,reader,Seafood,famous,real, I see food and I eat it.,8,3.332,1.506,3.065,1.559
+google/gemma-2-2b-it,wellknown,Seafood,famous,real, I see food and I eat it.,8,3.332,2.115,3.379,1.264
+google/gemma-2-2b-it,following,Seafood,famous,real, I see food and I eat it.,8,3.332,2.044,2.810,0.765
+google/gemma-2-2b-it,terse,Seafood,famous,real, I see food and I eat it.,8,3.332,1.917,3.008,1.091
+google/gemma-2-2b-it,funny,Seafood,famous,real, I see food and I eat it.,8,3.332,2.659,3.752,1.093
+google/gemma-2-2b-it,reader,Seafood,famous,incongruous, I see trees and I paint them.,8,6.169,7.277,6.106,-1.171
+google/gemma-2-2b-it,wellknown,Seafood,famous,incongruous, I see trees and I paint them.,8,6.169,8.676,6.072,-2.604
+google/gemma-2-2b-it,following,Seafood,famous,incongruous, I see trees and I paint them.,8,6.169,8.594,5.854,-2.740
+google/gemma-2-2b-it,terse,Seafood,famous,incongruous, I see trees and I paint them.,8,6.169,8.375,5.803,-2.572
+google/gemma-2-2b-it,funny,Seafood,famous,incongruous, I see trees and I paint them.,8,6.169,5.598,6.467,0.870
+google/gemma-2-2b-it,reader,Seafood,famous,literal, I eat a lot of fish.,7,2.242,2.860,2.092,-0.769
+google/gemma-2-2b-it,wellknown,Seafood,famous,literal, I eat a lot of fish.,7,2.242,3.310,2.020,-1.290
+google/gemma-2-2b-it,following,Seafood,famous,literal, I eat a lot of fish.,7,2.242,3.033,1.818,-1.215
+google/gemma-2-2b-it,terse,Seafood,famous,literal, I eat a lot of fish.,7,2.242,3.027,2.026,-1.001
+google/gemma-2-2b-it,funny,Seafood,famous,literal, I eat a lot of fish.,7,2.242,2.115,2.402,0.287
+google/gemma-2-2b-it,reader,Bicycle,famous,real, Because it was two-tired.,7,2.560,2.401,1.856,-0.544
+google/gemma-2-2b-it,wellknown,Bicycle,famous,real, Because it was two-tired.,7,2.560,2.111,1.852,-0.259
+google/gemma-2-2b-it,following,Bicycle,famous,real, Because it was two-tired.,7,2.560,2.525,1.858,-0.667
+google/gemma-2-2b-it,terse,Bicycle,famous,real, Because it was two-tired.,7,2.560,3.356,2.101,-1.254
+google/gemma-2-2b-it,funny,Bicycle,famous,real, Because it was two-tired.,7,2.560,2.016,1.689,-0.327
+google/gemma-2-2b-it,reader,Bicycle,famous,incongruous, Because it was secretly Norwegian.,6,9.558,10.166,8.753,-1.413
+google/gemma-2-2b-it,wellknown,Bicycle,famous,incongruous, Because it was secretly Norwegian.,6,9.558,10.568,8.831,-1.738
+google/gemma-2-2b-it,following,Bicycle,famous,incongruous, Because it was secretly Norwegian.,6,9.558,9.486,9.132,-0.355
+google/gemma-2-2b-it,terse,Bicycle,famous,incongruous, Because it was secretly Norwegian.,6,9.558,10.670,8.897,-1.773
+google/gemma-2-2b-it,funny,Bicycle,famous,incongruous, Because it was secretly Norwegian.,6,9.558,8.955,7.916,-1.039
+google/gemma-2-2b-it,reader,Bicycle,famous,literal, Because it had no kickstand.,7,5.853,6.482,4.202,-2.280
+google/gemma-2-2b-it,wellknown,Bicycle,famous,literal, Because it had no kickstand.,7,5.853,6.875,4.407,-2.468
+google/gemma-2-2b-it,following,Bicycle,famous,literal, Because it had no kickstand.,7,5.853,6.280,4.008,-2.272
+google/gemma-2-2b-it,terse,Bicycle,famous,literal, Because it had no kickstand.,7,5.853,7.476,5.190,-2.286
+google/gemma-2-2b-it,funny,Bicycle,famous,literal, Because it had no kickstand.,7,5.853,5.729,4.003,-1.725
+google/gemma-2-2b-it,reader,Nacho,famous,real, Nacho cheese.,3,5.170,1.985,4.383,2.397
+google/gemma-2-2b-it,wellknown,Nacho,famous,real, Nacho cheese.,3,5.170,1.638,3.786,2.148
+google/gemma-2-2b-it,following,Nacho,famous,real, Nacho cheese.,3,5.170,2.679,4.168,1.489
+google/gemma-2-2b-it,terse,Nacho,famous,real, Nacho cheese.,3,5.170,3.731,4.270,0.539
+google/gemma-2-2b-it,funny,Nacho,famous,real, Nacho cheese.,3,5.170,3.110,4.435,1.325
+google/gemma-2-2b-it,reader,Nacho,famous,incongruous, Tuesday cheese.,3,11.797,8.194,10.384,2.190
+google/gemma-2-2b-it,wellknown,Nacho,famous,incongruous, Tuesday cheese.,3,11.797,8.994,11.962,2.968
+google/gemma-2-2b-it,following,Nacho,famous,incongruous, Tuesday cheese.,3,11.797,8.630,11.429,2.799
+google/gemma-2-2b-it,terse,Nacho,famous,incongruous, Tuesday cheese.,3,11.797,9.002,11.481,2.480
+google/gemma-2-2b-it,funny,Nacho,famous,incongruous, Tuesday cheese.,3,11.797,9.332,11.692,2.359
+google/gemma-2-2b-it,reader,Nacho,famous,literal, Stolen cheese.,3,3.608,4.524,3.503,-1.021
+google/gemma-2-2b-it,wellknown,Nacho,famous,literal, Stolen cheese.,3,3.608,4.121,2.611,-1.510
+google/gemma-2-2b-it,following,Nacho,famous,literal, Stolen cheese.,3,3.608,4.167,3.752,-0.416
+google/gemma-2-2b-it,terse,Nacho,famous,literal, Stolen cheese.,3,3.608,5.656,3.124,-2.532
+google/gemma-2-2b-it,funny,Nacho,famous,literal, Stolen cheese.,3,3.608,3.807,3.121,-0.686
+google/gemma-2-2b-it,reader,Termite,famous,real, is the bar tender here?,6,5.231,5.067,5.214,0.147
+google/gemma-2-2b-it,wellknown,Termite,famous,real, is the bar tender here?,6,5.231,4.665,4.703,0.039
+google/gemma-2-2b-it,following,Termite,famous,real, is the bar tender here?,6,5.231,5.338,4.750,-0.588
+google/gemma-2-2b-it,terse,Termite,famous,real, is the bar tender here?,6,5.231,5.344,4.872,-0.472
+google/gemma-2-2b-it,funny,Termite,famous,real, is the bar tender here?,6,5.231,5.629,5.066,-0.563
+google/gemma-2-2b-it,reader,Termite,famous,incongruous, is the moon awake yet?,6,9.736,10.279,10.354,0.075
+google/gemma-2-2b-it,wellknown,Termite,famous,incongruous, is the moon awake yet?,6,9.736,9.941,9.386,-0.555
+google/gemma-2-2b-it,following,Termite,famous,incongruous, is the moon awake yet?,6,9.736,10.455,9.784,-0.671
+google/gemma-2-2b-it,terse,Termite,famous,incongruous, is the moon awake yet?,6,9.736,10.426,9.529,-0.897
+google/gemma-2-2b-it,funny,Termite,famous,incongruous, is the moon awake yet?,6,9.736,10.217,9.338,-0.879
+google/gemma-2-2b-it,reader,Termite,famous,literal, can I get a drink?,6,2.661,2.647,2.480,-0.167
+google/gemma-2-2b-it,wellknown,Termite,famous,literal, can I get a drink?,6,2.661,2.797,2.642,-0.155
+google/gemma-2-2b-it,following,Termite,famous,literal, can I get a drink?,6,2.661,3.113,2.593,-0.520
+google/gemma-2-2b-it,terse,Termite,famous,literal, can I get a drink?,6,2.661,2.945,2.462,-0.484
+google/gemma-2-2b-it,funny,Termite,famous,literal, can I get a drink?,6,2.661,3.621,2.705,-0.917
+google/gemma-2-2b-it,reader,Dog nothing,famous,real, He said nothing.,4,4.401,3.917,4.046,0.130
+google/gemma-2-2b-it,wellknown,Dog nothing,famous,real, He said nothing.,4,4.401,3.479,3.925,0.446
+google/gemma-2-2b-it,following,Dog nothing,famous,real, He said nothing.,4,4.401,3.915,4.430,0.515
+google/gemma-2-2b-it,terse,Dog nothing,famous,real, He said nothing.,4,4.401,3.900,4.272,0.371
+google/gemma-2-2b-it,funny,Dog nothing,famous,real, He said nothing.,4,4.401,4.596,4.173,-0.423
+google/gemma-2-2b-it,reader,Dog nothing,famous,incongruous, He said lasagne.,5,5.821,5.561,5.756,0.196
+google/gemma-2-2b-it,wellknown,Dog nothing,famous,incongruous, He said lasagne.,5,5.821,6.230,5.823,-0.406
+google/gemma-2-2b-it,following,Dog nothing,famous,incongruous, He said lasagne.,5,5.821,5.756,6.314,0.558
+google/gemma-2-2b-it,terse,Dog nothing,famous,incongruous, He said lasagne.,5,5.821,6.010,5.517,-0.493
+google/gemma-2-2b-it,funny,Dog nothing,famous,incongruous, He said lasagne.,5,5.821,5.843,5.924,0.081
+google/gemma-2-2b-it,reader,Dog nothing,famous,literal, He wagged his tail.,6,2.166,2.181,2.435,0.254
+google/gemma-2-2b-it,wellknown,Dog nothing,famous,literal, He wagged his tail.,6,2.166,2.376,2.147,-0.229
+google/gemma-2-2b-it,following,Dog nothing,famous,literal, He wagged his tail.,6,2.166,2.517,2.564,0.047
+google/gemma-2-2b-it,terse,Dog nothing,famous,literal, He wagged his tail.,6,2.166,2.357,2.309,-0.049
+google/gemma-2-2b-it,funny,Dog nothing,famous,literal, He wagged his tail.,6,2.166,2.305,2.187,-0.118
+google/gemma-2-2b-it,reader,Onions,novel,real, we know.,3,5.739,5.388,6.190,0.802
+google/gemma-2-2b-it,wellknown,Onions,novel,real, we know.,3,5.739,5.173,5.497,0.323
+google/gemma-2-2b-it,following,Onions,novel,real, we know.,3,5.739,4.892,5.365,0.473
+google/gemma-2-2b-it,terse,Onions,novel,real, we know.,3,5.739,5.006,6.103,1.097
+google/gemma-2-2b-it,funny,Onions,novel,real, we know.,3,5.739,5.859,5.979,0.120
+google/gemma-2-2b-it,reader,Onions,novel,incongruous, we vote.,3,12.188,11.091,11.512,0.421
+google/gemma-2-2b-it,wellknown,Onions,novel,incongruous, we vote.,3,12.188,12.203,11.572,-0.631
+google/gemma-2-2b-it,following,Onions,novel,incongruous, we vote.,3,12.188,11.692,11.707,0.015
+google/gemma-2-2b-it,terse,Onions,novel,incongruous, we vote.,3,12.188,11.902,12.248,0.346
+google/gemma-2-2b-it,funny,Onions,novel,incongruous, we vote.,3,12.188,12.098,11.831,-0.267
+google/gemma-2-2b-it,reader,Onions,novel,literal," goodbye, friend.",4,5.866,5.998,5.721,-0.277
+google/gemma-2-2b-it,wellknown,Onions,novel,literal," goodbye, friend.",4,5.866,7.084,6.171,-0.913
+google/gemma-2-2b-it,following,Onions,novel,literal," goodbye, friend.",4,5.866,5.418,4.105,-1.312
+google/gemma-2-2b-it,terse,Onions,novel,literal," goodbye, friend.",4,5.866,6.350,6.258,-0.092
+google/gemma-2-2b-it,funny,Onions,novel,literal," goodbye, friend.",4,5.866,5.723,5.636,-0.087
+google/gemma-2-2b-it,reader,Watch eat,novel,real, So I dragged the television into the kitchen.,9,5.921,4.982,6.129,1.147
+google/gemma-2-2b-it,wellknown,Watch eat,novel,real, So I dragged the television into the kitchen.,9,5.921,5.126,6.070,0.944
+google/gemma-2-2b-it,following,Watch eat,novel,real, So I dragged the television into the kitchen.,9,5.921,4.913,5.959,1.046
+google/gemma-2-2b-it,terse,Watch eat,novel,real, So I dragged the television into the kitchen.,9,5.921,5.168,5.730,0.562
+google/gemma-2-2b-it,funny,Watch eat,novel,real, So I dragged the television into the kitchen.,9,5.921,5.204,5.940,0.736
+google/gemma-2-2b-it,reader,Watch eat,novel,incongruous, So I dragged the bathtub into the garden.,9,6.259,5.451,6.584,1.134
+google/gemma-2-2b-it,wellknown,Watch eat,novel,incongruous, So I dragged the bathtub into the garden.,9,6.259,5.720,6.541,0.822
+google/gemma-2-2b-it,following,Watch eat,novel,incongruous, So I dragged the bathtub into the garden.,9,6.259,5.459,6.444,0.985
+google/gemma-2-2b-it,terse,Watch eat,novel,incongruous, So I dragged the bathtub into the garden.,9,6.259,5.691,6.008,0.317
+google/gemma-2-2b-it,funny,Watch eat,novel,incongruous, So I dragged the bathtub into the garden.,9,6.259,5.499,6.436,0.937
+google/gemma-2-2b-it,reader,Watch eat,novel,literal, So I started counting my calories every day.,9,3.016,3.440,3.280,-0.160
+google/gemma-2-2b-it,wellknown,Watch eat,novel,literal, So I started counting my calories every day.,9,3.016,3.124,3.403,0.279
+google/gemma-2-2b-it,following,Watch eat,novel,literal, So I started counting my calories every day.,9,3.016,2.812,3.375,0.563
+google/gemma-2-2b-it,terse,Watch eat,novel,literal, So I started counting my calories every day.,9,3.016,2.837,3.294,0.457
+google/gemma-2-2b-it,funny,Watch eat,novel,literal, So I started counting my calories every day.,9,3.016,2.982,3.416,0.434
+google/gemma-2-2b-it,reader,Skydiving,novel,real, She was right. Everything is blurry without my glasses.,11,4.589,4.849,5.189,0.340
+google/gemma-2-2b-it,wellknown,Skydiving,novel,real, She was right. Everything is blurry without my glasses.,11,4.589,4.709,4.898,0.188
+google/gemma-2-2b-it,following,Skydiving,novel,real, She was right. Everything is blurry without my glasses.,11,4.589,4.221,5.087,0.865
+google/gemma-2-2b-it,terse,Skydiving,novel,real, She was right. Everything is blurry without my glasses.,11,4.589,4.113,5.097,0.984
+google/gemma-2-2b-it,funny,Skydiving,novel,real, She was right. Everything is blurry without my glasses.,11,4.589,4.335,4.875,0.540
+google/gemma-2-2b-it,reader,Skydiving,novel,incongruous, She was right. Everything is cheaper without my cousin.,11,7.260,7.460,7.840,0.380
+google/gemma-2-2b-it,wellknown,Skydiving,novel,incongruous, She was right. Everything is cheaper without my cousin.,11,7.260,7.219,7.367,0.148
+google/gemma-2-2b-it,following,Skydiving,novel,incongruous, She was right. Everything is cheaper without my cousin.,11,7.260,6.503,7.600,1.097
+google/gemma-2-2b-it,terse,Skydiving,novel,incongruous, She was right. Everything is cheaper without my cousin.,11,7.260,6.725,7.570,0.844
+google/gemma-2-2b-it,funny,Skydiving,novel,incongruous, She was right. Everything is cheaper without my cousin.,11,7.260,6.958,7.407,0.449
+google/gemma-2-2b-it,reader,Skydiving,novel,literal, She was right. I feel much braver about everything now.,13,4.021,4.466,4.667,0.201
+google/gemma-2-2b-it,wellknown,Skydiving,novel,literal, She was right. I feel much braver about everything now.,13,4.021,4.332,4.102,-0.230
+google/gemma-2-2b-it,following,Skydiving,novel,literal, She was right. I feel much braver about everything now.,13,4.021,4.197,4.458,0.261
+google/gemma-2-2b-it,terse,Skydiving,novel,literal, She was right. I feel much braver about everything now.,13,4.021,4.037,4.203,0.166
+google/gemma-2-2b-it,funny,Skydiving,novel,literal, She was right. I feel much braver about everything now.,13,4.021,4.116,4.198,0.082
+google/gemma-2-2b-it,reader,At peace,novel,real, We buried her with her phone.,7,6.135,4.973,5.801,0.827
+google/gemma-2-2b-it,wellknown,At peace,novel,real, We buried her with her phone.,7,6.135,3.853,5.813,1.960
+google/gemma-2-2b-it,following,At peace,novel,real, We buried her with her phone.,7,6.135,4.842,6.026,1.184
+google/gemma-2-2b-it,terse,At peace,novel,real, We buried her with her phone.,7,6.135,4.583,5.560,0.977
+google/gemma-2-2b-it,funny,At peace,novel,real, We buried her with her phone.,7,6.135,5.448,5.840,0.391
+google/gemma-2-2b-it,reader,At peace,novel,incongruous, We sold her piano to a dentist.,8,7.603,6.839,7.482,0.644
+google/gemma-2-2b-it,wellknown,At peace,novel,incongruous, We sold her piano to a dentist.,8,7.603,6.176,7.636,1.461
+google/gemma-2-2b-it,following,At peace,novel,incongruous, We sold her piano to a dentist.,8,7.603,6.768,8.120,1.353
+google/gemma-2-2b-it,terse,At peace,novel,incongruous, We sold her piano to a dentist.,8,7.603,6.570,7.464,0.893
+google/gemma-2-2b-it,funny,At peace,novel,incongruous, We sold her piano to a dentist.,8,7.603,7.230,7.580,0.349
+google/gemma-2-2b-it,reader,At peace,novel,literal, She now video calls us every week.,8,4.411,4.610,4.643,0.033
+google/gemma-2-2b-it,wellknown,At peace,novel,literal, She now video calls us every week.,8,4.411,5.770,4.481,-1.288
+google/gemma-2-2b-it,following,At peace,novel,literal, She now video calls us every week.,8,4.411,4.920,4.584,-0.336
+google/gemma-2-2b-it,terse,At peace,novel,literal, She now video calls us every week.,8,4.411,4.939,4.444,-0.496
+google/gemma-2-2b-it,funny,At peace,novel,literal, She now video calls us every week.,8,4.411,4.300,4.350,0.050
+google/gemma-2-2b-it,reader,Escape room,novel,real, The fire marshal's report said the same thing.,11,4.084,4.171,3.568,-0.603
+google/gemma-2-2b-it,wellknown,Escape room,novel,real, The fire marshal's report said the same thing.,11,4.084,4.265,3.622,-0.643
+google/gemma-2-2b-it,following,Escape room,novel,real, The fire marshal's report said the same thing.,11,4.084,4.180,3.797,-0.383
+google/gemma-2-2b-it,terse,Escape room,novel,real, The fire marshal's report said the same thing.,11,4.084,4.158,3.950,-0.208
+google/gemma-2-2b-it,funny,Escape room,novel,real, The fire marshal's report said the same thing.,11,4.084,3.847,3.668,-0.179
+google/gemma-2-2b-it,reader,Escape room,novel,incongruous, The dentist's newsletter said the same thing.,10,5.341,5.920,5.373,-0.547
+google/gemma-2-2b-it,wellknown,Escape room,novel,incongruous, The dentist's newsletter said the same thing.,10,5.341,5.948,5.422,-0.526
+google/gemma-2-2b-it,following,Escape room,novel,incongruous, The dentist's newsletter said the same thing.,10,5.341,6.004,5.545,-0.460
+google/gemma-2-2b-it,terse,Escape room,novel,incongruous, The dentist's newsletter said the same thing.,10,5.341,5.844,5.478,-0.366
+google/gemma-2-2b-it,funny,Escape room,novel,incongruous, The dentist's newsletter said the same thing.,10,5.341,5.460,5.327,-0.133
+google/gemma-2-2b-it,reader,Escape room,novel,literal, We solved every puzzle in under twenty minutes.,9,3.297,3.475,3.468,-0.007
+google/gemma-2-2b-it,wellknown,Escape room,novel,literal, We solved every puzzle in under twenty minutes.,9,3.297,3.814,3.335,-0.479
+google/gemma-2-2b-it,following,Escape room,novel,literal, We solved every puzzle in under twenty minutes.,9,3.297,3.756,3.768,0.012
+google/gemma-2-2b-it,terse,Escape room,novel,literal, We solved every puzzle in under twenty minutes.,9,3.297,3.959,3.605,-0.354
+google/gemma-2-2b-it,funny,Escape room,novel,literal, We solved every puzzle in under twenty minutes.,9,3.297,3.579,3.312,-0.267
+google/gemma-2-2b-it,reader,Inherited humour,novel,real, He still wants it back.,6,6.718,5.729,6.303,0.575
+google/gemma-2-2b-it,wellknown,Inherited humour,novel,real, He still wants it back.,6,6.718,6.216,6.535,0.319
+google/gemma-2-2b-it,following,Inherited humour,novel,real, He still wants it back.,6,6.718,6.407,7.063,0.657
+google/gemma-2-2b-it,terse,Inherited humour,novel,real, He still wants it back.,6,6.718,6.311,6.339,0.028
+google/gemma-2-2b-it,funny,Inherited humour,novel,real, He still wants it back.,6,6.718,5.725,6.125,0.400
+google/gemma-2-2b-it,reader,Inherited humour,novel,incongruous, He still owes me a kettle.,7,7.091,6.447,6.850,0.403
+google/gemma-2-2b-it,wellknown,Inherited humour,novel,incongruous, He still owes me a kettle.,7,7.091,7.012,7.181,0.169
+google/gemma-2-2b-it,following,Inherited humour,novel,incongruous, He still owes me a kettle.,7,7.091,6.870,7.445,0.575
+google/gemma-2-2b-it,terse,Inherited humour,novel,incongruous, He still owes me a kettle.,7,7.091,6.924,6.899,-0.025
+google/gemma-2-2b-it,funny,Inherited humour,novel,incongruous, He still owes me a kettle.,7,7.091,6.209,6.961,0.751
+google/gemma-2-2b-it,reader,Inherited humour,novel,literal, He was always making us laugh.,7,2.890,2.868,2.819,-0.049
+google/gemma-2-2b-it,wellknown,Inherited humour,novel,literal, He was always making us laugh.,7,2.890,3.292,2.881,-0.411
+google/gemma-2-2b-it,following,Inherited humour,novel,literal, He was always making us laugh.,7,2.890,2.755,2.581,-0.174
+google/gemma-2-2b-it,terse,Inherited humour,novel,literal, He was always making us laugh.,7,2.890,3.223,2.898,-0.326
+google/gemma-2-2b-it,funny,Inherited humour,novel,literal, He was always making us laugh.,7,2.890,2.948,3.006,0.057
+google/gemma-2-2b-it,reader,Vacuum song,novel,real, It really sucked.,4,6.565,4.680,5.652,0.972
+google/gemma-2-2b-it,wellknown,Vacuum song,novel,real, It really sucked.,4,6.565,4.138,5.455,1.317
+google/gemma-2-2b-it,following,Vacuum song,novel,real, It really sucked.,4,6.565,4.390,5.123,0.733
+google/gemma-2-2b-it,terse,Vacuum song,novel,real, It really sucked.,4,6.565,4.373,6.374,2.001
+google/gemma-2-2b-it,funny,Vacuum song,novel,real, It really sucked.,4,6.565,5.500,6.706,1.206
+google/gemma-2-2b-it,reader,Vacuum song,novel,incongruous, It really sneezed.,5,8.682,7.583,8.335,0.752
+google/gemma-2-2b-it,wellknown,Vacuum song,novel,incongruous, It really sneezed.,5,8.682,7.157,8.150,0.993
+google/gemma-2-2b-it,following,Vacuum song,novel,incongruous, It really sneezed.,5,8.682,7.592,7.969,0.377
+google/gemma-2-2b-it,terse,Vacuum song,novel,incongruous, It really sneezed.,5,8.682,7.765,8.541,0.777
+google/gemma-2-2b-it,funny,Vacuum song,novel,incongruous, It really sneezed.,5,8.682,7.913,8.506,0.593
+google/gemma-2-2b-it,reader,Vacuum song,novel,literal, It was quite short.,5,5.004,4.477,4.702,0.225
+google/gemma-2-2b-it,wellknown,Vacuum song,novel,literal, It was quite short.,5,5.004,4.415,4.297,-0.119
+google/gemma-2-2b-it,following,Vacuum song,novel,literal, It was quite short.,5,5.004,5.018,4.299,-0.719
+google/gemma-2-2b-it,terse,Vacuum song,novel,literal, It was quite short.,5,5.004,5.061,4.328,-0.733
+google/gemma-2-2b-it,funny,Vacuum song,novel,literal, It was quite short.,5,5.004,4.829,4.549,-0.280
+google/gemma-2-2b-it,reader,Elevator job,novel,real, She says the job has its ups and downs.,10,3.355,2.774,4.120,1.347
+google/gemma-2-2b-it,wellknown,Elevator job,novel,real, She says the job has its ups and downs.,10,3.355,2.824,3.808,0.984
+google/gemma-2-2b-it,following,Elevator job,novel,real, She says the job has its ups and downs.,10,3.355,2.954,3.673,0.719
+google/gemma-2-2b-it,terse,Elevator job,novel,real, She says the job has its ups and downs.,10,3.355,2.874,3.811,0.937
+google/gemma-2-2b-it,funny,Elevator job,novel,real, She says the job has its ups and downs.,10,3.355,3.729,3.902,0.173
+google/gemma-2-2b-it,reader,Elevator job,novel,incongruous, She says the job has its forks and spoons.,10,5.854,6.111,6.447,0.336
+google/gemma-2-2b-it,wellknown,Elevator job,novel,incongruous, She says the job has its forks and spoons.,10,5.854,6.298,6.122,-0.176
+google/gemma-2-2b-it,following,Elevator job,novel,incongruous, She says the job has its forks and spoons.,10,5.854,6.193,6.276,0.083
+google/gemma-2-2b-it,terse,Elevator job,novel,incongruous, She says the job has its forks and spoons.,10,5.854,6.233,6.339,0.105
+google/gemma-2-2b-it,funny,Elevator job,novel,incongruous, She says the job has its forks and spoons.,10,5.854,6.460,6.147,-0.313
+google/gemma-2-2b-it,reader,Elevator job,novel,literal, She says the job pays quite well.,8,5.190,4.644,5.786,1.142
+google/gemma-2-2b-it,wellknown,Elevator job,novel,literal, She says the job pays quite well.,8,5.190,4.419,5.375,0.956
+google/gemma-2-2b-it,following,Elevator job,novel,literal, She says the job pays quite well.,8,5.190,4.760,5.221,0.461
+google/gemma-2-2b-it,terse,Elevator job,novel,literal, She says the job pays quite well.,8,5.190,4.736,5.729,0.993
+google/gemma-2-2b-it,funny,Elevator job,novel,literal, She says the job pays quite well.,8,5.190,5.970,5.692,-0.277
+google/gemma-2-2b-it,reader,Power plant,novel,real, I'm hoping for a power plant.,9,3.552,3.551,4.316,0.764
+google/gemma-2-2b-it,wellknown,Power plant,novel,real, I'm hoping for a power plant.,9,3.552,3.686,4.194,0.508
+google/gemma-2-2b-it,following,Power plant,novel,real, I'm hoping for a power plant.,9,3.552,3.503,4.255,0.751
+google/gemma-2-2b-it,terse,Power plant,novel,real, I'm hoping for a power plant.,9,3.552,3.460,3.654,0.194
+google/gemma-2-2b-it,funny,Power plant,novel,real, I'm hoping for a power plant.,9,3.552,3.906,3.863,-0.043
+google/gemma-2-2b-it,reader,Power plant,novel,incongruous, I'm hoping for a quiet Tuesday.,9,4.800,5.100,4.943,-0.157
+google/gemma-2-2b-it,wellknown,Power plant,novel,incongruous, I'm hoping for a quiet Tuesday.,9,4.800,5.018,5.072,0.054
+google/gemma-2-2b-it,following,Power plant,novel,incongruous, I'm hoping for a quiet Tuesday.,9,4.800,5.059,5.527,0.468
+google/gemma-2-2b-it,terse,Power plant,novel,incongruous, I'm hoping for a quiet Tuesday.,9,4.800,4.964,4.966,0.003
+google/gemma-2-2b-it,funny,Power plant,novel,incongruous, I'm hoping for a quiet Tuesday.,9,4.800,4.573,5.225,0.652
+google/gemma-2-2b-it,reader,Power plant,novel,literal, I'm not sure why I did.,9,2.000,2.928,2.260,-0.668
+google/gemma-2-2b-it,wellknown,Power plant,novel,literal, I'm not sure why I did.,9,2.000,3.303,2.374,-0.929
+google/gemma-2-2b-it,following,Power plant,novel,literal, I'm not sure why I did.,9,2.000,2.874,2.463,-0.412
+google/gemma-2-2b-it,terse,Power plant,novel,literal, I'm not sure why I did.,9,2.000,3.025,2.142,-0.883
+google/gemma-2-2b-it,funny,Power plant,novel,literal, I'm not sure why I did.,9,2.000,2.136,2.104,-0.032
+google/gemma-2-2b-it,reader,Limit,novel,real, She said she was already approaching her limit.,9,4.609,4.310,4.647,0.338
+google/gemma-2-2b-it,wellknown,Limit,novel,real, She said she was already approaching her limit.,9,4.609,4.824,4.610,-0.214
+google/gemma-2-2b-it,following,Limit,novel,real, She said she was already approaching her limit.,9,4.609,4.456,4.991,0.535
+google/gemma-2-2b-it,terse,Limit,novel,real, She said she was already approaching her limit.,9,4.609,4.468,4.423,-0.046
+google/gemma-2-2b-it,funny,Limit,novel,real, She said she was already approaching her limit.,9,4.609,4.673,4.505,-0.168
+google/gemma-2-2b-it,reader,Limit,novel,incongruous, She said she was already approaching her cousin.,9,6.932,6.357,6.806,0.449
+google/gemma-2-2b-it,wellknown,Limit,novel,incongruous, She said she was already approaching her cousin.,9,6.932,7.028,6.821,-0.208
+google/gemma-2-2b-it,following,Limit,novel,incongruous, She said she was already approaching her cousin.,9,6.932,6.641,7.383,0.743
+google/gemma-2-2b-it,terse,Limit,novel,incongruous, She said she was already approaching her cousin.,9,6.932,6.724,6.711,-0.013
+google/gemma-2-2b-it,funny,Limit,novel,incongruous, She said she was already approaching her cousin.,9,6.932,6.808,6.687,-0.121
+google/gemma-2-2b-it,reader,Limit,novel,literal, She said she was already completely full.,8,3.860,3.594,4.094,0.499
+google/gemma-2-2b-it,wellknown,Limit,novel,literal, She said she was already completely full.,8,3.860,3.691,3.886,0.195
+google/gemma-2-2b-it,following,Limit,novel,literal, She said she was already completely full.,8,3.860,3.572,3.968,0.396
+google/gemma-2-2b-it,terse,Limit,novel,literal, She said she was already completely full.,8,3.860,3.474,3.671,0.197
+google/gemma-2-2b-it,funny,Limit,novel,literal, She said she was already completely full.,8,3.860,3.989,3.888,-0.101
+google/gemma-2-2b-it,reader,WiFi therapy,novel,real, It had connection issues.,5,5.524,4.794,5.384,0.590
+google/gemma-2-2b-it,wellknown,WiFi therapy,novel,real, It had connection issues.,5,5.524,4.693,5.107,0.414
+google/gemma-2-2b-it,following,WiFi therapy,novel,real, It had connection issues.,5,5.524,4.922,5.238,0.316
+google/gemma-2-2b-it,terse,WiFi therapy,novel,real, It had connection issues.,5,5.524,4.891,5.242,0.351
+google/gemma-2-2b-it,funny,WiFi therapy,novel,real, It had connection issues.,5,5.524,5.392,5.190,-0.202
+google/gemma-2-2b-it,reader,WiFi therapy,novel,incongruous, It had elbow issues.,5,6.745,6.681,6.891,0.210
+google/gemma-2-2b-it,wellknown,WiFi therapy,novel,incongruous, It had elbow issues.,5,6.745,7.018,6.413,-0.605
+google/gemma-2-2b-it,following,WiFi therapy,novel,incongruous, It had elbow issues.,5,6.745,7.041,6.995,-0.046
+google/gemma-2-2b-it,terse,WiFi therapy,novel,incongruous, It had elbow issues.,5,6.745,7.158,6.576,-0.583
+google/gemma-2-2b-it,funny,WiFi therapy,novel,incongruous, It had elbow issues.,5,6.745,6.842,6.357,-0.485
+google/gemma-2-2b-it,reader,WiFi therapy,novel,literal, It had been struggling lately.,6,3.398,4.058,3.202,-0.855
+google/gemma-2-2b-it,wellknown,WiFi therapy,novel,literal, It had been struggling lately.,6,3.398,4.411,2.769,-1.642
+google/gemma-2-2b-it,following,WiFi therapy,novel,literal, It had been struggling lately.,6,3.398,3.839,3.295,-0.543
+google/gemma-2-2b-it,terse,WiFi therapy,novel,literal, It had been struggling lately.,6,3.398,4.200,3.675,-0.525
+google/gemma-2-2b-it,funny,WiFi therapy,novel,literal, It had been struggling lately.,6,3.398,3.342,3.125,-0.217
+google/gemma-2-2b-it,reader,Glacier,novel,real, It just goes with the floe.,8,5.408,4.975,5.480,0.505
+google/gemma-2-2b-it,wellknown,Glacier,novel,real, It just goes with the floe.,8,5.408,5.231,5.261,0.031
+google/gemma-2-2b-it,following,Glacier,novel,real, It just goes with the floe.,8,5.408,5.182,5.366,0.184
+google/gemma-2-2b-it,terse,Glacier,novel,real, It just goes with the floe.,8,5.408,5.602,5.363,-0.238
+google/gemma-2-2b-it,funny,Glacier,novel,real, It just goes with the floe.,8,5.408,5.065,5.173,0.108
+google/gemma-2-2b-it,reader,Glacier,novel,incongruous, It just hums with the goats.,8,6.310,6.951,7.006,0.055
+google/gemma-2-2b-it,wellknown,Glacier,novel,incongruous, It just hums with the goats.,8,6.310,7.305,6.501,-0.804
+google/gemma-2-2b-it,following,Glacier,novel,incongruous, It just hums with the goats.,8,6.310,7.252,6.840,-0.412
+google/gemma-2-2b-it,terse,Glacier,novel,incongruous, It just hums with the goats.,8,6.310,7.721,6.739,-0.983
+google/gemma-2-2b-it,funny,Glacier,novel,incongruous, It just hums with the goats.,8,6.310,6.838,6.785,-0.053
+google/gemma-2-2b-it,reader,Glacier,novel,literal, It just moves very slowly.,6,4.995,5.367,5.283,-0.084
+google/gemma-2-2b-it,wellknown,Glacier,novel,literal, It just moves very slowly.,6,4.995,5.437,4.626,-0.811
+google/gemma-2-2b-it,following,Glacier,novel,literal, It just moves very slowly.,6,4.995,5.319,4.715,-0.604
+google/gemma-2-2b-it,terse,Glacier,novel,literal, It just moves very slowly.,6,4.995,6.049,5.086,-0.963
+google/gemma-2-2b-it,funny,Glacier,novel,literal, It just moves very slowly.,6,4.995,5.305,5.126,-0.178

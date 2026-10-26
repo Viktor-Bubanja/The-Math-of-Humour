@@ -1,7 +1,8 @@
-"""Small-sample group comparisons: Mann-Whitney U, Cliff's delta, bootstrap CI."""
+"""Small-sample comparisons with bootstrap CIs: independent groups (Mann-Whitney U,
+Cliff's delta) and matched pairs (Wilcoxon signed-rank, rank-biserial)."""
 
 import numpy as np
-from scipy.stats import mannwhitneyu
+from scipy.stats import mannwhitneyu, rankdata, wilcoxon
 
 
 def cliffs_delta(a, b) -> float:
@@ -27,6 +28,26 @@ def compare(a, b, ci=False) -> dict:
     if ci:
         out["ci"] = bootstrap_ci_delta(a, b)
     return out
+
+
+def rank_biserial(diffs) -> float:
+    """Matched-pairs rank-biserial correlation: (R+ - R-) / (R+ + R-), zero differences dropped.
+    +1 = every pair favours the first condition."""
+    d = np.asarray(diffs, dtype=float)
+    d = d[d != 0]
+    ranks = rankdata(np.abs(d))
+    return (ranks[d > 0].sum() - ranks[d < 0].sum()) / ranks.sum()
+
+
+def paired_compare(a, b, n_boot=5000, seed=7) -> dict:
+    """Two-sided Wilcoxon signed-rank on a - b (paired by index), with the median
+    difference, rank-biserial r and a 95% bootstrap CI for the median that resamples pairs."""
+    d = np.asarray(a, dtype=float) - np.asarray(b, dtype=float)
+    stat, p = wilcoxon(d, alternative="two-sided")
+    rng = np.random.default_rng(seed)
+    medians = np.median(d[rng.integers(0, len(d), (n_boot, len(d)))], axis=1)
+    return dict(n=len(d), w=stat, p=p, median=np.median(d), r=rank_biserial(d),
+                ci=(np.percentile(medians, 2.5), np.percentile(medians, 97.5)))
 
 
 def describe(values) -> str:

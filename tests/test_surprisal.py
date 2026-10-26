@@ -3,8 +3,8 @@ import math
 import pytest
 import torch
 
-from humour.corpus import ABSURDIST, ITEMS, NOVEL_JOKES
-from humour.stats import cliffs_delta
+from humour.corpus import ABSURDIST, FAMOUS_JOKES, FOILS, ITEMS, NOVEL_JOKES
+from humour.stats import cliffs_delta, paired_compare, rank_biserial
 from humour.surprisal import bos_ids, continuation_surprisals, load, punchline_surprisal
 
 # Every prefix any experiment uses ("" = no frame).
@@ -15,7 +15,8 @@ FRAMES = [
     "You are about to read a joke. ", "You are about to read a factual memo. ",
     "The following text is absurdist anti-humour, a deliberate performance of nonsense.\n",
 ]
-TEXTS = [(s, p) for _, _, s, p in ITEMS + NOVEL_JOKES] + [(s, p) for _, s, p in ABSURDIST]
+TEXTS = ([(s, p) for _, _, s, p in ITEMS + NOVEL_JOKES] + [(s, p) for _, s, p in ABSURDIST]
+         + [(s, foil) for n, _, s, _ in FAMOUS_JOKES + NOVEL_JOKES for foil in FOILS[n]])
 
 
 @pytest.fixture(scope="module")
@@ -70,3 +71,11 @@ def test_cliffs_delta():
     assert cliffs_delta([3, 4], [1, 2]) == 1
     assert cliffs_delta([1, 2], [3, 4]) == -1
     assert cliffs_delta([1, 2], [1, 2]) == 0
+
+
+def test_paired_stats():
+    assert rank_biserial([1, 2, 3]) == 1
+    assert rank_biserial([-1, -2, 3]) == pytest.approx((3 - 3) / 6)
+    c = paired_compare([5, 6, 7, 8, 9, 10], [1, 1, 1, 1, 1, 1])
+    assert c["median"] == 6.5 and c["r"] == 1 and c["ci"][0] > 0
+
