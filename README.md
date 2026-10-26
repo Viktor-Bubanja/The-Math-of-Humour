@@ -8,8 +8,6 @@ The short version of what came out:
 - **In gemma-2-2b-it the frame favours punchlines that resolve the joke.** Swap a punchline for a matched foil that is at least as surprising but makes no sense of the setup, and the frame helps the foil less (E19). distilgpt2 shows the opposite, which suggests its frame effect is closer to "expect something odd".
 - **The surprisal spike itself doesn't mark a joke.** Peak height, spike sharpness, recovery speed and "context damage" don't separate jokes from prose at corpus scale (37 texts, three models); an early five-text result that suggested otherwise was a small-sample artifact.
 
-Everything is pilot-scale (dozens of texts, models up to 2.6B parameters). Read the results as a careful hobby experiment, not a benchmark.
-
 ## Results
 
 | # | Question | Model(s) | Result |
